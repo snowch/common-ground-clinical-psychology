@@ -1,0 +1,503 @@
+{
+  "method": "Additional independent transcription of flagged clips and chapter explanation samples; not listening approval.",
+  "clips": [
+    {
+      "id": "c01s03",
+      "expected": "Impairment: difficulty in important areas of functioning.\n\nClinical psychology examines patterns of difficulty and ways to assess and support people. Distress can be understandable in context and still deserve help.\n\nA brief behavioural change does not establish a disorder. Duration, severity, functioning, health and circumstances matter. This course teaches interpretation of evidence, not clinical practice.",
+      "heard": "Impairment, difficulty in important areas of functioning. Clinical psychology examines patterns of difficulty and ways to assess and support people. Distress can be understandable in context and still deserve help. A brief behavioral change does not establish a disorder. Duration, severity, functioning, health and circumstances matter. This course teaches interpretation of evidence, not clinical practice.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 27.945,
+      "wpm": 123.8,
+      "peak": 0.53076171875,
+      "flags": [],
+      "raw_sha256": "5cd35b3d0148e2a0f36aefad81ac17368c5ac83b6abdfb421ebe297a12fff213"
+    },
+    {
+      "id": "c01s03b",
+      "expected": "Diagnosis: classification based on clinical assessment and criteria. Differential assessment: considering alternative explanations.\n\nSimilar experiences can occur in different conditions or without a disorder. Physical illness, medication, sleep, bereavement and social adversity may be relevant.\n\nA qualified assessment considers alternatives, preferences and appropriate information. Do not diagnose yourself or another person from a course vignette or isolated symptom.",
+      "heard": "Diagnosis, classification based on clinical assessment and criteria. Differential assessment, considering alternative explanations. Similar experiences can occur in different conditions or without a disorder. Physical illness, medication, sleep, bereavement, and social adversity may be relevant. A qualified assessment considers alternatives, preferences, and appropriate information. Do not diagnose yourself or another person from a coarse vignette or isolated symptom.",
+      "ratio": 0.9828,
+      "model": "small.en",
+      "duration": 31.828,
+      "wpm": 114.0,
+      "peak": 0.5496826171875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "26f7b62f7ea113154226762789b8283c9dc43f206c8619ec28bdf5d7aa2dcefd"
+    },
+    {
+      "id": "c01s07-answers",
+      "expected": "Distress concerns unpleasant experience; impairment concerns affected functioning.\n\nPractical needs can be recognized without establishing a disorder.",
+      "heard": "Distress concerns unpleasant experience. Impairment concerns affected functioning. Practical needs can be recognized without establishing a disorder.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 10.695,
+      "wpm": 112.8,
+      "peak": 0.396087646484375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "e03f1a8526afd2fd5944901b389bc636653938342996390addead6c149fd1df9"
+    },
+    {
+      "id": "c02s02-feedback-0",
+      "expected": "Categories organize patterns without describing each person completely.",
+      "heard": "Categories organize patterns without describing each person completely.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.395,
+      "wpm": 109.2,
+      "peak": 0.39306640625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "f748bb3511e0e59a26db3b1e9599875b8e6908dc7dfe79c2c59e2f72391f9340"
+    },
+    {
+      "id": "c02s02-feedback-1",
+      "expected": "Within-category variation is clinically important.",
+      "heard": "within category variation is clinically important.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.115,
+      "wpm": 115.6,
+      "peak": 0.437774658203125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "03b348186477844f466ca0dd7025533e1782fe62b753e3961c2655594b43dcce"
+    },
+    {
+      "id": "c02s03",
+      "expected": "Diagnostic classification: system for grouping clinically relevant patterns. ICD: World Health Organization classification of diseases. DSM: American Psychiatric Association diagnostic manual.\n\nClassification systems provide shared language and specified criteria. Their editions and purposes matter, and professional use requires training.\n\nA category does not identify one unique biological cause or describe every aspect of a person. People within a category can differ in features, severity and support needs.",
+      "heard": "diagnostic classification, system for grouping clinically relevant patterns, IACEDI, World Health Organization Classification of Diseases, DSM, American Psychiatric Association diagnostic manual. Classification systems provide shared language and specified criteria. Their additions and purposes matter and professional use requires training. A category does not identify one unique biological cause or describe every aspect of a person. People within a category can differ in features, severity, and support needs.",
+      "ratio": 0.9701,
+      "model": "small.en",
+      "duration": 36.905,
+      "wpm": 112.9,
+      "peak": 0.6328125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "f646836b41c4df1ef1d2555a440a58c6a51a12b8f4de5f99d693c842797f5274"
+    },
+    {
+      "id": "c02s04",
+      "expected": "Diagnostic reliability: consistency of classification across suitable assessments. Diagnostic validity: support for the meaning and use of a category. Cultural formulation: understanding concerns in relevant cultural contexts.\n\nAgreement between clinicians is important, but agreement alone does not prove one underlying mechanism. Evidence must support the category’s intended use.\n\nLanguage, social context and cultural meaning affect assessment. Unusual behaviour relative to one group is not automatically a disorder.",
+      "heard": "diagnostic reliability, consistency of classification across suitable assessments, diagnostic validity, support for the meaning and use of a category, cultural formulation, understanding concerns in relevant cultural contexts. Agreement between clinicians is important, but agreement alone does not prove one underlying mechanism. Evidence must support the category's intended use. Language, social context, and cultural meaning affect assessment. Unusual behavior relative to one group is not automatically a disorder.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 36.479,
+      "wpm": 114.3,
+      "peak": 0.448577880859375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "49412845b3de3817069b2f50373d14df40bc9814c2e98ecf1c41c513c6088b32"
+    },
+    {
+      "id": "c02s05",
+      "expected": "ICD and DSM are evolving professional classification systems. They organize evidence and communication but have boundary, overlap and cultural interpretation issues.\n\nThe course does not reproduce a diagnostic checklist or establish competence to apply criteria.",
+      "heard": "ICD and DSM are evolving professional classification systems. They organize evidence and communication but have boundary, overlap, and cultural interpretation issues. The course does not reproduce a diagnostic checklist or establish competence to apply criteria.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 18.698,
+      "wpm": 116.4,
+      "peak": 0.485748291015625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "d4248c6b112d70781b3ef91883d10d028e3eb081c2d5f3fab6b27e41349f16dd"
+    },
+    {
+      "id": "c02s06-feedback-1",
+      "expected": "Agreement concerns reliability; interpretation requires additional evidence.",
+      "heard": "Agreement concerns reliability. Interpretation requires additional evidence.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 6.12,
+      "wpm": 82.0,
+      "peak": 0.393829345703125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "3155fcd0e28c3e675dc8254da78ef5b69351090b888d18ccf40a6595e0b6c7c2"
+    },
+    {
+      "id": "c03s03",
+      "expected": "Sensitivity: proportion of cases detected by a test. Specificity: proportion of non-cases correctly identified.\n\nScreening can help identify who may benefit from further assessment. A positive result can be a false positive, and a negative result does not rule out every concern.\n\nInterpretation depends on the tool, threshold, population and prevalence. A score cannot by itself explain the cause or determine a treatment.",
+      "heard": "Sensitivity, proportion of cases detected by a test. Specificity, proportion of non-cases correctly identified. Screening can help identify who may benefit from further assessment. A positive result can be a false positive and a negative result does not rule out every concern. Interpretation depends on the tool, threshold, population, and prevalence. A score cannot by itself explain the cause or determine a treatment.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 29.247,
+      "wpm": 137.4,
+      "peak": 0.539703369140625,
+      "flags": [],
+      "raw_sha256": "4364c8a34fa733b2f19f957fce93637371b4e0bde18dce0d37eae16d11db990f"
+    },
+    {
+      "id": "c03s03b",
+      "expected": "Clinical interview: structured or guided professional inquiry. Psychometric measure: standardized instrument measuring a defined construct. Clinical history: relevant course, context and prior care.\n\nA suitable assessment may combine interview, validated measures and other information with consent. Medical factors, safety, functioning and the person’s own goals can matter.\n\nA measure needs validation for its intended use and population. Collecting more scores does not automatically produce better understanding.",
+      "heard": "clinical interview, structured or guided professional inquiry, psychometric measure, standardized instrument measuring a defined construct, clinical history, relevant course, context, and prior care. A suitable assessment may combine interview, validated measures, and other information with consent. Medical factors, safety, functioning, and the person's own goals can matter. A measure needs validation for its intended use and population. Collecting more scores does not automatically produce better understanding.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 34.495,
+      "wpm": 119.3,
+      "peak": 0.54071044921875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "e64fa78a73189ba3b87a9b75a9647c79ae78ed02835f679f9aa9d18bb2790396"
+    },
+    {
+      "id": "c03s04",
+      "expected": "Predisposing factor: earlier condition that may increase vulnerability. Maintaining factor: process that may sustain a difficulty.\n\nA formulation links possible vulnerabilities, triggers, maintaining processes and protective resources. It should be developed collaboratively and revised when evidence changes.\n\nA coherent story is not automatically a proven cause. State alternatives and what would change the account. Diagnosis and formulation answer different, complementary questions.",
+      "heard": "Predisposing factor, earlier condition that may increase vulnerability. Maintaining factor, process that may sustain a difficulty. A formulation links possible vulnerabilities, triggers, maintaining processes, and protective resources. It should be developed collaboratively and revised when evidence changes. A coherent story is not automatically a proven cause. State alternatives and what would change the account. Diagnosis and formulation answer different complementary questions.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 33.172,
+      "wpm": 114.8,
+      "peak": 0.451141357421875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "cb3e93d9f14285ac74e8f23b651b2b036f0d12d97290fba7112a59571b569e44"
+    },
+    {
+      "id": "c04s02-feedback-1",
+      "expected": "The conclusion matches the observation and preserves alternatives.",
+      "heard": "The conclusion matches the observation and preserves alternatives.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.011,
+      "wpm": 119.7,
+      "peak": 0.374969482421875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "b05d1e566acb22505f43f30764709e3705f5675096dfd29334252ec2188619ea"
+    },
+    {
+      "id": "c04s03",
+      "expected": "Fear: response to an immediate perceived threat. Clinical significance: importance of a pattern for distress or functioning.\n\nThreat responses can support protection and preparation. Anxiety-related conditions involve patterns requiring professional assessment, rather than the presence of worry alone.\n\nDuration, intensity, impairment and context matter. A response to an unsafe or discriminatory environment should not be reduced to an internal defect.",
+      "heard": "Fear response to an immediate perceived threat, clinical significance, importance of a pattern for distress or functioning, threat responses can support protection and preparation, anxiety related conditions involve patterns requiring professional assessment rather than the presence of worry alone, duration, intensity, impairment and context matter. A response to an unsafe or discriminatory environment should not be reduced to an internal defect.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 30.548,
+      "wpm": 125.1,
+      "peak": 0.5145263671875,
+      "flags": [],
+      "raw_sha256": "5d8c2eaf3c423bcc4c919a3d506b20c6221e3f4607df42306e9a9d272a7ee826"
+    },
+    {
+      "id": "c04s04",
+      "expected": "Cognitive behavioural therapy: psychological therapy examining relevant thoughts, actions and experiences. Exposure-based treatment: planned contact with feared cues within an appropriate clinical treatment. Shared decision: care choice informed by evidence and preferences.\n\nGuidelines support particular psychological and medication options for assessed anxiety conditions. The appropriate choice depends on the condition and individual needs.\n\nExposure is not forcing someone into danger or conducting a course experiment. It requires an appropriate clinical plan, informed participation and attention to safety.",
+      "heard": "Cognitive behavioral therapy. Psychological therapy examining relevant thoughts, actions, and experiences. Exposure-based treatment. Planned contact with feared cues within an appropriate clinical treatment. Shared decision. Care choice informed by evidence and preferences. Guidelines support particular psychological and medication options for assessed anxiety conditions. The appropriate choice depends on the condition and individual needs. Exposure is not forcing someone into danger or conducting a course experiment. It requires an appropriate clinical plan, informed participation, and attention to safety.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 41.108,
+      "wpm": 117.6,
+      "peak": 0.47747802734375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "7a9e63f45acc39b8131dd4ff9cc313005ad9dc745464017f02757c7399223b34"
+    },
+    {
+      "id": "c04s06-feedback-2",
+      "expected": "Support can preserve agency while recognizing persistent difficulties.",
+      "heard": "Support can preserve agency while recognizing persistent difficulties.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 5.416,
+      "wpm": 108.7,
+      "peak": 0.49237060546875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "cf966e882f1a28a428f10e02a3524a146993534265fe1dc5b47368cd5c704006"
+    },
+    {
+      "id": "c05s02-feedback-0",
+      "expected": "The advice oversimplifies a potentially important difficulty.",
+      "heard": "The advice oversimplifies a potentially important difficulty.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.712,
+      "wpm": 113.1,
+      "peak": 0.43511962890625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "556299ba9322615c4985d88da5c681ba84670a84a293d6407feaacbe35fba1e1"
+    },
+    {
+      "id": "c05s03",
+      "expected": "Low mood: an unpleasant emotional state. Anhedonia: reduced interest or pleasure. Depressive syndrome: a clinically assessed pattern of mood and related difficulties.\n\nDepression involves patterns across experience and functioning, not sadness alone. Health, medication, sleep, bereavement and other conditions may be relevant.\n\nPersistent loss of interest or marked change deserves attention. A friend can offer support, but cannot establish the diagnosis or its cause from a short conversation.",
+      "heard": "low mood, an unpleasant emotional state, anhedonia, reduced interest or pleasure, depressive syndrome, a clinically assessed pattern of mood and related difficulties. Depression involves patterns across experience and functioning, not sadness alone. Health, medication, sleep, bereavement, and other conditions may be relevant. Persistent loss of interest or marked change deserves attention. A friend can offer support, but cannot establish the diagnosis or its cause from a short conversation.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 33.684,
+      "wpm": 126.0,
+      "peak": 0.41741943359375,
+      "flags": [],
+      "raw_sha256": "e7dd4d30b696c07d4d6f6797bbb7914cca96d5abb81362b97678756b8e8b9365"
+    },
+    {
+      "id": "c05s04",
+      "expected": "Treatment preference: the person’s informed view of available options. Monitoring: reviewing benefit, burden and changes over time.\n\nProfessional guidelines include psychological and medication options under specified conditions. Behavioural activation is a structured treatment, not a demand to be busy or cheerful.\n\nChoice should consider severity, prior response, preferences, access and possible harms. Starting, stopping or changing medication requires appropriate professional advice.",
+      "heard": "treatment preference, the person's informed view of available options, monitoring, reviewing benefit, burden, and changes over time. Professional guidelines include psychological and medication options under specified conditions. Behavioral activation is a structured treatment, not a demand to be busy or cheerful. Choice should consider severity, prior response, preferences, access, and possible harms. Starting, stopping, or changing medication requires appropriate professional advice.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 32.852,
+      "wpm": 116.0,
+      "peak": 0.5675048828125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "9e7ad9cb3c95c7ee1ae60d5e736ad7e24f27ad75b7c54d8c02fd3c616f6a4412"
+    },
+    {
+      "id": "c06s03",
+      "expected": "Traumatic event: event involving serious threat or harm as defined in a clinical context. Resilience: adaptation in the face of adversity, defined for an outcome and context.\n\nPeople respond differently after frightening or traumatic events. Some experience persistent difficulties; others recover along varied pathways.\n\nExposure alone does not establish post-traumatic stress disorder. Nor does apparent functioning reveal the absence of distress. Ask what support is wanted without demanding an account.",
+      "heard": "Traumatic event, event involving serious threat or harm as defined in a clinical context. Resilience, adaptation in the face of adversity defined for an outcome and context. People respond differently after frightening or traumatic events. Some experience persistent difficulties, others recover along varied pathways. Exposure alone does not establish post-traumatic stress disorder, nor does apparent functioning Reveal the absence of distress. Ask what support is wanted without demanding an account.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 34.559,
+      "wpm": 128.1,
+      "peak": 0.545867919921875,
+      "flags": [],
+      "raw_sha256": "a3980f0d418faff8254ffef54bd99f0672aeb09d3e4b55dc50c5fdcc61deb3e7"
+    },
+    {
+      "id": "c06s04",
+      "expected": "Trauma-informed approach: support emphasizing safety, choice and avoidance of retraumatization. Disclosure: sharing personal information. Trauma-focused treatment: professional treatment addressing trauma-related difficulties.\n\nOffer practical safety, predictable choices and privacy. Let the person decide what to share and avoid pressuring a detailed retelling.\n\nEvidence-based trauma treatments require suitable assessment and professional delivery. A supportive conversation is different from attempting trauma therapy in a workshop.",
+      "heard": "trauma-informed approach, support emphasizing safety, choice, and avoidance of retraumatization, disclosure, sharing personal information, trauma-focused treatment, professional treatment addressing trauma-related difficulties, offer practical safety, predictable choices, and privacy. Let the person decide what to share and avoid pressuring a detailed retelling. Evidence-based trauma treatments requires suitable assessment and professional delivery. A supportive conversation is different from attempting trauma therapy in a workshop.",
+      "ratio": 0.9848,
+      "model": "small.en",
+      "duration": 35.54,
+      "wpm": 115.7,
+      "peak": 0.473876953125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "0351d1b89cefa14ee82dc08ca98c758ee0b29586e0a4c56f7947ac49061e084b"
+    },
+    {
+      "id": "c06s06-feedback-1",
+      "expected": "A response is not a unique record of an event.",
+      "heard": "A response is not a unique record of an event.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.859,
+      "wpm": 209.9,
+      "peak": 0.3358154296875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "0f6ee90578b6b9cb21e94376a5f86cc37e45dc505e1cf3e58eea40c50b6fb1ae"
+    },
+    {
+      "id": "c07s02-feedback-0",
+      "expected": "The labels stigmatize and misdescribe the clinical concepts.",
+      "heard": "The labels stigmatize and mis-describe the clinical concepts.",
+      "ratio": 0.8235,
+      "model": "small.en",
+      "duration": 3.776,
+      "wpm": 127.1,
+      "peak": 0.339996337890625,
+      "flags": [
+        "words"
+      ],
+      "raw_sha256": "e5008d5b42d02175eb90473629d6039aceb1bb56501bbd13753a6d27bd523a37"
+    },
+    {
+      "id": "c07s02-feedback-1",
+      "expected": "Beliefs need context and trained assessment.",
+      "heard": "beliefs need context and trained assessment.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 2.624,
+      "wpm": 137.2,
+      "peak": 0.420501708984375,
+      "flags": [],
+      "raw_sha256": "72938e7d299ea82cf671c0c26a3fffdb5e310a0d4e1b95c2526568479dcfda73"
+    },
+    {
+      "id": "c07s03",
+      "expected": "Psychosis: a clinical domain involving altered experiences such as hallucinations or delusions.\n\nPsychotic experiences can occur in several conditions and contexts. Clinical assessment considers health, substances, sleep, culture and the person’s account.\n\nA hallucination-like report does not uniquely identify schizophrenia. Unusual beliefs or disagreement alone do not establish a delusion, and diagnosis is not a judgment of a person’s worth.",
+      "heard": "Psychosis, a clinical domain involving altered experiences such as hallucinations or delusions. Psychotic experiences can occur in several conditions and contexts. Clinical assessment considers health, substances, sleep, culture, and the person's account. A hallucination-like report does not uniquely identify schizophrenia. Unusual beliefs or disagreement alone do not establish a delusion, and diagnosis is not a judgment of a person's worth.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 31.593,
+      "wpm": 120.8,
+      "peak": 0.5250244140625,
+      "flags": [],
+      "raw_sha256": "0e5034ae0f1c4aa27b796541d793d8b911f58c3208b0c682f819d9fda6cdef65"
+    },
+    {
+      "id": "c07s06-feedback-1",
+      "expected": "The response acknowledges distress without claiming diagnostic certainty.",
+      "heard": "The response acknowledges distress without claiming diagnostic certainty.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 5.395,
+      "wpm": 109.2,
+      "peak": 0.428497314453125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "b5b90ca2a4e991ef45b76cfca3d887130a8dafc2031d09e000902f1381670897"
+    },
+    {
+      "id": "c08s03",
+      "expected": "Psychotherapy: structured psychological treatment delivered within an appropriate professional relationship. Therapeutic alliance: collaborative working relationship in treatment. Treatment model: account guiding a method and its targets.\n\nTherapies differ in their proposed processes and methods. They also depend on collaboration, appropriate skills and a clear plan.\n\nA rationale explains why a treatment might help. It is distinct from evidence that the treatment helps a defined population with acceptable burdens and risks.",
+      "heard": "Psychotherapy, structured psychological treatment delivered within an appropriate professional relationship. Therapeutic alliance, collaborative working relationship in treatment. Treatment model, account guiding a method and its targets. Therapies differ in their proposed processes and methods. They also depend on collaboration, appropriate skills, and a clear plan. A rationale explains why a treatment might help. It is distinct from evidence that the treatment helps a defined population with acceptable burdens and risks.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 33.833,
+      "wpm": 129.1,
+      "peak": 0.522918701171875,
+      "flags": [],
+      "raw_sha256": "2e0160fbc98791084c288c70199c32bda566cfcb23a49dc4e54cdfdf1bd8bff8"
+    },
+    {
+      "id": "c08s03b",
+      "expected": "Cognitive behavioural approach: examines relevant patterns of thought, action and experience. Psychodynamic approach: examines recurring emotional and relational patterns. Humanistic approach: emphasizes subjective experience, relationship and personal meaning.\n\nThese broad traditions include diverse methods, and real practice can integrate elements. Condition-specific evidence and professional competence matter more than a simple label.\n\nDo not assume that every method under one umbrella is equally supported. Ask about the actual procedure and intended outcome.",
+      "heard": "Cognitive behavioral approach examines relevant patterns of thought, action, and experience. Psychodynamic approach examines recurring emotional and relational patterns. Humanistic approach emphasizes subjective experience, relationship, and personal meaning. These broad traditions include diverse methods and real practice can integrate elements. Condition specific evidence and professional competence matter more than a simple label. Do not assume that every method under one umbrella is equally supported. Ask about the actual procedure and intended outcome.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 38.356,
+      "wpm": 116.6,
+      "peak": 0.46929931640625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "0a7c4761d229c2af6d0020603e4cc6d66a53eb936012976bec75977ca1ef37d7"
+    },
+    {
+      "id": "c08s06-feedback-0",
+      "expected": "Informed participation includes monitoring and discussion.",
+      "heard": "Informed participation includes monitoring and discussion.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.776,
+      "wpm": 95.3,
+      "peak": 0.33587646484375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "3a73478760a0de8e77d1b750f7d171cb45a21896502eb3a0efc423c3e5c9e09b"
+    },
+    {
+      "id": "c08s07-answers",
+      "expected": "A rationale proposes a mechanism; efficacy evidence tests outcomes under defined conditions.\n\nMethods, training, populations and evidence vary within broad approaches.",
+      "heard": "A rationale proposes a mechanism. Efficacy evidence tests outcomes under defined conditions. Methods, training, populations, and evidence vary within broad approaches.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 12.381,
+      "wpm": 117.4,
+      "peak": 0.462554931640625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "307d0915c201eb3805ed707d70b0f188bf08de1438079a3842b0c751f7a47fc1"
+    },
+    {
+      "id": "c09s03",
+      "expected": "Randomized controlled trial: study assigning participants by chance to comparison conditions. Placebo effect: change related to treatment context rather than a specific active component. Blinding: limiting knowledge of allocation where feasible.\n\nRandom allocation helps reduce baseline differences between groups. Suitable comparisons examine the added effect of the tested treatment under the study conditions.\n\nMasking can be difficult in psychotherapy, and comparison quality matters. Improvement in both groups can reflect time, support, expectations and other factors.",
+      "heard": "Randomized controlled trial, study assigning participants by chance to comparison conditions. Placebo effect, change related to treatment context rather than a specific active component. Blinding, limiting knowledge of allocation were feasible. Random allocation helps reduce baseline differences between groups. Suitable comparisons examine the added effect of the tested treatment under the study conditions. Masking can be difficult in psychotherapy and comparison quality matters. Improvement in both groups can reflect time, support, expectations, and other factors.",
+      "ratio": 0.9867,
+      "model": "small.en",
+      "duration": 38.356,
+      "wpm": 121.4,
+      "peak": 0.557830810546875,
+      "flags": [],
+      "raw_sha256": "6ed42cfd04c0a0ec95007258c942fbbb484780d9daed27dd2e87ec4d9afe7175"
+    },
+    {
+      "id": "c09s05",
+      "expected": "Clinical evidence depends on sample selection, attrition, outcome reporting, comparator and duration. Statistical significance alone does not establish a worthwhile benefit.\n\nGuidelines synthesize evidence and clinical judgment for defined uses. Neither a trial nor this lesson provides an individual prescription.",
+      "heard": "Clinical evidence depends on sample selection, attrition, outcome reporting, comparator and duration. Statistical significance alone does not establish a worthwhile benefit. Guidelines synthesize evidence and clinical judgment for defined uses. Neither a trial nor this lesson provides an individual prescription.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 21.514,
+      "wpm": 115.0,
+      "peak": 0.554107666015625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "562a9a48fc1e06e34bf7d185a5c72a7918ee3262c3affcc35de5ef0ff15d9cbc"
+    },
+    {
+      "id": "c09s06-feedback-1",
+      "expected": "That is not the difference between the stated rates.",
+      "heard": "That is not the difference between the stated rates.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.624,
+      "wpm": 205.8,
+      "peak": 0.312957763671875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "c494809a4c7feb420b30d82a319dde91139796f9ff7b76ec37f8833a4d6d7091"
+    },
+    {
+      "id": "c10s02-feedback-2",
+      "expected": "Treatment needs assessment and individualized choice.",
+      "heard": "treatment needs assessment, and individualized choice.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.157,
+      "wpm": 114.0,
+      "peak": 0.36138916015625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "d805ded4642737ccbfa1e2709e74e48d36db41331009d7b91418c8aae3cc62f8"
+    },
+    {
+      "id": "c10s03",
+      "expected": "Care navigation: finding appropriate information and services. Stepped care: matching and reviewing support intensity according to need. Accessibility: whether suitable care can actually be reached and used.\n\nA primary-care professional or qualified mental-health service can help assess concerns and discuss options. Local pathways differ, and cost, language and waiting times affect access.\n\nFor immediate danger, use local emergency or urgent crisis services. Routine educational content is not an urgent-response service.",
+      "heard": "care navigation, finding appropriate information and services, stepped care, matching and reviewing support intensity according to need, accessibility, whether suitable care can actually be reached and used. A primary care professional or qualified mental health service can help assess concerns and discuss options. Local pathways differ and cost, language and waiting times affect access. For immediate danger, use local emergency or urgent crisis services. Routine educational content is not an urgent response service.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 35.583,
+      "wpm": 127.8,
+      "peak": 0.534423828125,
+      "flags": [],
+      "raw_sha256": "69f2e1f9125a694a4b5e340207e88d9a96150756e9a0cc0625c22f6a83cb7a7a"
+    },
+    {
+      "id": "c10s04",
+      "expected": "Biopsychosocial formulation: account considering biological, psychological and social influences. Recovery-oriented approach: support focused on meaningful life and the person’s goals. Professional boundary: limit protecting appropriate scope and roles.\n\nA useful clinical explanation connects a pattern, plausible processes, context and appropriate support. It remains open to alternative information and changing preferences.\n\nUse the course to read evidence and communicate more carefully. It does not qualify anyone to diagnose, assess risk or deliver treatment.",
+      "heard": "Biopsychosocial formulation, account considering biological, psychological, and social influences, recovery-oriented approach, support focused on meaningful life and the person's goals, professional boundary, limit protecting appropriate scope and roles. A useful clinical explanation connects a pattern, plausible processes, context, and appropriate support. It remains open to alternative information and changing preferences. Use the course to read evidence and communicate more carefully. It does not qualify anyone to diagnose, assess risk, or deliver treatment.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 38.975,
+      "wpm": 116.3,
+      "peak": 0.46368408203125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "004e048170ed538cd11c817afcd25a35cda5763a8dd746c38d0ad2d66d869e40"
+    },
+    {
+      "id": "c10s06-feedback-1",
+      "expected": "A course is not an urgent-care pathway.",
+      "heard": "A course is not an urgent care pathway.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.475,
+      "wpm": 194.0,
+      "peak": 0.325439453125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "207534d1f945cb18c96d03e360c4136594cf6def691166bc7f0896237056dfbf"
+    }
+  ]
+}

@@ -129,7 +129,7 @@
     "id": "c02s03",
     "step": "Chapter 2: Systems organize patterns of difficulty.",
     "text": "Diagnostic classification: system for grouping clinically relevant patterns. ICD: World Health Organization classification of diseases. DSM: American Psychiatric Association diagnostic manual.\n\nClassification systems provide shared language and specified criteria. Their editions and purposes matter, and professional use requires training.\n\nA category does not identify one unique biological cause or describe every aspect of a person. People within a category can differ in features, severity and support needs.",
-    "say": "Diagnostic classification: system for grouping clinically relevant patterns. ICD: World Health Organization classification of diseases. DSM: American Psychiatric Association diagnostic manual. [pause 0.65] Classification systems provide shared language and specified criteria. Their editions and purposes matter, and professional use requires training. [pause 0.65] A category does not identify one unique biological cause or describe every aspect of a person. People within a category can differ in features, severity and support needs."
+    "say": "Diagnostic classification: system for grouping clinically relevant patterns. [ICD](/ˌaɪˌsiːˈdiː/): World Health Organization classification of diseases. DSM: American Psychiatric Association diagnostic manual. [pause 0.65] Classification systems provide shared language and specified criteria. Their editions and purposes matter, and professional use requires training. [pause 0.65] A category does not identify one unique biological cause or describe every aspect of a person. People within a category can differ in features, severity and support needs."
   },
   {
     "id": "c02s03b",
@@ -525,7 +525,7 @@
     "id": "c06s04",
     "step": "Chapter 6: Safety and choice come first.",
     "text": "Trauma-informed approach: support emphasizing safety, choice and avoidance of retraumatization. Disclosure: sharing personal information. Trauma-focused treatment: professional treatment addressing trauma-related difficulties.\n\nOffer practical safety, predictable choices and privacy. Let the person decide what to share and avoid pressuring a detailed retelling.\n\nEvidence-based trauma treatments require suitable assessment and professional delivery. A supportive conversation is different from attempting trauma therapy in a workshop.",
-    "say": "Trauma-informed approach: support emphasizing safety, choice and avoidance of retraumatization. Disclosure: sharing personal information. Trauma-focused treatment: professional treatment addressing trauma-related difficulties. [pause 0.65] Offer practical safety, predictable choices and privacy. Let the person decide what to share and avoid pressuring a detailed retelling. [pause 0.65] Evidence-based trauma treatments require suitable assessment and professional delivery. A supportive conversation is different from attempting trauma therapy in a workshop."
+    "say": "Trauma-informed approach: support emphasizing safety, choice and avoidance of retraumatization. Disclosure: sharing personal information. Trauma-focused treatment: professional treatment addressing trauma-related difficulties. [pause 0.65] Offer practical safety, predictable choices and privacy. Let the person decide what to share and avoid pressuring a detailed retelling. [pause 0.65] Evidence-based trauma treatments [require](/ɹᵻkwˈaɪɚ/) suitable assessment and professional delivery. A supportive conversation is different from attempting trauma therapy in a workshop."
   },
   {
     "id": "c06s05",
@@ -782,8 +782,8 @@
   {
     "id": "c09s02-feedback-0",
     "step": "Chapter 9: feedback 1",
-    "text": "These details make the practical claim assessable.",
-    "say": "These details make the practical claim assessable."
+    "text": "These details help you evaluate the practical claim.",
+    "say": "These details help you evaluate the practical claim."
   },
   {
     "id": "c09s02-feedback-1",

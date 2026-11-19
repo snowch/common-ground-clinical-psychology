@@ -767,7 +767,7 @@ C. The assumption that all improvement is the active treatment.
 Choose an option before checking the feedback.
 
 c09s02-feedback-0 Chapter 9: feedback 1
-These details make the practical claim assessable.
+These details help you evaluate the practical claim.
 
 c09s02-feedback-1 Chapter 9: feedback 2
 Group results cannot guarantee an individual outcome.

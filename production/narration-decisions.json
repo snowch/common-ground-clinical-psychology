@@ -1,0 +1,22 @@
+{
+  "c01s03b": {
+    "raw_sha256": "26f7b62f7ea113154226762789b8283c9dc43f206c8619ec28bdf5d7aa2dcefd",
+    "accept": true,
+    "reason": "Course/coarse are exact homophones in this voice. The intended course vignette is supported by the phoneme trace and surrounding transcript; bounded waveform reviewed. Automated evidence; not human listening approval."
+  },
+  "c07s02-feedback-0": {
+    "raw_sha256": "e5008d5b42d02175eb90473629d6039aceb1bb56501bbd13753a6d27bd523a37",
+    "accept": true,
+    "reason": "The decoder hyphenates misdescribe as mis-describe, the same spoken word. Short feedback transcript agrees. Automated evidence; not human listening approval."
+  },
+  "c02s03": {
+    "raw_sha256": "f646836b41c4df1ef1d2555a440a58c6a51a12b8f4de5f99d693c842797f5274",
+    "accept": true,
+    "reason": "Regenerated ICD with explicit letter-name phonemes /ˌaɪˌsiːˈdiː/, correcting the default reading as a word. The additional decoder spells the spoken letter sequence phonetically as IACEDI. Editions/additions reflects a reduced unstressed initial vowel; the retained phoneme trace specifies editions and the rest of the passage agrees. Current waveform bounded. Automated evidence, not human listening approval."
+  },
+  "c06s04": {
+    "raw_sha256": "0351d1b89cefa14ee82dc08ca98c758ee0b29586e0a4c56f7947ac49061e084b",
+    "accept": true,
+    "reason": "The additional decoder adds s to require immediately before suitable. The explicit /ɹᵻkwˈaɪɚ/ and following s in suitable explain that boundary ambiguity; the prior cropped check correctly recovered treatments require suitable assessment. All remaining words agree; current phoneme trace and bounded waveform retained. Automated evidence, not human listening approval."
+  }
+}
