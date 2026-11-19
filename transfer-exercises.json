@@ -1,0 +1,172 @@
+{
+  "1": {
+    "prompt": "What should the course reader conclude?",
+    "options": [
+      "The symptom proves one disorder.",
+      "The person is responsible for fixing it alone.",
+      "Several explanations remain and suitable assessment may be useful."
+    ],
+    "correct": 2,
+    "feedback": [
+      "A symptom can occur in several clinical and non-clinical situations.",
+      "Care and practical support can be appropriate.",
+      "The conclusion respects uncertainty and the possible need for help."
+    ],
+    "context": "A person reports persistent difficulty that affects daily functioning, but no assessment has occurred.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "clinical-psychology-v1"
+  },
+  "2": {
+    "prompt": "What does the agreement establish most directly?",
+    "options": [
+      "A single biological cause.",
+      "Consistency under the assessed conditions.",
+      "The same treatment is best for every person."
+    ],
+    "correct": 1,
+    "feedback": [
+      "Reliability does not establish a unique mechanism.",
+      "Agreement concerns reliability; interpretation requires additional evidence.",
+      "Treatment depends on evidence, assessment and preferences."
+    ],
+    "context": "Two trained clinicians independently assign the same classification from suitable information.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "clinical-psychology-v1"
+  },
+  "3": {
+    "prompt": "What would strengthen the formulation?",
+    "options": [
+      "Keep the story unchanged because it sounds coherent.",
+      "Choose the most dramatic explanation.",
+      "Specify alternatives and evidence that would revise it."
+    ],
+    "correct": 2,
+    "feedback": [
+      "Coherence alone does not establish a cause.",
+      "Vividness is not evidence of accuracy.",
+      "A working account should be open to correction and collaboration."
+    ],
+    "context": "A professional proposes a possible maintaining process after discussing a person’s history and current difficulties.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "clinical-psychology-v1"
+  },
+  "4": {
+    "prompt": "What should the team do?",
+    "options": [
+      "Force participation as informal exposure.",
+      "Treat every concern as irrational.",
+      "Offer a respectful discussion and appropriate care routes if needed."
+    ],
+    "correct": 2,
+    "feedback": [
+      "Coercion is not appropriate treatment.",
+      "Some threats and constraints are real.",
+      "Support can preserve agency while recognizing persistent difficulties."
+    ],
+    "context": "A volunteer reports persistent anxiety affecting daily functioning and asks where to seek help.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "clinical-psychology-v1"
+  },
+  "5": {
+    "prompt": "Which description of behavioural activation is accurate?",
+    "options": [
+      "A requirement to be cheerful.",
+      "A structured treatment developed within suitable professional care.",
+      "A guarantee that activity fixes every cause of depression."
+    ],
+    "correct": 1,
+    "feedback": [
+      "The treatment is not a demand to display positive emotion.",
+      "Its use involves assessment, collaboration and appropriate planning.",
+      "No single treatment guarantees every outcome or removes all social barriers."
+    ],
+    "context": "A person hears that increasing activity is sometimes part of depression treatment.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "clinical-psychology-v1"
+  },
+  "6": {
+    "prompt": "Which response is appropriate?",
+    "options": [
+      "Recreate the sound as an informal test.",
+      "Infer the exact event from the reaction.",
+      "Ask about practical support without demanding details."
+    ],
+    "correct": 2,
+    "feedback": [
+      "A workshop is not a setting for unassessed exposure.",
+      "A response is not a unique record of an event.",
+      "The response preserves privacy and can address immediate needs."
+    ],
+    "context": "A person becomes distressed near a reminder and does not want to discuss the past event.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "clinical-psychology-v1"
+  },
+  "7": {
+    "prompt": "Which response is appropriate?",
+    "options": [
+      "Debate the experience until the person agrees.",
+      "Listen respectfully and support access to suitable care.",
+      "Assume diagnosis from a single sentence."
+    ],
+    "correct": 1,
+    "feedback": [
+      "Argument may not help and does not replace assessment.",
+      "The response acknowledges distress without claiming diagnostic certainty.",
+      "A short report leaves many alternatives and needs unknown."
+    ],
+    "context": "A person reports a distressing unusual experience and asks for help finding support.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "clinical-psychology-v1"
+  },
+  "8": {
+    "prompt": "What should the person be able to do?",
+    "options": [
+      "Raise concerns and review outcomes and alternatives.",
+      "Assume deterioration always proves progress.",
+      "Continue without information about goals or risks."
+    ],
+    "correct": 0,
+    "feedback": [
+      "Informed participation includes monitoring and discussion.",
+      "That can dismiss an important unwanted effect.",
+      "A meaningful plan needs information and choice."
+    ],
+    "context": "A person feels treatment is not helping and wants to discuss progress with their clinician.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "clinical-psychology-v1"
+  },
+  "9": {
+    "prompt": "How should the invented result be expressed?",
+    "options": [
+      "A twenty-percentage-point increase, alongside a doubled relative rate.",
+      "A two-percentage-point increase.",
+      "Guaranteed recovery for everyone."
+    ],
+    "correct": 0,
+    "feedback": [
+      "Forty minus twenty is twenty per hundred; forty is twice twenty.",
+      "That is not the difference between the stated rates.",
+      "Even the treatment group has many non-recoveries in the example."
+    ],
+    "context": "Using the invented rates, recovery rises from twenty to forty people per hundred.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "clinical-psychology-v1"
+  },
+  "10": {
+    "prompt": "What is the appropriate course response?",
+    "options": [
+      "Use local urgent or emergency services for immediate danger.",
+      "Wait to complete the educational chapters first.",
+      "Ask other learners to assess the risk."
+    ],
+    "correct": 0,
+    "feedback": [
+      "Urgent concerns need an appropriate timely local response.",
+      "A course is not an urgent-care pathway.",
+      "Peers are not a substitute for suitable crisis assessment."
+    ],
+    "context": "A fictional service user reports immediate danger and needs urgent help.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "clinical-psychology-v1"
+  }
+}

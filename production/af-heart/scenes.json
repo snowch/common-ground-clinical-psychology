@@ -1,0 +1,962 @@
+[
+  {
+    "id": "c01s01",
+    "step": "Chapter 1: Understand distress without turning it into a label",
+    "text": "Sam has a difficult week and becomes quiet at the café. Leo wants to name a disorder from that change. Maya asks what Sam is experiencing, what has changed and whether any support is wanted.",
+    "say": "Sam has a difficult week and becomes quiet at the café. Leo wants to name a disorder from that change. [Maya](/mˈaɪə/) asks what Sam is experiencing, what has changed and whether any support is wanted."
+  },
+  {
+    "id": "c01s02",
+    "step": "Chapter 1: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat is the best first response to Sam?\n\nA. Assign a diagnosis from the quietness.\n\nB. Ask respectfully about the change and wanted support.\n\nC. Dismiss distress unless a diagnosis is established.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What is the best first response to Sam? [pause 0.65] A. Assign a diagnosis from the quietness. [pause 0.65] B. Ask respectfully about the change and wanted support. [pause 0.65] C. Dismiss distress unless a diagnosis is established. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c01s02-feedback-0",
+    "step": "Chapter 1: feedback 1",
+    "text": "One behaviour does not establish a diagnosis.",
+    "say": "One behaviour does not establish a diagnosis."
+  },
+  {
+    "id": "c01s02-feedback-1",
+    "step": "Chapter 1: feedback 2",
+    "text": "This recognizes the concern while preserving choice and uncertainty.",
+    "say": "This recognizes the concern while preserving choice and uncertainty."
+  },
+  {
+    "id": "c01s02-feedback-2",
+    "step": "Chapter 1: feedback 3",
+    "text": "People can deserve support without a diagnostic label.",
+    "say": "People can deserve support without a diagnostic label."
+  },
+  {
+    "id": "c01s03",
+    "step": "Chapter 1: Clinical psychology studies difficulties and care.",
+    "text": "Impairment: difficulty in important areas of functioning.\n\nClinical psychology examines patterns of difficulty and ways to assess and support people. Distress can be understandable in context and still deserve help.\n\nA brief behavioural change does not establish a disorder. Duration, severity, functioning, health and circumstances matter. This course teaches interpretation of evidence, not clinical practice.",
+    "say": "Impairment: difficulty in important areas of functioning. [pause 0.65] Clinical psychology examines patterns of difficulty and ways to assess and support people. Distress can be understandable in context and still deserve help. [pause 0.65] A brief behavioural change does not establish a disorder. Duration, severity, functioning, health and circumstances matter. This course teaches interpretation of evidence, not clinical practice."
+  },
+  {
+    "id": "c01s03b",
+    "step": "Chapter 1: A diagnosis is a professional judgment.",
+    "text": "Diagnosis: classification based on clinical assessment and criteria. Differential assessment: considering alternative explanations.\n\nSimilar experiences can occur in different conditions or without a disorder. Physical illness, medication, sleep, bereavement and social adversity may be relevant.\n\nA qualified assessment considers alternatives, preferences and appropriate information. Do not diagnose yourself or another person from a course vignette or isolated symptom.",
+    "say": "Diagnosis: classification based on clinical assessment and criteria. Differential assessment: considering alternative explanations. [pause 0.65] Similar experiences can occur in different conditions or without a disorder. Physical illness, medication, sleep, bereavement and social adversity may be relevant. [pause 0.65] A qualified assessment considers alternatives, preferences and appropriate information. Do not diagnose yourself or another person from a course vignette or isolated symptom."
+  },
+  {
+    "id": "c01s04",
+    "step": "Chapter 1: Support does not require a label.",
+    "text": "Stigma: discrediting stereotypes or treatment of people. Person-centred care: care attentive to individual needs and preferences.\n\nAsk respectfully, listen and offer practical choices without forcing disclosure. A person may want time, a changed task or help finding professional support.\n\nAvoid treating a diagnosis as a complete identity. Persistent distress, impairment or safety concerns are reasons to seek appropriate care rather than debate labels informally.",
+    "say": "Stigma: discrediting stereotypes or treatment of people. Person-centred care: care attentive to individual needs and preferences. [pause 0.65] Ask respectfully, listen and offer practical choices without forcing disclosure. A person may want time, a changed task or help finding professional support. [pause 0.65] Avoid treating a diagnosis as a complete identity. Persistent distress, impairment or safety concerns are reasons to seek appropriate care rather than debate labels informally."
+  },
+  {
+    "id": "c01s05",
+    "step": "Chapter 1: What does the evidence allow?",
+    "text": "Classification helps communication and care when used with trained assessment. It does not divide all ordinary distress from disorder with one simple behavioural rule.\n\nThe fictional examples are educational and cannot diagnose, rule out a condition or substitute for professional care.",
+    "say": "Classification helps communication and care when used with trained assessment. It does not divide all ordinary distress from disorder with one simple behavioural rule. [pause 0.65] The fictional examples are educational and cannot diagnose, rule out a condition or substitute for professional care."
+  },
+  {
+    "id": "c01s06",
+    "step": "Chapter 1: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA person reports persistent difficulty that affects daily functioning, but no assessment has occurred.\n\nWhat should the course reader conclude?\n\nA. The symptom proves one disorder.\n\nB. The person is responsible for fixing it alone.\n\nC. Several explanations remain and suitable assessment may be useful.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A person reports persistent difficulty that affects daily functioning, but no assessment has occurred. [pause 0.65] What should the course reader conclude? [pause 0.65] A. The symptom proves one disorder. [pause 0.65] B. The person is responsible for fixing it alone. [pause 0.65] C. Several explanations remain and suitable assessment may be useful. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-0",
+    "step": "Chapter 1: feedback 1",
+    "text": "A symptom can occur in several clinical and non-clinical situations.",
+    "say": "A symptom can occur in several clinical and non-clinical situations. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-1",
+    "step": "Chapter 1: feedback 2",
+    "text": "Care and practical support can be appropriate.",
+    "say": "Care and practical support can be appropriate. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-2",
+    "step": "Chapter 1: feedback 3",
+    "text": "The conclusion respects uncertainty and the possible need for help.",
+    "say": "The conclusion respects uncertainty and the possible need for help. [pause 1.0]"
+  },
+  {
+    "id": "c01s07",
+    "step": "Chapter 1: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow do distress and impairment differ?\n\nWhy can support precede diagnosis?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How do distress and impairment differ? [pause 0.65] Why can support precede diagnosis? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c01s07-answers",
+    "step": "Chapter 1: recall answers",
+    "text": "Distress concerns unpleasant experience; impairment concerns affected functioning.\n\nPractical needs can be recognized without establishing a disorder.",
+    "say": "Distress concerns unpleasant experience; impairment concerns affected functioning. [pause 0.65] Practical needs can be recognized without establishing a disorder. [pause 1.0]"
+  },
+  {
+    "id": "c01s08",
+    "step": "Chapter 1: Take the idea into everyday life",
+    "text": "Use a fictional scene to write an open question and one practical support option without naming a diagnosis.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Use a fictional scene to write an open question and one practical support option without naming a diagnosis. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c02s01",
+    "step": "Chapter 2: Classification is a tool with limits",
+    "text": "Two people with the same diagnosis describe quite different difficulties. Leo says one must be mislabelled. Maya asks whether a category guarantees identical symptoms, causes or care needs.",
+    "say": "Two people with the same diagnosis describe quite different difficulties. Leo says one must be mislabelled. [Maya](/mˈaɪə/) asks whether a category guarantees identical symptoms, causes or care needs."
+  },
+  {
+    "id": "c02s02",
+    "step": "Chapter 2: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat explains different experiences within one diagnosis?\n\nA. A category can include varied patterns and severity.\n\nB. Every diagnosis guarantees identical symptoms.\n\nC. Variation proves classification has no use.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What explains different experiences within one diagnosis? [pause 0.65] A. A category can include varied patterns and severity. [pause 0.65] B. Every diagnosis guarantees identical symptoms. [pause 0.65] C. Variation proves classification has no use. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c02s02-feedback-0",
+    "step": "Chapter 2: feedback 1",
+    "text": "Categories organize patterns without describing each person completely.",
+    "say": "Categories organize patterns without describing each person completely."
+  },
+  {
+    "id": "c02s02-feedback-1",
+    "step": "Chapter 2: feedback 2",
+    "text": "Within-category variation is clinically important.",
+    "say": "Within-category variation is clinically important."
+  },
+  {
+    "id": "c02s02-feedback-2",
+    "step": "Chapter 2: feedback 3",
+    "text": "A tool can be useful while retaining limits.",
+    "say": "A tool can be useful while retaining limits."
+  },
+  {
+    "id": "c02s03",
+    "step": "Chapter 2: Systems organize patterns of difficulty.",
+    "text": "Diagnostic classification: system for grouping clinically relevant patterns. ICD: World Health Organization classification of diseases. DSM: American Psychiatric Association diagnostic manual.\n\nClassification systems provide shared language and specified criteria. Their editions and purposes matter, and professional use requires training.\n\nA category does not identify one unique biological cause or describe every aspect of a person. People within a category can differ in features, severity and support needs.",
+    "say": "Diagnostic classification: system for grouping clinically relevant patterns. ICD: World Health Organization classification of diseases. DSM: American Psychiatric Association diagnostic manual. [pause 0.65] Classification systems provide shared language and specified criteria. Their editions and purposes matter, and professional use requires training. [pause 0.65] A category does not identify one unique biological cause or describe every aspect of a person. People within a category can differ in features, severity and support needs."
+  },
+  {
+    "id": "c02s03b",
+    "step": "Chapter 2: Dimensions describe degree and variation.",
+    "text": "Dimensional approach: describing features along degrees or continua. Severity: degree of a defined difficulty. Comorbidity: co-occurrence of conditions or diagnoses.\n\nSome experiences vary by degree rather than falling into naturally separate boxes. Dimensional descriptions can supplement categories and track change.\n\nCo-occurring difficulties complicate a single-label explanation. An assessment should describe the pattern and its impact rather than count labels as a complete understanding.",
+    "say": "Dimensional approach: describing features along degrees or continua. Severity: degree of a defined difficulty. Comorbidity: co-occurrence of conditions or diagnoses. [pause 0.65] Some experiences vary by degree rather than falling into naturally separate boxes. Dimensional descriptions can supplement categories and track change. [pause 0.65] Co-occurring difficulties complicate a single-label explanation. An assessment should describe the pattern and its impact rather than count labels as a complete understanding."
+  },
+  {
+    "id": "c02s04",
+    "step": "Chapter 2: Reliability and validity are different questions.",
+    "text": "Diagnostic reliability: consistency of classification across suitable assessments. Diagnostic validity: support for the meaning and use of a category. Cultural formulation: understanding concerns in relevant cultural contexts.\n\nAgreement between clinicians is important, but agreement alone does not prove one underlying mechanism. Evidence must support the category’s intended use.\n\nLanguage, social context and cultural meaning affect assessment. Unusual behaviour relative to one group is not automatically a disorder.",
+    "say": "Diagnostic reliability: consistency of classification across suitable assessments. Diagnostic validity: support for the meaning and use of a category. Cultural formulation: understanding concerns in relevant cultural contexts. [pause 0.65] Agreement between clinicians is important, but agreement alone does not prove one underlying mechanism. Evidence must support the category’s intended use. [pause 0.65] Language, social context and cultural meaning affect assessment. Unusual behaviour relative to one group is not automatically a disorder."
+  },
+  {
+    "id": "c02s05",
+    "step": "Chapter 2: What does the evidence allow?",
+    "text": "ICD and DSM are evolving professional classification systems. They organize evidence and communication but have boundary, overlap and cultural interpretation issues.\n\nThe course does not reproduce a diagnostic checklist or establish competence to apply criteria.",
+    "say": "ICD and DSM are evolving professional classification systems. They organize evidence and communication but have boundary, overlap and cultural interpretation issues. [pause 0.65] The course does not reproduce a diagnostic checklist or establish competence to apply criteria."
+  },
+  {
+    "id": "c02s06",
+    "step": "Chapter 2: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nTwo trained clinicians independently assign the same classification from suitable information.\n\nWhat does the agreement establish most directly?\n\nA. A single biological cause.\n\nB. Consistency under the assessed conditions.\n\nC. The same treatment is best for every person.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] Two trained clinicians independently assign the same classification from suitable information. [pause 0.65] What does the agreement establish most directly? [pause 0.65] A. A single biological cause. [pause 0.65] B. Consistency under the assessed conditions. [pause 0.65] C. The same treatment is best for every person. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-0",
+    "step": "Chapter 2: feedback 1",
+    "text": "Reliability does not establish a unique mechanism.",
+    "say": "Reliability does not establish a unique mechanism. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-1",
+    "step": "Chapter 2: feedback 2",
+    "text": "Agreement concerns reliability; interpretation requires additional evidence.",
+    "say": "Agreement concerns reliability; interpretation requires additional evidence. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-2",
+    "step": "Chapter 2: feedback 3",
+    "text": "Treatment depends on evidence, assessment and preferences.",
+    "say": "Treatment depends on evidence, assessment and preferences. [pause 1.0]"
+  },
+  {
+    "id": "c02s07",
+    "step": "Chapter 2: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow does dimensional description add to a category?\n\nWhy does reliability not establish validity?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How does dimensional description add to a category? [pause 0.65] Why does reliability not establish validity? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c02s07-answers",
+    "step": "Chapter 2: recall answers",
+    "text": "It describes degrees of particular features, severity and impact.\n\nAgreement can occur even when the meaning or intended use needs further support.",
+    "say": "It describes degrees of particular features, severity and impact. [pause 0.65] Agreement can occur even when the meaning or intended use needs further support. [pause 1.0]"
+  },
+  {
+    "id": "c02s08",
+    "step": "Chapter 2: Take the idea into everyday life",
+    "text": "Rewrite a fictional diagnosis-as-identity statement to describe a person, a difficulty and an uncertainty respectfully.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Rewrite a fictional diagnosis-as-identity statement to describe a person, a difficulty and an uncertainty respectfully. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c03s01",
+    "step": "Chapter 3: Assessment gathers evidence; formulation connects it",
+    "text": "A visitor takes a short online questionnaire and treats its score as a complete explanation. Maya asks what the tool was designed to do and what information it leaves out.",
+    "say": "A visitor takes a short online questionnaire and treats its score as a complete explanation. [Maya](/mˈaɪə/) asks what the tool was designed to do and what information it leaves out."
+  },
+  {
+    "id": "c03s02",
+    "step": "Chapter 3: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat is the main limit of the questionnaire?\n\nA. The score is never useful.\n\nB. A screen cannot alone diagnose or explain the difficulty.\n\nC. A high score identifies one definite cause.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What is the main limit of the questionnaire? [pause 0.65] A. The score is never useful. [pause 0.65] B. A screen cannot alone diagnose or explain the difficulty. [pause 0.65] C. A high score identifies one definite cause. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c03s02-feedback-0",
+    "step": "Chapter 3: feedback 1",
+    "text": "A validated tool can support a defined screening use.",
+    "say": "A validated tool can support a defined screening use."
+  },
+  {
+    "id": "c03s02-feedback-1",
+    "step": "Chapter 3: feedback 2",
+    "text": "Its purpose and scope are narrower than a complete assessment.",
+    "say": "Its purpose and scope are narrower than a complete assessment."
+  },
+  {
+    "id": "c03s02-feedback-2",
+    "step": "Chapter 3: feedback 3",
+    "text": "A score is not a causal mechanism.",
+    "say": "A score is not a causal mechanism."
+  },
+  {
+    "id": "c03s03",
+    "step": "Chapter 3: A screen is not a diagnosis.",
+    "text": "Sensitivity: proportion of cases detected by a test. Specificity: proportion of non-cases correctly identified.\n\nScreening can help identify who may benefit from further assessment. A positive result can be a false positive, and a negative result does not rule out every concern.\n\nInterpretation depends on the tool, threshold, population and prevalence. A score cannot by itself explain the cause or determine a treatment.",
+    "say": "Sensitivity: proportion of cases detected by a test. Specificity: proportion of non-cases correctly identified. [pause 0.65] Screening can help identify who may benefit from further assessment. A positive result can be a false positive, and a negative result does not rule out every concern. [pause 0.65] Interpretation depends on the tool, threshold, population and prevalence. A score cannot by itself explain the cause or determine a treatment."
+  },
+  {
+    "id": "c03s03b",
+    "step": "Chapter 3: Assessment integrates several sources.",
+    "text": "Clinical interview: structured or guided professional inquiry. Psychometric measure: standardized instrument measuring a defined construct. Clinical history: relevant course, context and prior care.\n\nA suitable assessment may combine interview, validated measures and other information with consent. Medical factors, safety, functioning and the person’s own goals can matter.\n\nA measure needs validation for its intended use and population. Collecting more scores does not automatically produce better understanding.",
+    "say": "Clinical interview: structured or guided professional inquiry. Psychometric measure: standardized instrument measuring a defined construct. Clinical history: relevant course, context and prior care. [pause 0.65] A suitable assessment may combine interview, validated measures and other information with consent. Medical factors, safety, functioning and the person’s own goals can matter. [pause 0.65] A measure needs validation for its intended use and population. Collecting more scores does not automatically produce better understanding."
+  },
+  {
+    "id": "c03s04",
+    "step": "Chapter 3: A formulation is a testable working account.",
+    "text": "Predisposing factor: earlier condition that may increase vulnerability. Maintaining factor: process that may sustain a difficulty.\n\nA formulation links possible vulnerabilities, triggers, maintaining processes and protective resources. It should be developed collaboratively and revised when evidence changes.\n\nA coherent story is not automatically a proven cause. State alternatives and what would change the account. Diagnosis and formulation answer different, complementary questions.",
+    "say": "Predisposing factor: earlier condition that may increase vulnerability. Maintaining factor: process that may sustain a difficulty. [pause 0.65] A formulation links possible vulnerabilities, triggers, maintaining processes and protective resources. It should be developed collaboratively and revised when evidence changes. [pause 0.65] A coherent story is not automatically a proven cause. State alternatives and what would change the account. Diagnosis and formulation answer different, complementary questions."
+  },
+  {
+    "id": "c03s05",
+    "step": "Chapter 3: What does the evidence allow?",
+    "text": "Validated screening tools can support care pathways, but accuracy depends on threshold and population. Predictive values change with prevalence.\n\nFormulation can guide questions and care, but a plausible narrative needs evidence and collaboration. The course does not authorize informal assessment of others.",
+    "say": "Validated screening tools can support care pathways, but accuracy depends on threshold and population. Predictive values change with prevalence. [pause 0.65] Formulation can guide questions and care, but a plausible narrative needs evidence and collaboration. The course does not authorize informal assessment of others."
+  },
+  {
+    "id": "c03s06",
+    "step": "Chapter 3: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA professional proposes a possible maintaining process after discussing a person’s history and current difficulties.\n\nWhat would strengthen the formulation?\n\nA. Keep the story unchanged because it sounds coherent.\n\nB. Choose the most dramatic explanation.\n\nC. Specify alternatives and evidence that would revise it.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A professional proposes a possible maintaining process after discussing a person’s history and current difficulties. [pause 0.65] What would strengthen the formulation? [pause 0.65] A. Keep the story unchanged because it sounds coherent. [pause 0.65] B. Choose the most dramatic explanation. [pause 0.65] C. Specify alternatives and evidence that would revise it. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-0",
+    "step": "Chapter 3: feedback 1",
+    "text": "Coherence alone does not establish a cause.",
+    "say": "Coherence alone does not establish a cause. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-1",
+    "step": "Chapter 3: feedback 2",
+    "text": "Vividness is not evidence of accuracy.",
+    "say": "Vividness is not evidence of accuracy. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-2",
+    "step": "Chapter 3: feedback 3",
+    "text": "A working account should be open to correction and collaboration.",
+    "say": "A working account should be open to correction and collaboration. [pause 1.0]"
+  },
+  {
+    "id": "c03s07",
+    "step": "Chapter 3: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy does prevalence matter for a positive screen?\n\nHow does formulation differ from diagnosis?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why does prevalence matter for a positive screen? [pause 0.65] How does formulation differ from diagnosis? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c03s07-answers",
+    "step": "Chapter 3: recall answers",
+    "text": "The proportion of true and false positives depends on how common the target condition is in the tested population.\n\nDiagnosis classifies a pattern; formulation connects possible processes and context for an individual.",
+    "say": "The proportion of true and false positives depends on how common the target condition is in the tested population. [pause 0.65] Diagnosis classifies a pattern; formulation connects possible processes and context for an individual. [pause 1.0]"
+  },
+  {
+    "id": "c03s08",
+    "step": "Chapter 3: Take the idea into everyday life",
+    "text": "Evaluate the stated purpose of a public screening tool without taking or interpreting anyone’s score. Identify one intended use and one limit.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Evaluate the stated purpose of a public screening tool without taking or interpreting anyone’s score. Identify one intended use and one limit. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c04s01",
+    "step": "Chapter 4: Anxiety can protect and constrain",
+    "text": "Jo worries before a presentation and declines one public slot. Leo calls it an anxiety disorder. Maya asks about the pattern, impact and whether the situation contains a real threat.",
+    "say": "Jo worries before a presentation and declines one public slot. Leo calls it an anxiety disorder. [Maya](/mˈaɪə/) asks about the pattern, impact and whether the situation contains a real threat."
+  },
+  {
+    "id": "c04s02",
+    "step": "Chapter 4: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat can Jo’s declined slot establish?\n\nA. An anxiety diagnosis.\n\nB. One choice whose context and impact need understanding.\n\nC. That avoidance is always harmful.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What can Jo’s declined slot establish? [pause 0.65] A. An anxiety diagnosis. [pause 0.65] B. One choice whose context and impact need understanding. [pause 0.65] C. That avoidance is always harmful. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c04s02-feedback-0",
+    "step": "Chapter 4: feedback 1",
+    "text": "Diagnosis needs more information and trained assessment.",
+    "say": "Diagnosis needs more information and trained assessment."
+  },
+  {
+    "id": "c04s02-feedback-1",
+    "step": "Chapter 4: feedback 2",
+    "text": "The conclusion matches the observation and preserves alternatives.",
+    "say": "The conclusion matches the observation and preserves alternatives."
+  },
+  {
+    "id": "c04s02-feedback-2",
+    "step": "Chapter 4: feedback 3",
+    "text": "Avoidance can be protective or reflect a reasonable preference.",
+    "say": "Avoidance can be protective or reflect a reasonable preference."
+  },
+  {
+    "id": "c04s03",
+    "step": "Chapter 4: Fear and anxiety are not automatically disorders.",
+    "text": "Fear: response to an immediate perceived threat. Clinical significance: importance of a pattern for distress or functioning.\n\nThreat responses can support protection and preparation. Anxiety-related conditions involve patterns requiring professional assessment, rather than the presence of worry alone.\n\nDuration, intensity, impairment and context matter. A response to an unsafe or discriminatory environment should not be reduced to an internal defect.",
+    "say": "Fear: response to an immediate perceived threat. Clinical significance: importance of a pattern for distress or functioning. [pause 0.65] Threat responses can support protection and preparation. Anxiety-related conditions involve patterns requiring professional assessment, rather than the presence of worry alone. [pause 0.65] Duration, intensity, impairment and context matter. A response to an unsafe or discriminatory environment should not be reduced to an internal defect."
+  },
+  {
+    "id": "c04s03b",
+    "step": "Chapter 4: Avoidance can reduce distress immediately.",
+    "text": "Negative reinforcement: removal or prevention that increases an action. Safety behaviour: action intended to prevent a feared outcome.\n\nAvoidance can be protective when danger is real. In some anxiety patterns, relief can maintain avoidance and limit opportunities to update threat expectations.\n\nThat is one possible process, not an explanation of every refusal. Ask what is being avoided, what follows and whether alternative conditions are safe.",
+    "say": "Negative reinforcement: removal or prevention that increases an action. Safety behaviour: action intended to prevent a feared outcome. [pause 0.65] Avoidance can be protective when danger is real. In some anxiety patterns, relief can maintain avoidance and limit opportunities to update threat expectations. [pause 0.65] That is one possible process, not an explanation of every refusal. Ask what is being avoided, what follows and whether alternative conditions are safe."
+  },
+  {
+    "id": "c04s04",
+    "step": "Chapter 4: Treatment is assessed and collaborative.",
+    "text": "Cognitive behavioural therapy: psychological therapy examining relevant thoughts, actions and experiences. Exposure-based treatment: planned contact with feared cues within an appropriate clinical treatment. Shared decision: care choice informed by evidence and preferences.\n\nGuidelines support particular psychological and medication options for assessed anxiety conditions. The appropriate choice depends on the condition and individual needs.\n\nExposure is not forcing someone into danger or conducting a course experiment. It requires an appropriate clinical plan, informed participation and attention to safety.",
+    "say": "Cognitive behavioural therapy: psychological therapy examining relevant thoughts, actions and experiences. Exposure-based treatment: planned contact with feared cues within an appropriate clinical treatment. Shared decision: care choice informed by evidence and preferences. [pause 0.65] Guidelines support particular psychological and medication options for assessed anxiety conditions. The appropriate choice depends on the condition and individual needs. [pause 0.65] Exposure is not forcing someone into danger or conducting a course experiment. It requires an appropriate clinical plan, informed participation and attention to safety."
+  },
+  {
+    "id": "c04s05",
+    "step": "Chapter 4: What does the evidence allow?",
+    "text": "NICE guidance distinguishes assessed anxiety conditions and specifies care options. Evidence from a treatment trial does not diagnose someone with everyday worry.\n\nThe café story is conceptual. Do not conduct self-directed exposure, remove another person’s coping support or change medication based on this lesson.",
+    "say": "NICE guidance distinguishes assessed anxiety conditions and specifies care options. Evidence from a treatment trial does not diagnose someone with everyday worry. [pause 0.65] The café story is conceptual. Do not conduct self-directed exposure, remove another person’s coping support or change medication based on this lesson."
+  },
+  {
+    "id": "c04s06",
+    "step": "Chapter 4: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA volunteer reports persistent anxiety affecting daily functioning and asks where to seek help.\n\nWhat should the team do?\n\nA. Force participation as informal exposure.\n\nB. Treat every concern as irrational.\n\nC. Offer a respectful discussion and appropriate care routes if needed.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A volunteer reports persistent anxiety affecting daily functioning and asks where to seek help. [pause 0.65] What should the team do? [pause 0.65] A. Force participation as informal exposure. [pause 0.65] B. Treat every concern as irrational. [pause 0.65] C. Offer a respectful discussion and appropriate care routes if needed. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-0",
+    "step": "Chapter 4: feedback 1",
+    "text": "Coercion is not appropriate treatment.",
+    "say": "Coercion is not appropriate treatment. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-1",
+    "step": "Chapter 4: feedback 2",
+    "text": "Some threats and constraints are real.",
+    "say": "Some threats and constraints are real. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-2",
+    "step": "Chapter 4: feedback 3",
+    "text": "Support can preserve agency while recognizing persistent difficulties.",
+    "say": "Support can preserve agency while recognizing persistent difficulties. [pause 1.0]"
+  },
+  {
+    "id": "c04s07",
+    "step": "Chapter 4: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy is worry alone insufficient for diagnosis?\n\nHow can immediate relief maintain avoidance?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why is worry alone insufficient for diagnosis? [pause 0.65] How can immediate relief maintain avoidance? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c04s07-answers",
+    "step": "Chapter 4: recall answers",
+    "text": "Pattern, duration, severity, functioning and context need assessment.\n\nIf avoiding reduces distress, the avoidance action can become more likely.",
+    "say": "Pattern, duration, severity, functioning and context need assessment. [pause 0.65] If avoiding reduces distress, the avoidance action can become more likely. [pause 1.0]"
+  },
+  {
+    "id": "c04s08",
+    "step": "Chapter 4: Take the idea into everyday life",
+    "text": "Use a fictional presentation scene to distinguish a real hazard, ordinary anticipation and a possible maintaining process. Do not run exposure exercises.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Use a fictional presentation scene to distinguish a real hazard, ordinary anticipation and a possible maintaining process. Do not run exposure exercises. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c05s01",
+    "step": "Chapter 5: Low mood has several possible contexts",
+    "text": "After several losses, Sam feels low and stops enjoying usual activities. Leo says Sam should choose a positive attitude. Maya asks about the duration, impact, health and support available.",
+    "say": "After several losses, Sam feels low and stops enjoying usual activities. Leo says Sam should choose a positive attitude. [Maya](/mˈaɪə/) asks about the duration, impact, health and support available."
+  },
+  {
+    "id": "c05s02",
+    "step": "Chapter 5: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat is missing from the positive-attitude advice?\n\nA. Assessment of the pattern, barriers and available support.\n\nB. A stronger demand for effort.\n\nC. Proof that sadness always means depression.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What is missing from the positive-attitude advice? [pause 0.65] A. Assessment of the pattern, barriers and available support. [pause 0.65] B. A stronger demand for effort. [pause 0.65] C. Proof that sadness always means depression. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c05s02-feedback-0",
+    "step": "Chapter 5: feedback 1",
+    "text": "The advice oversimplifies a potentially important difficulty.",
+    "say": "The advice oversimplifies a potentially important difficulty."
+  },
+  {
+    "id": "c05s02-feedback-1",
+    "step": "Chapter 5: feedback 2",
+    "text": "Pressure does not identify or address the actual needs.",
+    "say": "Pressure does not identify or address the actual needs."
+  },
+  {
+    "id": "c05s02-feedback-2",
+    "step": "Chapter 5: feedback 3",
+    "text": "Sadness alone does not establish a depressive syndrome.",
+    "say": "Sadness alone does not establish a depressive syndrome."
+  },
+  {
+    "id": "c05s03",
+    "step": "Chapter 5: A mood is not the whole pattern.",
+    "text": "Low mood: an unpleasant emotional state. Anhedonia: reduced interest or pleasure. Depressive syndrome: a clinically assessed pattern of mood and related difficulties.\n\nDepression involves patterns across experience and functioning, not sadness alone. Health, medication, sleep, bereavement and other conditions may be relevant.\n\nPersistent loss of interest or marked change deserves attention. A friend can offer support, but cannot establish the diagnosis or its cause from a short conversation.",
+    "say": "Low mood: an unpleasant emotional state. Anhedonia: reduced interest or pleasure. Depressive syndrome: a clinically assessed pattern of mood and related difficulties. [pause 0.65] Depression involves patterns across experience and functioning, not sadness alone. Health, medication, sleep, bereavement and other conditions may be relevant. [pause 0.65] Persistent loss of interest or marked change deserves attention. A friend can offer support, but cannot establish the diagnosis or its cause from a short conversation."
+  },
+  {
+    "id": "c05s03b",
+    "step": "Chapter 5: A maintaining process is not a blame statement.",
+    "text": "Withdrawal: reduced engagement in activities or relationships. Reinforcement opportunity: chance for an action to have a valued consequence. Bidirectional relation: influences can operate in both directions.\n\nLow mood can make activity harder, while reduced access to meaningful activity can further affect mood. Pain, poverty and exclusion can constrain choices.\n\nThis possible cycle is not evidence that a person caused their difficulty. Support should consider the actual barriers and what is feasible.",
+    "say": "Withdrawal: reduced engagement in activities or relationships. Reinforcement opportunity: chance for an action to have a valued consequence. Bidirectional relation: influences can operate in both directions. [pause 0.65] Low mood can make activity harder, while reduced access to meaningful activity can further affect mood. Pain, poverty and exclusion can constrain choices. [pause 0.65] This possible cycle is not evidence that a person caused their difficulty. Support should consider the actual barriers and what is feasible."
+  },
+  {
+    "id": "c05s04",
+    "step": "Chapter 5: Care choices depend on assessed need.",
+    "text": "Treatment preference: the person’s informed view of available options. Monitoring: reviewing benefit, burden and changes over time.\n\nProfessional guidelines include psychological and medication options under specified conditions. Behavioural activation is a structured treatment, not a demand to be busy or cheerful.\n\nChoice should consider severity, prior response, preferences, access and possible harms. Starting, stopping or changing medication requires appropriate professional advice.",
+    "say": "Treatment preference: the person’s informed view of available options. Monitoring: reviewing benefit, burden and changes over time. [pause 0.65] Professional guidelines include psychological and medication options under specified conditions. Behavioural activation is a structured treatment, not a demand to be busy or cheerful. [pause 0.65] Choice should consider severity, prior response, preferences, access and possible harms. Starting, stopping or changing medication requires appropriate professional advice."
+  },
+  {
+    "id": "c05s05",
+    "step": "Chapter 5: What does the evidence allow?",
+    "text": "Depression guidance evaluates treatments for defined populations and outcomes. Average benefit does not establish the best option for every individual.\n\nA biological or psychological model is not a complete explanation of every case. This course is neither diagnosis nor a self-treatment programme.",
+    "say": "Depression guidance evaluates treatments for defined populations and outcomes. Average benefit does not establish the best option for every individual. [pause 0.65] A biological or psychological model is not a complete explanation of every case. This course is neither diagnosis nor a self-treatment programme."
+  },
+  {
+    "id": "c05s06",
+    "step": "Chapter 5: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA person hears that increasing activity is sometimes part of depression treatment.\n\nWhich description of behavioural activation is accurate?\n\nA. A requirement to be cheerful.\n\nB. A structured treatment developed within suitable professional care.\n\nC. A guarantee that activity fixes every cause of depression.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A person hears that increasing activity is sometimes part of depression treatment. [pause 0.65] Which description of behavioural activation is accurate? [pause 0.65] A. A requirement to be cheerful. [pause 0.65] B. A structured treatment developed within suitable professional care. [pause 0.65] C. A guarantee that activity fixes every cause of depression. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-0",
+    "step": "Chapter 5: feedback 1",
+    "text": "The treatment is not a demand to display positive emotion.",
+    "say": "The treatment is not a demand to display positive emotion. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-1",
+    "step": "Chapter 5: feedback 2",
+    "text": "Its use involves assessment, collaboration and appropriate planning.",
+    "say": "Its use involves assessment, collaboration and appropriate planning. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-2",
+    "step": "Chapter 5: feedback 3",
+    "text": "No single treatment guarantees every outcome or removes all social barriers.",
+    "say": "No single treatment guarantees every outcome or removes all social barriers. [pause 1.0]"
+  },
+  {
+    "id": "c05s07",
+    "step": "Chapter 5: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy is anhedonia different from ordinary sadness?\n\nWhy does a maintaining cycle not imply blame?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why is anhedonia different from ordinary sadness? [pause 0.65] Why does a maintaining cycle not imply blame? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c05s07-answers",
+    "step": "Chapter 5: recall answers",
+    "text": "It concerns reduced interest or pleasure, which is a distinct feature requiring context.\n\nProcesses and constraints can sustain difficulties without being freely chosen or morally caused.",
+    "say": "It concerns reduced interest or pleasure, which is a distinct feature requiring context. [pause 0.65] Processes and constraints can sustain difficulties without being freely chosen or morally caused. [pause 1.0]"
+  },
+  {
+    "id": "c05s08",
+    "step": "Chapter 5: Take the idea into everyday life",
+    "text": "Use a fictional low-mood scene to identify one observation, one contextual barrier and one respectful support question.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Use a fictional low-mood scene to identify one observation, one contextual barrier and one respectful support question. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c06s01",
+    "step": "Chapter 6: Trauma exposure and diagnosis are different",
+    "text": "A visitor who experienced a frightening incident becomes uneasy near a noisy machine. Leo assumes everyone exposed to the event has the same disorder and asks for detailed retellings in the group.",
+    "say": "A visitor who experienced a frightening incident becomes uneasy near a noisy machine. Leo assumes everyone exposed to the event has the same disorder and asks for detailed retellings in the group."
+  },
+  {
+    "id": "c06s02",
+    "step": "Chapter 6: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat should change in Leo’s plan?\n\nA. Require the same account from every visitor.\n\nB. Respect safety and choice without assuming a shared diagnosis.\n\nC. Treat visible calm as proof of no difficulty.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What should change in Leo’s plan? [pause 0.65] A. Require the same account from every visitor. [pause 0.65] B. Respect safety and choice without assuming a shared diagnosis. [pause 0.65] C. Treat visible calm as proof of no difficulty. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c06s02-feedback-0",
+    "step": "Chapter 6: feedback 1",
+    "text": "Forced retelling can be intrusive and inappropriate.",
+    "say": "Forced retelling can be intrusive and inappropriate."
+  },
+  {
+    "id": "c06s02-feedback-1",
+    "step": "Chapter 6: feedback 2",
+    "text": "Exposure, experience and support needs vary across people.",
+    "say": "Exposure, experience and support needs vary across people."
+  },
+  {
+    "id": "c06s02-feedback-2",
+    "step": "Chapter 6: feedback 3",
+    "text": "Appearance alone does not establish internal experience.",
+    "say": "Appearance alone does not establish internal experience."
+  },
+  {
+    "id": "c06s03",
+    "step": "Chapter 6: Exposure does not dictate one response.",
+    "text": "Traumatic event: event involving serious threat or harm as defined in a clinical context. Resilience: adaptation in the face of adversity, defined for an outcome and context.\n\nPeople respond differently after frightening or traumatic events. Some experience persistent difficulties; others recover along varied pathways.\n\nExposure alone does not establish post-traumatic stress disorder. Nor does apparent functioning reveal the absence of distress. Ask what support is wanted without demanding an account.",
+    "say": "Traumatic event: event involving serious threat or harm as defined in a clinical context. Resilience: adaptation in the face of adversity, defined for an outcome and context. [pause 0.65] People respond differently after frightening or traumatic events. Some experience persistent difficulties; others recover along varied pathways. [pause 0.65] Exposure alone does not establish post-traumatic stress disorder. Nor does apparent functioning reveal the absence of distress. Ask what support is wanted without demanding an account."
+  },
+  {
+    "id": "c06s03b",
+    "step": "Chapter 6: Reminders can have learned significance.",
+    "text": "Intrusion: unwanted re-experiencing of aspects of an event. Trauma reminder: cue associated with a prior traumatic experience. Hyperarousal: heightened activation relevant to a clinical pattern.\n\nA sound or location may acquire significance through experience. Avoidance, intrusive memories and activation can be relevant features, but their interpretation needs trained assessment.\n\nDo not recreate reminders, demand exposure or treat a strong response as proof of a particular memory. A process hypothesis is not a recovered-fact detector.",
+    "say": "Intrusion: unwanted re-experiencing of aspects of an event. Trauma reminder: cue associated with a prior traumatic experience. Hyperarousal: heightened activation relevant to a clinical pattern. [pause 0.65] A sound or location may acquire significance through experience. Avoidance, intrusive memories and activation can be relevant features, but their interpretation needs trained assessment. [pause 0.65] Do not recreate reminders, demand exposure or treat a strong response as proof of a particular memory. A process hypothesis is not a recovered-fact detector."
+  },
+  {
+    "id": "c06s04",
+    "step": "Chapter 6: Safety and choice come first.",
+    "text": "Trauma-informed approach: support emphasizing safety, choice and avoidance of retraumatization. Disclosure: sharing personal information. Trauma-focused treatment: professional treatment addressing trauma-related difficulties.\n\nOffer practical safety, predictable choices and privacy. Let the person decide what to share and avoid pressuring a detailed retelling.\n\nEvidence-based trauma treatments require suitable assessment and professional delivery. A supportive conversation is different from attempting trauma therapy in a workshop.",
+    "say": "Trauma-informed approach: support emphasizing safety, choice and avoidance of retraumatization. Disclosure: sharing personal information. Trauma-focused treatment: professional treatment addressing trauma-related difficulties. [pause 0.65] Offer practical safety, predictable choices and privacy. Let the person decide what to share and avoid pressuring a detailed retelling. [pause 0.65] Evidence-based trauma treatments require suitable assessment and professional delivery. A supportive conversation is different from attempting trauma therapy in a workshop."
+  },
+  {
+    "id": "c06s05",
+    "step": "Chapter 6: What does the evidence allow?",
+    "text": "Clinical guidelines distinguish trauma exposure, assessed symptoms and treatment indications. Responses and trajectories vary; a single behaviour is not diagnostic.\n\nThe course includes no trauma recall, exposure or debriefing exercise. Do not ask learners to disclose or relive personal events.",
+    "say": "Clinical guidelines distinguish trauma exposure, assessed symptoms and treatment indications. Responses and trajectories vary; a single behaviour is not diagnostic. [pause 0.65] The course includes no trauma recall, exposure or debriefing exercise. Do not ask learners to disclose or relive personal events."
+  },
+  {
+    "id": "c06s06",
+    "step": "Chapter 6: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA person becomes distressed near a reminder and does not want to discuss the past event.\n\nWhich response is appropriate?\n\nA. Recreate the sound as an informal test.\n\nB. Infer the exact event from the reaction.\n\nC. Ask about practical support without demanding details.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A person becomes distressed near a reminder and does not want to discuss the past event. [pause 0.65] Which response is appropriate? [pause 0.65] A. Recreate the sound as an informal test. [pause 0.65] B. Infer the exact event from the reaction. [pause 0.65] C. Ask about practical support without demanding details. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-0",
+    "step": "Chapter 6: feedback 1",
+    "text": "A workshop is not a setting for unassessed exposure.",
+    "say": "A workshop is not a setting for unassessed exposure. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-1",
+    "step": "Chapter 6: feedback 2",
+    "text": "A response is not a unique record of an event.",
+    "say": "A response is not a unique record of an event. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-2",
+    "step": "Chapter 6: feedback 3",
+    "text": "The response preserves privacy and can address immediate needs.",
+    "say": "The response preserves privacy and can address immediate needs. [pause 1.0]"
+  },
+  {
+    "id": "c06s07",
+    "step": "Chapter 6: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy is trauma exposure not equivalent to a diagnosis?\n\nHow does support differ from trauma therapy?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why is trauma exposure not equivalent to a diagnosis? [pause 0.65] How does support differ from trauma therapy? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c06s07-answers",
+    "step": "Chapter 6: recall answers",
+    "text": "Diagnosis requires a particular pattern, course and impact assessed appropriately.\n\nSupport addresses immediate needs and choice; therapy involves an assessed professional treatment plan.",
+    "say": "Diagnosis requires a particular pattern, course and impact assessed appropriately. [pause 0.65] Support addresses immediate needs and choice; therapy involves an assessed professional treatment plan. [pause 1.0]"
+  },
+  {
+    "id": "c06s08",
+    "step": "Chapter 6: Take the idea into everyday life",
+    "text": "Review a fictional support response for safety, privacy and choice. Do not use personal trauma memories as an exercise.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Review a fictional support response for safety, privacy and choice. Do not use personal trauma memories as an exercise. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c07s01",
+    "step": "Chapter 7: Unusual experiences need careful assessment",
+    "text": "A headline uses psychosis and bipolar as insults for unpredictable behaviour. At the café, Maya asks what the terms actually concern and why neither can be inferred from a disagreement or a mood change.",
+    "say": "A headline uses psychosis and bipolar as insults for unpredictable behaviour. At the café, [Maya](/mˈaɪə/) asks what the terms actually concern and why neither can be inferred from a disagreement or a mood change."
+  },
+  {
+    "id": "c07s02",
+    "step": "Chapter 7: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat is wrong with the headline?\n\nA. It uses clinical terms as labels without assessment or accurate meaning.\n\nB. Any disagreement is a delusion.\n\nC. Daily changes in feeling establish bipolar disorder.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What is wrong with the headline? [pause 0.65] A. It uses clinical terms as labels without assessment or accurate meaning. [pause 0.65] B. Any disagreement is a delusion. [pause 0.65] C. Daily changes in feeling establish bipolar disorder. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c07s02-feedback-0",
+    "step": "Chapter 7: feedback 1",
+    "text": "The labels stigmatize and misdescribe the clinical concepts.",
+    "say": "The labels stigmatize and misdescribe the clinical concepts."
+  },
+  {
+    "id": "c07s02-feedback-1",
+    "step": "Chapter 7: feedback 2",
+    "text": "Beliefs need context and trained assessment.",
+    "say": "Beliefs need context and trained assessment."
+  },
+  {
+    "id": "c07s02-feedback-2",
+    "step": "Chapter 7: feedback 3",
+    "text": "Clinical episodes are not ordinary moment-to-moment variation.",
+    "say": "Clinical episodes are not ordinary moment-to-moment variation."
+  },
+  {
+    "id": "c07s03",
+    "step": "Chapter 7: Psychosis describes a domain of experience.",
+    "text": "Psychosis: a clinical domain involving altered experiences such as hallucinations or delusions.\n\nPsychotic experiences can occur in several conditions and contexts. Clinical assessment considers health, substances, sleep, culture and the person’s account.\n\nA hallucination-like report does not uniquely identify schizophrenia. Unusual beliefs or disagreement alone do not establish a delusion, and diagnosis is not a judgment of a person’s worth.",
+    "say": "Psychosis: a clinical domain involving altered experiences such as hallucinations or delusions. [pause 0.65] Psychotic experiences can occur in several conditions and contexts. Clinical assessment considers health, substances, sleep, culture and the person’s account. [pause 0.65] A hallucination-like report does not uniquely identify schizophrenia. Unusual beliefs or disagreement alone do not establish a delusion, and diagnosis is not a judgment of a person’s worth."
+  },
+  {
+    "id": "c07s03b",
+    "step": "Chapter 7: Bipolar disorder is not ordinary variability.",
+    "text": "Mania: clinically assessed episode of marked activation and mood change. Hypomania: a distinct elevated or activated episode meeting specified clinical criteria. Episode: a sustained pattern with a defined course.\n\nBipolar conditions involve assessed episodes and patterns, not simply being happy and sad during a day. Changes in sleep, activity, judgment and functioning can be relevant.\n\nDo not use the term for interpersonal conflict or ordinary inconsistency. An abrupt concerning change calls for appropriate professional help rather than an informal label.",
+    "say": "Mania: clinically assessed episode of marked activation and mood change. Hypomania: a distinct elevated or activated episode meeting specified clinical criteria. Episode: a sustained pattern with a defined course. [pause 0.65] Bipolar conditions involve assessed episodes and patterns, not simply being happy and sad during a day. Changes in sleep, activity, judgment and functioning can be relevant. [pause 0.65] Do not use the term for interpersonal conflict or ordinary inconsistency. An abrupt concerning change calls for appropriate professional help rather than an informal label."
+  },
+  {
+    "id": "c07s04",
+    "step": "Chapter 7: Respectful support avoids confrontation and stereotypes.",
+    "text": "Stigma: discrediting stereotypes attached to a condition. Care pathway: route to appropriate assessment and support. Recovery: a personal process involving meaningful life and support.\n\nListen calmly and acknowledge distress without pretending certainty about the explanation. Avoid arguing, endorsing an unverified claim or treating the person as a stereotype.\n\nOffer appropriate professional routes and practical help. Urgent safety or severe deterioration needs local urgent care. Most people with mental health difficulties are not violent; diagnosis alone does not predict danger.",
+    "say": "Stigma: discrediting stereotypes attached to a condition. Care pathway: route to appropriate assessment and support. Recovery: a personal process involving meaningful life and support. [pause 0.65] Listen calmly and acknowledge distress without pretending certainty about the explanation. Avoid arguing, endorsing an unverified claim or treating the person as a stereotype. [pause 0.65] Offer appropriate professional routes and practical help. Urgent safety or severe deterioration needs local urgent care. Most people with mental health difficulties are not violent; diagnosis alone does not predict danger."
+  },
+  {
+    "id": "c07s05",
+    "step": "Chapter 7: What does the evidence allow?",
+    "text": "Psychosis and bipolar guidelines specify assessment, treatment and support for defined patterns. Symptom domains can overlap and need clinical interpretation.\n\nThis lesson is not a checklist, a risk assessment or advice to start or stop medication.",
+    "say": "Psychosis and bipolar guidelines specify assessment, treatment and support for defined patterns. Symptom domains can overlap and need clinical interpretation. [pause 0.65] This lesson is not a checklist, a risk assessment or advice to start or stop medication."
+  },
+  {
+    "id": "c07s06",
+    "step": "Chapter 7: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA person reports a distressing unusual experience and asks for help finding support.\n\nWhich response is appropriate?\n\nA. Debate the experience until the person agrees.\n\nB. Listen respectfully and support access to suitable care.\n\nC. Assume diagnosis from a single sentence.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A person reports a distressing unusual experience and asks for help finding support. [pause 0.65] Which response is appropriate? [pause 0.65] A. Debate the experience until the person agrees. [pause 0.65] B. Listen respectfully and support access to suitable care. [pause 0.65] C. Assume diagnosis from a single sentence. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-0",
+    "step": "Chapter 7: feedback 1",
+    "text": "Argument may not help and does not replace assessment.",
+    "say": "Argument may not help and does not replace assessment. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-1",
+    "step": "Chapter 7: feedback 2",
+    "text": "The response acknowledges distress without claiming diagnostic certainty.",
+    "say": "The response acknowledges distress without claiming diagnostic certainty. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-2",
+    "step": "Chapter 7: feedback 3",
+    "text": "A short report leaves many alternatives and needs unknown.",
+    "say": "A short report leaves many alternatives and needs unknown. [pause 1.0]"
+  },
+  {
+    "id": "c07s07",
+    "step": "Chapter 7: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy is psychosis not synonymous with schizophrenia?\n\nWhy does a clinical episode need a time course?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why is psychosis not synonymous with schizophrenia? [pause 0.65] Why does a clinical episode need a time course? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c07s07-answers",
+    "step": "Chapter 7: recall answers",
+    "text": "Psychotic experiences can occur in several conditions and contexts.\n\nDuration and pattern distinguish an episode from isolated or ordinary changes.",
+    "say": "Psychotic experiences can occur in several conditions and contexts. [pause 0.65] Duration and pattern distinguish an episode from isolated or ordinary changes. [pause 1.0]"
+  },
+  {
+    "id": "c07s08",
+    "step": "Chapter 7: Take the idea into everyday life",
+    "text": "Rewrite a fictional stigmatizing headline using accurate, respectful language without diagnosing the person described.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Rewrite a fictional stigmatizing headline using accurate, respectful language without diagnosing the person described. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c08s01",
+    "step": "Chapter 8: Therapies make different kinds of claims",
+    "text": "The café compiles a guide to therapy. Leo wants one best approach for every difficulty. Maya asks which condition, outcome, practitioner and person the evidence concerns.",
+    "say": "The café compiles a guide to therapy. Leo wants one best approach for every difficulty. [Maya](/mˈaɪə/) asks which condition, outcome, practitioner and person the evidence concerns."
+  },
+  {
+    "id": "c08s02",
+    "step": "Chapter 8: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat question should lead the guide?\n\nA. Which approach has the most appealing name.\n\nB. Which method has evidence for this difficulty and person’s needs.\n\nC. Which approach guarantees no discomfort.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What question should lead the guide? [pause 0.65] A. Which approach has the most appealing name. [pause 0.65] B. Which method has evidence for this difficulty and person’s needs. [pause 0.65] C. Which approach guarantees no discomfort. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c08s02-feedback-0",
+    "step": "Chapter 8: feedback 1",
+    "text": "A label does not establish the relevant benefit.",
+    "say": "A label does not establish the relevant benefit."
+  },
+  {
+    "id": "c08s02-feedback-1",
+    "step": "Chapter 8: feedback 2",
+    "text": "The actual use, evidence and preferences should define the comparison.",
+    "say": "The actual use, evidence and preferences should define the comparison."
+  },
+  {
+    "id": "c08s02-feedback-2",
+    "step": "Chapter 8: feedback 3",
+    "text": "No responsible method guarantees that every session is easy.",
+    "say": "No responsible method guarantees that every session is easy."
+  },
+  {
+    "id": "c08s03",
+    "step": "Chapter 8: A therapy model guides a treatment.",
+    "text": "Psychotherapy: structured psychological treatment delivered within an appropriate professional relationship. Therapeutic alliance: collaborative working relationship in treatment. Treatment model: account guiding a method and its targets.\n\nTherapies differ in their proposed processes and methods. They also depend on collaboration, appropriate skills and a clear plan.\n\nA rationale explains why a treatment might help. It is distinct from evidence that the treatment helps a defined population with acceptable burdens and risks.",
+    "say": "Psychotherapy: structured psychological treatment delivered within an appropriate professional relationship. Therapeutic alliance: collaborative working relationship in treatment. Treatment model: account guiding a method and its targets. [pause 0.65] Therapies differ in their proposed processes and methods. They also depend on collaboration, appropriate skills and a clear plan. [pause 0.65] A rationale explains why a treatment might help. It is distinct from evidence that the treatment helps a defined population with acceptable burdens and risks."
+  },
+  {
+    "id": "c08s03b",
+    "step": "Chapter 8: Approaches emphasize different processes.",
+    "text": "Cognitive behavioural approach: examines relevant patterns of thought, action and experience. Psychodynamic approach: examines recurring emotional and relational patterns. Humanistic approach: emphasizes subjective experience, relationship and personal meaning.\n\nThese broad traditions include diverse methods, and real practice can integrate elements. Condition-specific evidence and professional competence matter more than a simple label.\n\nDo not assume that every method under one umbrella is equally supported. Ask about the actual procedure and intended outcome.",
+    "say": "Cognitive behavioural approach: examines relevant patterns of thought, action and experience. Psychodynamic approach: examines recurring emotional and relational patterns. Humanistic approach: emphasizes subjective experience, relationship and personal meaning. [pause 0.65] These broad traditions include diverse methods, and real practice can integrate elements. Condition-specific evidence and professional competence matter more than a simple label. [pause 0.65] Do not assume that every method under one umbrella is equally supported. Ask about the actual procedure and intended outcome."
+  },
+  {
+    "id": "c08s04",
+    "step": "Chapter 8: Care should be informed and reviewable.",
+    "text": "Treatment fidelity: delivery consistent with the intended method. Adverse effect: unwanted or harmful effect. Outcome monitoring: reviewing change relevant to the care goal.\n\nAsk about expected benefits, alternatives, qualifications, privacy, costs and unwanted effects. A useful plan includes review and the option to raise concerns.\n\nA difficult session is not automatically harm, but persistent deterioration should not be dismissed as proof the therapy is working. Professional care should respond to evidence and the person’s experience.",
+    "say": "Treatment fidelity: delivery consistent with the intended method. Adverse effect: unwanted or harmful effect. Outcome monitoring: reviewing change relevant to the care goal. [pause 0.65] Ask about expected benefits, alternatives, qualifications, privacy, costs and unwanted effects. A useful plan includes review and the option to raise concerns. [pause 0.65] A difficult session is not automatically harm, but persistent deterioration should not be dismissed as proof the therapy is working. Professional care should respond to evidence and the person’s experience."
+  },
+  {
+    "id": "c08s05",
+    "step": "Chapter 8: What does the evidence allow?",
+    "text": "Therapy research must specify the treatment, population, comparison and outcome. Average results do not establish one best method for every person.\n\nThe course explains treatment concepts without delivering therapy, certifying practitioners or recommending an individual treatment.",
+    "say": "Therapy research must specify the treatment, population, comparison and outcome. Average results do not establish one best method for every person. [pause 0.65] The course explains treatment concepts without delivering therapy, certifying practitioners or recommending an individual treatment."
+  },
+  {
+    "id": "c08s06",
+    "step": "Chapter 8: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA person feels treatment is not helping and wants to discuss progress with their clinician.\n\nWhat should the person be able to do?\n\nA. Raise concerns and review outcomes and alternatives.\n\nB. Assume deterioration always proves progress.\n\nC. Continue without information about goals or risks.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A person feels treatment is not helping and wants to discuss progress with their clinician. [pause 0.65] What should the person be able to do? [pause 0.65] A. Raise concerns and review outcomes and alternatives. [pause 0.65] B. Assume deterioration always proves progress. [pause 0.65] C. Continue without information about goals or risks. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-0",
+    "step": "Chapter 8: feedback 1",
+    "text": "Informed participation includes monitoring and discussion.",
+    "say": "Informed participation includes monitoring and discussion. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-1",
+    "step": "Chapter 8: feedback 2",
+    "text": "That can dismiss an important unwanted effect.",
+    "say": "That can dismiss an important unwanted effect. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-2",
+    "step": "Chapter 8: feedback 3",
+    "text": "A meaningful plan needs information and choice.",
+    "say": "A meaningful plan needs information and choice. [pause 1.0]"
+  },
+  {
+    "id": "c08s07",
+    "step": "Chapter 8: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow does a treatment rationale differ from efficacy evidence?\n\nWhy is a therapy umbrella label insufficient?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How does a treatment rationale differ from efficacy evidence? [pause 0.65] Why is a therapy umbrella label insufficient? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c08s07-answers",
+    "step": "Chapter 8: recall answers",
+    "text": "A rationale proposes a mechanism; efficacy evidence tests outcomes under defined conditions.\n\nMethods, training, populations and evidence vary within broad approaches.",
+    "say": "A rationale proposes a mechanism; efficacy evidence tests outcomes under defined conditions. [pause 0.65] Methods, training, populations and evidence vary within broad approaches. [pause 1.0]"
+  },
+  {
+    "id": "c08s08",
+    "step": "Chapter 8: Take the idea into everyday life",
+    "text": "Prepare three evidence-and-choice questions someone could ask a qualified provider, using a fictional care scenario.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Prepare three evidence-and-choice questions someone could ask a qualified provider, using a fictional care scenario. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c09s01",
+    "step": "Chapter 9: Treatment claims need fair comparisons",
+    "text": "A headline says a treatment doubled recovery. Leo calls it a guaranteed cure. Maya asks how many people recovered in each group, what recovery meant and what unwanted effects occurred.",
+    "say": "A headline says a treatment doubled recovery. Leo calls it a guaranteed cure. [Maya](/mˈaɪə/) asks how many people recovered in each group, what recovery meant and what unwanted effects occurred."
+  },
+  {
+    "id": "c09s02",
+    "step": "Chapter 9: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat is missing from doubled recovery?\n\nA. The absolute rates, definition, uncertainty and harms.\n\nB. A guarantee for each person.\n\nC. The assumption that all improvement is the active treatment.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What is missing from doubled recovery? [pause 0.65] A. The absolute rates, definition, uncertainty and harms. [pause 0.65] B. A guarantee for each person. [pause 0.65] C. The assumption that all improvement is the active treatment. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c09s02-feedback-0",
+    "step": "Chapter 9: feedback 1",
+    "text": "These details make the practical claim assessable.",
+    "say": "These details make the practical claim assessable."
+  },
+  {
+    "id": "c09s02-feedback-1",
+    "step": "Chapter 9: feedback 2",
+    "text": "Group results cannot guarantee an individual outcome.",
+    "say": "Group results cannot guarantee an individual outcome."
+  },
+  {
+    "id": "c09s02-feedback-2",
+    "step": "Chapter 9: feedback 3",
+    "text": "Comparison groups help separate several sources of change.",
+    "say": "Comparison groups help separate several sources of change."
+  },
+  {
+    "id": "c09s03",
+    "step": "Chapter 9: Randomization supports a specific inference.",
+    "text": "Randomized controlled trial: study assigning participants by chance to comparison conditions. Placebo effect: change related to treatment context rather than a specific active component. Blinding: limiting knowledge of allocation where feasible.\n\nRandom allocation helps reduce baseline differences between groups. Suitable comparisons examine the added effect of the tested treatment under the study conditions.\n\nMasking can be difficult in psychotherapy, and comparison quality matters. Improvement in both groups can reflect time, support, expectations and other factors.",
+    "say": "Randomized controlled trial: study assigning participants by chance to comparison conditions. Placebo effect: change related to treatment context rather than a specific active component. Blinding: limiting knowledge of allocation where feasible. [pause 0.65] Random allocation helps reduce baseline differences between groups. Suitable comparisons examine the added effect of the tested treatment under the study conditions. [pause 0.65] Masking can be difficult in psychotherapy, and comparison quality matters. Improvement in both groups can reflect time, support, expectations and other factors."
+  },
+  {
+    "id": "c09s03b",
+    "step": "Chapter 9: Absolute outcomes make the claim interpretable.",
+    "text": "Absolute difference: difference in outcome rates between groups. Relative effect: effect expressed relative to a comparison rate. Uncertainty interval: range reflecting estimation uncertainty under a method.\n\nIn an invented example, recovery is twenty in a hundred with one condition and forty in a hundred with another. That doubles the rate and adds twenty recoveries per hundred.\n\nThe definition, time window and uncertainty still matter. A group average cannot predict exactly what one person will experience.",
+    "say": "Absolute difference: difference in outcome rates between groups. Relative effect: effect expressed relative to a comparison rate. Uncertainty interval: range reflecting estimation uncertainty under a method. [pause 0.65] In an invented example, recovery is twenty in a hundred with one condition and forty in a hundred with another. That doubles the rate and adds twenty recoveries per hundred. [pause 0.65] The definition, time window and uncertainty still matter. A group average cannot predict exactly what one person will experience."
+  },
+  {
+    "id": "c09s04",
+    "step": "Chapter 9: Benefits and harms need the same attention.",
+    "text": "Side effect: unintended effect associated with a treatment. Withdrawal effect: symptoms associated with reducing or stopping a substance. Shared decision making: combining evidence, expertise and informed preferences.\n\nMedication effects depend on condition, agent, dose, health and other treatment. Review benefits, interactions, burdens and unwanted effects with qualified care.\n\nDo not start, stop or change medication from a course or headline. Averages inform a conversation; they do not substitute for an individual plan and monitoring.",
+    "say": "Side effect: unintended effect associated with a treatment. Withdrawal effect: symptoms associated with reducing or stopping a substance. Shared decision making: combining evidence, expertise and informed preferences. [pause 0.65] Medication effects depend on condition, agent, dose, health and other treatment. Review benefits, interactions, burdens and unwanted effects with qualified care. [pause 0.65] Do not start, stop or change medication from a course or headline. Averages inform a conversation; they do not substitute for an individual plan and monitoring."
+  },
+  {
+    "id": "c09s05",
+    "step": "Chapter 9: What does the evidence allow?",
+    "text": "Clinical evidence depends on sample selection, attrition, outcome reporting, comparator and duration. Statistical significance alone does not establish a worthwhile benefit.\n\nGuidelines synthesize evidence and clinical judgment for defined uses. Neither a trial nor this lesson provides an individual prescription.",
+    "say": "Clinical evidence depends on sample selection, attrition, outcome reporting, comparator and duration. Statistical significance alone does not establish a worthwhile benefit. [pause 0.65] Guidelines synthesize evidence and clinical judgment for defined uses. Neither a trial nor this lesson provides an individual prescription."
+  },
+  {
+    "id": "c09s06",
+    "step": "Chapter 9: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nUsing the invented rates, recovery rises from twenty to forty people per hundred.\n\nHow should the invented result be expressed?\n\nA. A twenty-percentage-point increase, alongside a doubled relative rate.\n\nB. A two-percentage-point increase.\n\nC. Guaranteed recovery for everyone.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] Using the invented rates, recovery rises from twenty to forty people per hundred. [pause 0.65] How should the invented result be expressed? [pause 0.65] A. A twenty-percentage-point increase, alongside a doubled relative rate. [pause 0.65] B. A two-percentage-point increase. [pause 0.65] C. Guaranteed recovery for everyone. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-0",
+    "step": "Chapter 9: feedback 1",
+    "text": "Forty minus twenty is twenty per hundred; forty is twice twenty.",
+    "say": "Forty minus twenty is twenty per hundred; forty is twice twenty. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-1",
+    "step": "Chapter 9: feedback 2",
+    "text": "That is not the difference between the stated rates.",
+    "say": "That is not the difference between the stated rates. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-2",
+    "step": "Chapter 9: feedback 3",
+    "text": "Even the treatment group has many non-recoveries in the example.",
+    "say": "Even the treatment group has many non-recoveries in the example. [pause 1.0]"
+  },
+  {
+    "id": "c09s07",
+    "step": "Chapter 9: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy is relative benefit incomplete without a baseline?\n\nWhy monitor after treatment starts?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why is relative benefit incomplete without a baseline? [pause 0.65] Why monitor after treatment starts? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c09s07-answers",
+    "step": "Chapter 9: recall answers",
+    "text": "The same relative effect can imply very different absolute changes.\n\nBenefits, unwanted effects and needs can change over time and require review.",
+    "say": "The same relative effect can imply very different absolute changes. [pause 0.65] Benefits, unwanted effects and needs can change over time and require review. [pause 1.0]"
+  },
+  {
+    "id": "c09s08",
+    "step": "Chapter 9: Take the idea into everyday life",
+    "text": "Use the invented teaching rates to write a balanced two-sentence result. Include one limitation and no treatment recommendation.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Use the invented teaching rates to write a balanced two-sentence result. Include one limitation and no treatment recommendation. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c10s01",
+    "step": "Chapter 10: An informed next step is a useful outcome",
+    "text": "The café wants a mental-health information page. It must explain credible care routes without becoming a diagnostic quiz, treatment service or collection of private symptom scores.",
+    "say": "The café wants a mental-health information page. It must explain credible care routes without becoming a diagnostic quiz, treatment service or collection of private symptom scores."
+  },
+  {
+    "id": "c10s02",
+    "step": "Chapter 10: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat should the information page offer?\n\nA. A diagnosis from a few informal questions.\n\nB. Clear educational distinctions and appropriate local care routes.\n\nC. A guaranteed treatment recommendation for every visitor.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What should the information page offer? [pause 0.65] A. A diagnosis from a few informal questions. [pause 0.65] B. Clear educational distinctions and appropriate local care routes. [pause 0.65] C. A guaranteed treatment recommendation for every visitor. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c10s02-feedback-0",
+    "step": "Chapter 10: feedback 1",
+    "text": "The page cannot provide a trained assessment.",
+    "say": "The page cannot provide a trained assessment."
+  },
+  {
+    "id": "c10s02-feedback-1",
+    "step": "Chapter 10: feedback 2",
+    "text": "This supports informed next steps without exceeding its scope.",
+    "say": "This supports informed next steps without exceeding its scope."
+  },
+  {
+    "id": "c10s02-feedback-2",
+    "step": "Chapter 10: feedback 3",
+    "text": "Treatment needs assessment and individualized choice.",
+    "say": "Treatment needs assessment and individualized choice."
+  },
+  {
+    "id": "c10s03",
+    "step": "Chapter 10: A care route should match the concern.",
+    "text": "Care navigation: finding appropriate information and services. Stepped care: matching and reviewing support intensity according to need. Accessibility: whether suitable care can actually be reached and used.\n\nA primary-care professional or qualified mental-health service can help assess concerns and discuss options. Local pathways differ, and cost, language and waiting times affect access.\n\nFor immediate danger, use local emergency or urgent crisis services. Routine educational content is not an urgent-response service.",
+    "say": "Care navigation: finding appropriate information and services. Stepped care: matching and reviewing support intensity according to need. Accessibility: whether suitable care can actually be reached and used. [pause 0.65] A primary-care professional or qualified mental-health service can help assess concerns and discuss options. Local pathways differ, and cost, language and waiting times affect access. [pause 0.65] For immediate danger, use local emergency or urgent crisis services. Routine educational content is not an urgent-response service."
+  },
+  {
+    "id": "c10s03b",
+    "step": "Chapter 10: Prepare questions without self-diagnosing.",
+    "text": "Informed choice: decision based on relevant benefits, risks and alternatives. Confidentiality: appropriate protection of personal information. Consent: freely given agreement based on sufficient information.\n\nA person can note what has changed, how daily life is affected and what they want help with. They can ask about qualifications, privacy, options, evidence and follow-up.\n\nThere is no need to fit a preferred diagnosis before seeking support. People should not be pressured to disclose private histories in a learning setting.",
+    "say": "Informed choice: decision based on relevant benefits, risks and alternatives. Confidentiality: appropriate protection of personal information. Consent: freely given agreement based on sufficient information. [pause 0.65] A person can note what has changed, how daily life is affected and what they want help with. They can ask about qualifications, privacy, options, evidence and follow-up. [pause 0.65] There is no need to fit a preferred diagnosis before seeking support. People should not be pressured to disclose private histories in a learning setting."
+  },
+  {
+    "id": "c10s04",
+    "step": "Chapter 10: Keep the explanation revisable.",
+    "text": "Biopsychosocial formulation: account considering biological, psychological and social influences. Recovery-oriented approach: support focused on meaningful life and the person’s goals. Professional boundary: limit protecting appropriate scope and roles.\n\nA useful clinical explanation connects a pattern, plausible processes, context and appropriate support. It remains open to alternative information and changing preferences.\n\nUse the course to read evidence and communicate more carefully. It does not qualify anyone to diagnose, assess risk or deliver treatment.",
+    "say": "Biopsychosocial formulation: account considering biological, psychological and social influences. Recovery-oriented approach: support focused on meaningful life and the person’s goals. Professional boundary: limit protecting appropriate scope and roles. [pause 0.65] A useful clinical explanation connects a pattern, plausible processes, context and appropriate support. It remains open to alternative information and changing preferences. [pause 0.65] Use the course to read evidence and communicate more carefully. It does not qualify anyone to diagnose, assess risk or deliver treatment."
+  },
+  {
+    "id": "c10s05",
+    "step": "Chapter 10: What does the evidence allow?",
+    "text": "Credible mental-health education distinguishes classification, formulation, treatment evidence and individual care. No course can guarantee recovery or replace professional assessment.\n\nThe final case checks reasoning on a fictional scenario. It is not a clinical competency assessment or a validated screening instrument.",
+    "say": "Credible mental-health education distinguishes classification, formulation, treatment evidence and individual care. No course can guarantee recovery or replace professional assessment. [pause 0.65] The final case checks reasoning on a fictional scenario. It is not a clinical competency assessment or a validated screening instrument."
+  },
+  {
+    "id": "c10s06",
+    "step": "Chapter 10: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA fictional service user reports immediate danger and needs urgent help.\n\nWhat is the appropriate course response?\n\nA. Use local urgent or emergency services for immediate danger.\n\nB. Wait to complete the educational chapters first.\n\nC. Ask other learners to assess the risk.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A fictional service user reports immediate danger and needs urgent help. [pause 0.65] What is the appropriate course response? [pause 0.65] A. Use local urgent or emergency services for immediate danger. [pause 0.65] B. Wait to complete the educational chapters first. [pause 0.65] C. Ask other learners to assess the risk. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-0",
+    "step": "Chapter 10: feedback 1",
+    "text": "Urgent concerns need an appropriate timely local response.",
+    "say": "Urgent concerns need an appropriate timely local response. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-1",
+    "step": "Chapter 10: feedback 2",
+    "text": "A course is not an urgent-care pathway.",
+    "say": "A course is not an urgent-care pathway. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-2",
+    "step": "Chapter 10: feedback 3",
+    "text": "Peers are not a substitute for suitable crisis assessment.",
+    "say": "Peers are not a substitute for suitable crisis assessment. [pause 1.0]"
+  },
+  {
+    "id": "c10s07",
+    "step": "Chapter 10: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhat can a learner prepare before a care conversation?\n\nWhat does this course not establish?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] What can a learner prepare before a care conversation? [pause 0.65] What does this course not establish? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c10s07-answers",
+    "step": "Chapter 10: recall answers",
+    "text": "Relevant changes, functional impact, goals and questions about options, privacy and review.\n\nIt does not establish a diagnosis, treatment plan, risk assessment or professional competence.",
+    "say": "Relevant changes, functional impact, goals and questions about options, privacy and review. [pause 0.65] It does not establish a diagnosis, treatment plan, risk assessment or professional competence. [pause 1.0]"
+  },
+  {
+    "id": "c10s08",
+    "step": "Chapter 10: Take the idea into everyday life",
+    "text": "Draft an educational information card for a fictional service: scope, qualified care routes, privacy and an urgent-help distinction. Do not collect personal symptoms.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Draft an educational information card for a fictional service: scope, qualified care routes, privacy and an urgent-help distinction. Do not collect personal symptoms. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  }
+]

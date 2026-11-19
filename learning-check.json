@@ -1,0 +1,79 @@
+{
+  "title": "Try a new case",
+  "caseTitle": "The workplace information page",
+  "subtitle": "An optional written transfer check after the ten chapters",
+  "intro": "Try this fictional case without your notes. Allow twenty to thirty minutes. Write somewhere private; this page does not collect or grade your answers. Compare with the suggested reasoning after your attempt.",
+  "paragraphs": [
+    "A workplace page labels a quiet employee depressed after a difficult week. A questionnaire score is described as a diagnosis and its cause. Two employees with one diagnosis have different needs, which the page calls impossible.",
+    "A volunteer avoids a genuinely unsafe task, while another reports persistent worry affecting daily life. Someone with a trauma history is pressed to retell the event publicly. A headline uses bipolar and psychosis as insults.",
+    "A provider claims one therapy is best for everyone. An invented trial reports recovery in twenty people per hundred in a comparison group and forty per hundred with treatment, but the headline says guaranteed cure and omits harms.",
+    "The organization wants a credible page with accessible professional care routes, respectful support and a clear distinction for urgent safety concerns."
+  ],
+  "tasks": [
+    {
+      "title": "Classification and individual understanding",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "prompt": "Correct the diagnostic claims and distinguish screen, diagnosis and formulation.",
+      "answer": "Quietness after a difficult week does not establish depression. A screen flags a possible concern; clinical assessment considers course, impact, health and context. A formulation is a revisable individual account. Shared categories allow varied patterns and care needs."
+    },
+    {
+      "title": "Anxiety, mood and context",
+      "chapters": [
+        4,
+        5
+      ],
+      "prompt": "Explain why support should differ across the cases without assigning diagnoses.",
+      "answer": "Avoidance may be appropriate for a real hazard. Persistent distress and impairment can warrant qualified assessment. Low mood and reduced activity may interact with barriers; this is not a blame statement or proof of one disorder."
+    },
+    {
+      "title": "Trauma and stigmatizing language",
+      "chapters": [
+        6,
+        7
+      ],
+      "prompt": "Propose respectful responses to the trauma request and headline.",
+      "answer": "Do not force disclosure or conduct informal exposure. Offer safety, privacy and choice. Psychosis is a clinical domain, and bipolar conditions involve assessed episodes; neither is an insult, a synonym for conflict or a prediction of danger."
+    },
+    {
+      "title": "Treatment evidence",
+      "chapters": [
+        8,
+        9
+      ],
+      "prompt": "Evaluate the universal therapy claim and express the invented result accurately.",
+      "answer": "Methods need condition-specific evidence and informed preferences. Twenty to forty recoveries per hundred is a twenty-percentage-point absolute increase and a doubled relative rate, not a guarantee. Comparator, uncertainty, harms and follow-up matter."
+    },
+    {
+      "title": "A bounded practical page",
+      "chapters": [
+        1,
+        3,
+        10
+      ],
+      "prompt": "Recommend educational content and care routes without turning the page into a service.",
+      "answer": "Explain scope, support informed questions and link qualified local care. Protect privacy and avoid symptom collection or individual advice. Immediate danger needs local urgent or emergency services. The page cannot diagnose, prescribe or provide risk assessment."
+    }
+  ],
+  "rubric": [
+    {
+      "title": "Accurate distinctions",
+      "strong": "Explains the relevant concepts and separates observations from interpretations.",
+      "developing": "Adds labels without explaining how the evidence supports them."
+    },
+    {
+      "title": "Evidence and alternatives",
+      "strong": "Considers competing explanations and a comparison that could distinguish them.",
+      "developing": "Treats a plausible account, score or correlation as a settled cause."
+    },
+    {
+      "title": "Proportionate application",
+      "strong": "States limitations, respects the people involved and explains what would change the recommendation.",
+      "developing": "Overgeneralizes to individuals or makes a recommendation beyond the evidence."
+    }
+  ],
+  "followup": "Return tomorrow or in a week with an unfamiliar example. Compare the quality of your explanation, not just your confidence. This self-check does not certify professional competence or establish general mastery."
+}

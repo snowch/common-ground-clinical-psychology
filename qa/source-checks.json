@@ -1,0 +1,102 @@
+{
+  "method": "HTTP availability checks of linked open references; DOI identity checked against Crossref. Availability is not independent academic review.",
+  "open_references": [
+    {
+      "url": "https://icd.who.int/browse/2026-01/mms/en",
+      "status": 200,
+      "final": "https://icd.who.int/browse/2026-01/mms/en",
+      "title": "ICD-11 for Mortality and Morbidity Statistics"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/15-1-what-are-psychological-disorders",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/15-1-what-are-psychological-disorders",
+      "title": "15.1 What Are Psychological Disorders? - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/15-2-diagnosing-and-classifying-psychological-disorders",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/15-2-diagnosing-and-classifying-psychological-disorders",
+      "title": "15.2 Diagnosing and Classifying Psychological Disorders - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/15-4-anxiety-disorders",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/15-4-anxiety-disorders",
+      "title": "15.4 Anxiety Disorders - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/15-6-posttraumatic-stress-disorder",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/15-6-trauma-and-stressor-related-disorders",
+      "title": "15.6 Trauma- and Stressor-Related Disorders - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/15-7-mood-disorders",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/15-7-depressive-bipolar-and-related-disorders",
+      "title": "15.7 Depressive, Bipolar, and Related Disorders - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/15-8-schizophrenia",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/15-8-schizophrenia",
+      "title": "15.8 Schizophrenia - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/16-1-mental-health-treatment-past-and-present",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/16-1-mental-health-treatment-past-and-present",
+      "title": "16.1 Mental Health Treatment: Past and Present - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment",
+      "title": "16.2 Types of Treatment - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/16-3-treatment-modalities",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/16-3-treatment-modalities",
+      "title": "16.3 Treatment Modalities - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://www.nice.org.uk/guidance/cg113",
+      "status": 200,
+      "final": "https://www.nice.org.uk/guidance/cg113",
+      "title": "Overview | Generalised anxiety disorder and panic disorder in adults: management  | Guidance | NICE"
+    },
+    {
+      "url": "https://www.nice.org.uk/guidance/cg178",
+      "status": 200,
+      "final": "https://www.nice.org.uk/guidance/cg178",
+      "title": "Overview | Psychosis and schizophrenia in adults: prevention and management  | Guidance | NICE"
+    },
+    {
+      "url": "https://www.nice.org.uk/guidance/cg185",
+      "status": 200,
+      "final": "https://www.nice.org.uk/guidance/cg185",
+      "title": "Overview | Bipolar disorder: assessment and management | Guidance | NICE"
+    },
+    {
+      "url": "https://www.nice.org.uk/guidance/ng116",
+      "status": 200,
+      "final": "https://www.nice.org.uk/guidance/ng116",
+      "title": "Overview | Post-traumatic stress disorder  | Guidance | NICE"
+    },
+    {
+      "url": "https://www.nice.org.uk/guidance/ng197",
+      "status": 200,
+      "final": "https://www.nice.org.uk/guidance/ng197",
+      "title": "Overview | Shared decision making | Guidance | NICE"
+    },
+    {
+      "url": "https://www.nice.org.uk/guidance/ng222",
+      "status": 200,
+      "final": "https://www.nice.org.uk/guidance/ng222",
+      "title": "Overview | Depression in adults: treatment and management  | Guidance | NICE"
+    }
+  ],
+  "doi_sources": []
+}

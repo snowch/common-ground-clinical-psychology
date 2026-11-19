@@ -1,0 +1,726 @@
+{
+  "c01s03": {
+    "type": "rows",
+    "title": "Three different questions",
+    "items": [
+      [
+        "Experience",
+        "What is the person reporting?"
+      ],
+      [
+        "Function",
+        "What activities are affected?"
+      ],
+      [
+        "Context",
+        "What changed around them?"
+      ]
+    ],
+    "caption": "A label cannot replace understanding the actual concern."
+  },
+  "c01s03b": {
+    "type": "compare",
+    "title": "Observation and diagnosis",
+    "left": [
+      "Observed change",
+      "Quiet after a difficult week",
+      "Several possible explanations"
+    ],
+    "right": [
+      "Clinical judgment",
+      "History and assessment",
+      "Criteria and alternatives"
+    ],
+    "caption": "A single behaviour is insufficient for diagnosis."
+  },
+  "c01s04": {
+    "type": "flow",
+    "title": "A proportionate first response",
+    "items": [
+      [
+        "Ask",
+        "A respectful open question"
+      ],
+      [
+        "Listen",
+        "Needs and preferences"
+      ],
+      [
+        "Offer",
+        "A practical option or care route"
+      ]
+    ],
+    "caption": "Support can be useful without an amateur diagnosis."
+  },
+  "c01s05": {
+    "type": "rows",
+    "title": "A clinical claim needs care",
+    "items": [
+      [
+        "Pattern",
+        "Duration, severity and functioning"
+      ],
+      [
+        "Alternatives",
+        "Health and context"
+      ],
+      [
+        "Response",
+        "Appropriate assessment and support"
+      ]
+    ],
+    "caption": "Clinical terminology should improve care rather than invite casual labeling."
+  },
+  "c02s03": {
+    "type": "compare",
+    "title": "Category and person",
+    "left": [
+      "Classification",
+      "A shared clinical description",
+      "Defined criteria"
+    ],
+    "right": [
+      "Individual",
+      "A particular history and context",
+      "Needs and preferences"
+    ],
+    "caption": "Sharing a category does not imply identical causes or treatment needs."
+  },
+  "c02s03b": {
+    "type": "rows",
+    "title": "Information beyond the category",
+    "items": [
+      [
+        "Severity",
+        "How marked is the difficulty?"
+      ],
+      [
+        "Impact",
+        "Which daily activities are affected?"
+      ],
+      [
+        "Overlap",
+        "What else needs assessment?"
+      ]
+    ],
+    "caption": "Dimensions and co-occurrence add clinically relevant information."
+  },
+  "c02s04": {
+    "type": "compare",
+    "title": "Two evaluation questions",
+    "left": [
+      "Reliability",
+      "Do assessments agree?",
+      "Consistency under conditions"
+    ],
+    "right": [
+      "Validity",
+      "What does the category support?",
+      "Meaning and intended use"
+    ],
+    "caption": "Consistent labels still need a justified interpretation."
+  },
+  "c02s05": {
+    "type": "rows",
+    "title": "Use a category proportionately",
+    "items": [
+      [
+        "Language",
+        "Shared description"
+      ],
+      [
+        "Detail",
+        "Severity, overlap and context"
+      ],
+      [
+        "Limit",
+        "Not a complete person or cause"
+      ]
+    ],
+    "caption": "Classification supports assessment rather than replacing it."
+  },
+  "c03s03": {
+    "type": "compare",
+    "title": "Different uses",
+    "left": [
+      "Screening",
+      "Flag a possible concern",
+      "Further assessment may follow"
+    ],
+    "right": [
+      "Clinical assessment",
+      "Integrate relevant information",
+      "Consider alternatives and needs"
+    ],
+    "caption": "A screening result is not a complete clinical conclusion."
+  },
+  "c03s03b": {
+    "type": "rows",
+    "title": "Ask what the information adds",
+    "items": [
+      [
+        "Measure",
+        "Validated for which use?"
+      ],
+      [
+        "History",
+        "What changed over time?"
+      ],
+      [
+        "Context",
+        "What influences daily functioning?"
+      ]
+    ],
+    "caption": "Evidence is integrated rather than reduced to one score."
+  },
+  "c03s04": {
+    "type": "flow",
+    "title": "A revisable formulation",
+    "items": [
+      [
+        "Describe",
+        "Pattern and context"
+      ],
+      [
+        "Connect",
+        "Possible processes and resources"
+      ],
+      [
+        "Review",
+        "Evidence and alternatives"
+      ]
+    ],
+    "caption": "An individualized account remains a hypothesis rather than a certainty."
+  },
+  "c03s05": {
+    "type": "rows",
+    "title": "A score needs an interpretation",
+    "items": [
+      [
+        "Purpose",
+        "Screening or another use?"
+      ],
+      [
+        "Validation",
+        "Population and threshold?"
+      ],
+      [
+        "Next step",
+        "Appropriate assessment and choice"
+      ]
+    ],
+    "caption": "A number is information within a process, not the whole process."
+  },
+  "c04s03": {
+    "type": "compare",
+    "title": "Different levels of claim",
+    "left": [
+      "Ordinary response",
+      "A demanding situation",
+      "Context may explain it"
+    ],
+    "right": [
+      "Clinical concern",
+      "Persistent distress or impairment",
+      "Suitable assessment needed"
+    ],
+    "caption": "The distinction requires more than one episode of worry."
+  },
+  "c04s03b": {
+    "type": "flow",
+    "title": "A possible maintaining cycle",
+    "items": [
+      [
+        "Threat expectation",
+        "Anticipated harm"
+      ],
+      [
+        "Avoidance",
+        "Situation is not entered"
+      ],
+      [
+        "Relief",
+        "The action may become more likely"
+      ]
+    ],
+    "caption": "This is a clinical hypothesis, not a diagnosis from reluctance."
+  },
+  "c04s04": {
+    "type": "rows",
+    "title": "A responsible care question",
+    "items": [
+      [
+        "Assessment",
+        "Which difficulty and alternatives?"
+      ],
+      [
+        "Options",
+        "What evidence and preferences?"
+      ],
+      [
+        "Safety",
+        "Appropriate professional plan?"
+      ]
+    ],
+    "caption": "Understanding a mechanism does not authorize treating another person."
+  },
+  "c04s05": {
+    "type": "rows",
+    "title": "Interpret anxiety carefully",
+    "items": [
+      [
+        "Threat",
+        "Actual conditions and meaning"
+      ],
+      [
+        "Pattern",
+        "Duration and functional impact"
+      ],
+      [
+        "Care",
+        "Assessed, collaborative options"
+      ]
+    ],
+    "caption": "A process model is not a diagnostic shortcut."
+  },
+  "c05s03": {
+    "type": "rows",
+    "title": "Understand the pattern",
+    "items": [
+      [
+        "Experience",
+        "Mood and interest"
+      ],
+      [
+        "Function",
+        "Daily activity and relationships"
+      ],
+      [
+        "Time",
+        "Course and change from usual"
+      ]
+    ],
+    "caption": "A clinical pattern requires more than one feeling or stereotype."
+  },
+  "c05s03b": {
+    "type": "flow",
+    "title": "A possible bidirectional pattern",
+    "items": [
+      [
+        "Low mood",
+        "Activity can become harder"
+      ],
+      [
+        "Reduced engagement",
+        "Fewer valued opportunities"
+      ],
+      [
+        "Context",
+        "Health and access affect both"
+      ]
+    ],
+    "caption": "A maintaining-cycle hypothesis should guide support without blame."
+  },
+  "c05s04": {
+    "type": "rows",
+    "title": "A collaborative care decision",
+    "items": [
+      [
+        "Needs",
+        "Assessed pattern and circumstances"
+      ],
+      [
+        "Options",
+        "Evidence, access and preference"
+      ],
+      [
+        "Review",
+        "Benefit and unwanted effects"
+      ]
+    ],
+    "caption": "Treatment is individualized rather than a universal positivity instruction."
+  },
+  "c05s05": {
+    "type": "rows",
+    "title": "A depression claim needs context",
+    "items": [
+      [
+        "Pattern",
+        "Experience, course and functioning"
+      ],
+      [
+        "Alternatives",
+        "Health and other conditions"
+      ],
+      [
+        "Choice",
+        "Evidence-based collaborative care"
+      ]
+    ],
+    "caption": "Support should be proportionate to the concern and free of blame."
+  },
+  "c06s03": {
+    "type": "compare",
+    "title": "Different claims",
+    "left": [
+      "Exposure",
+      "An event occurred",
+      "A relevant history"
+    ],
+    "right": [
+      "Diagnosis",
+      "A specific assessed pattern",
+      "Further information required"
+    ],
+    "caption": "A trauma history does not uniquely determine the later outcome."
+  },
+  "c06s03b": {
+    "type": "flow",
+    "title": "A possible reminder pathway",
+    "items": [
+      [
+        "Cue",
+        "A similar sound"
+      ],
+      [
+        "Meaning",
+        "Connection with prior threat"
+      ],
+      [
+        "Response",
+        "Distress or protective action"
+      ]
+    ],
+    "caption": "The pathway is illustrative and does not establish a diagnosis or event detail."
+  },
+  "c06s04": {
+    "type": "rows",
+    "title": "A proportionate response",
+    "items": [
+      [
+        "Safety",
+        "Reduce immediate hazards"
+      ],
+      [
+        "Choice",
+        "Do not force disclosure"
+      ],
+      [
+        "Care",
+        "Offer appropriate professional routes"
+      ]
+    ],
+    "caption": "Support can respect a trauma history without trying to treat it informally."
+  },
+  "c06s05": {
+    "type": "rows",
+    "title": "Read a trauma claim carefully",
+    "items": [
+      [
+        "History",
+        "What is actually known?"
+      ],
+      [
+        "Pattern",
+        "What was assessed?"
+      ],
+      [
+        "Response",
+        "Safety, choice and professional care"
+      ]
+    ],
+    "caption": "A reaction should not become an invitation to intrusive investigation."
+  },
+  "c07s03": {
+    "type": "rows",
+    "title": "Assessment needs alternatives",
+    "items": [
+      [
+        "Experience",
+        "What is being reported?"
+      ],
+      [
+        "Context",
+        "Health, culture, sleep and substances"
+      ],
+      [
+        "Impact",
+        "Course and daily functioning"
+      ]
+    ],
+    "caption": "A symptom domain is not a complete diagnosis."
+  },
+  "c07s03b": {
+    "type": "compare",
+    "title": "Different meanings",
+    "left": [
+      "Everyday variability",
+      "Changing feelings",
+      "Several ordinary contexts"
+    ],
+    "right": [
+      "Clinical episode",
+      "Sustained assessed pattern",
+      "Course and functional change"
+    ],
+    "caption": "The distinction cannot be made from one casual observation."
+  },
+  "c07s04": {
+    "type": "rows",
+    "title": "A respectful support response",
+    "items": [
+      [
+        "Listen",
+        "Acknowledge the experience"
+      ],
+      [
+        "Avoid",
+        "Insults and amateur diagnosis"
+      ],
+      [
+        "Connect",
+        "Appropriate care and safety support"
+      ]
+    ],
+    "caption": "A diagnosis does not define an identity or establish dangerousness."
+  },
+  "c07s05": {
+    "type": "rows",
+    "title": "Avoid a diagnostic shortcut",
+    "items": [
+      [
+        "Term",
+        "Which clinical domain?"
+      ],
+      [
+        "Evidence",
+        "History, context and assessment"
+      ],
+      [
+        "Person",
+        "Needs, preferences and dignity"
+      ]
+    ],
+    "caption": "Clinical understanding should reduce stereotypes rather than supply insults."
+  },
+  "c08s03": {
+    "type": "compare",
+    "title": "Rationale and outcome evidence",
+    "left": [
+      "Theory",
+      "A proposed process",
+      "Makes predictions"
+    ],
+    "right": [
+      "Evaluation",
+      "Benefit and harms",
+      "Tests a specified use"
+    ],
+    "caption": "A persuasive model is not sufficient efficacy evidence."
+  },
+  "c08s03b": {
+    "type": "rows",
+    "title": "Compare the actual treatment",
+    "items": [
+      [
+        "Target",
+        "Which difficulty or process?"
+      ],
+      [
+        "Method",
+        "What happens in sessions?"
+      ],
+      [
+        "Evidence",
+        "Which outcome in which people?"
+      ]
+    ],
+    "caption": "A broad school name does not specify one uniform intervention."
+  },
+  "c08s04": {
+    "type": "flow",
+    "title": "A collaborative treatment choice",
+    "items": [
+      [
+        "Discuss",
+        "Options and preferences"
+      ],
+      [
+        "Plan",
+        "Goals, method and review"
+      ],
+      [
+        "Reassess",
+        "Benefit, burden and concerns"
+      ]
+    ],
+    "caption": "The relationship supports an evidence-informed, revisable plan."
+  },
+  "c08s05": {
+    "type": "rows",
+    "title": "Evaluate a therapy claim",
+    "items": [
+      [
+        "Use",
+        "Which difficulty and population?"
+      ],
+      [
+        "Comparison",
+        "Against which alternative?"
+      ],
+      [
+        "Review",
+        "Benefits, burdens and preferences?"
+      ]
+    ],
+    "caption": "Treatment choices require more specificity than a school or slogan."
+  },
+  "c09s03": {
+    "type": "flow",
+    "title": "A treatment evaluation",
+    "items": [
+      [
+        "Allocate",
+        "Comparable groups by chance"
+      ],
+      [
+        "Compare",
+        "Relevant treatment conditions"
+      ],
+      [
+        "Measure",
+        "Defined outcomes and harms"
+      ]
+    ],
+    "caption": "Randomization strengthens a bounded causal inference, not a universal guarantee."
+  },
+  "c09s03b": {
+    "type": "compare",
+    "title": "Invented teaching rates",
+    "left": [
+      "Comparison",
+      "20 recoveries per 100",
+      "Defined period"
+    ],
+    "right": [
+      "Treatment",
+      "40 recoveries per 100",
+      "Same definition and period"
+    ],
+    "caption": "The absolute difference is twenty percentage points; these are not clinical trial data."
+  },
+  "c09s04": {
+    "type": "rows",
+    "title": "Read the whole result",
+    "items": [
+      [
+        "Benefit",
+        "Meaningful absolute outcome"
+      ],
+      [
+        "Harm",
+        "Unwanted effects and withdrawals"
+      ],
+      [
+        "Applicability",
+        "People, dose and follow-up"
+      ]
+    ],
+    "caption": "A treatment decision weighs evidence and individual circumstances."
+  },
+  "c09s05": {
+    "type": "rows",
+    "title": "A clinical evidence summary",
+    "items": [
+      [
+        "Effect",
+        "Absolute and relative outcomes"
+      ],
+      [
+        "Design",
+        "Comparison and uncertainty"
+      ],
+      [
+        "Care",
+        "Benefits, harms and preferences"
+      ]
+    ],
+    "caption": "A reported average benefit is not an individual prescription."
+  },
+  "c10s03": {
+    "type": "flow",
+    "title": "A proportionate care route",
+    "items": [
+      [
+        "Concern",
+        "What kind of help is needed?"
+      ],
+      [
+        "Access",
+        "Which qualified local route is available?"
+      ],
+      [
+        "Review",
+        "Was the support usable and appropriate?"
+      ]
+    ],
+    "caption": "Urgent safety concerns need local urgent services rather than a course response."
+  },
+  "c10s03b": {
+    "type": "rows",
+    "title": "Questions for care",
+    "items": [
+      [
+        "Assessment",
+        "What information would help?"
+      ],
+      [
+        "Options",
+        "Benefits, burdens and alternatives?"
+      ],
+      [
+        "Follow-up",
+        "How will progress be reviewed?"
+      ]
+    ],
+    "caption": "Preparing a conversation is different from diagnosing or prescribing."
+  },
+  "c10s04": {
+    "type": "rows",
+    "title": "A responsible final account",
+    "items": [
+      [
+        "Pattern",
+        "What is known and uncertain?"
+      ],
+      [
+        "Evidence",
+        "Which explanations and options fit?"
+      ],
+      [
+        "Action",
+        "Qualified, accessible and chosen support"
+      ]
+    ],
+    "caption": "Clinical understanding supports humane decisions within appropriate boundaries."
+  },
+  "c10s05": {
+    "type": "rows",
+    "title": "A useful final clinical check",
+    "items": [
+      [
+        "Credibility",
+        "Sources and scope"
+      ],
+      [
+        "Choice",
+        "Needs, access and preferences"
+      ],
+      [
+        "Boundary",
+        "Education or professional care?"
+      ]
+    ],
+    "caption": "An informed next step is a legitimate educational outcome."
+  }
+}

@@ -1,0 +1,939 @@
+c01s01 Chapter 1: Understand distress without turning it into a label
+Sam has a difficult week and becomes quiet at the café. Leo wants to name a disorder from that change. Maya asks what Sam is experiencing, what has changed and whether any support is wanted.
+
+c01s02 Chapter 1: Make a first decision
+First, make a prediction about the café story.
+
+What is the best first response to Sam?
+
+A. Assign a diagnosis from the quietness.
+
+B. Ask respectfully about the change and wanted support.
+
+C. Dismiss distress unless a diagnosis is established.
+
+Choose an option before checking the feedback.
+
+c01s02-feedback-0 Chapter 1: feedback 1
+One behaviour does not establish a diagnosis.
+
+c01s02-feedback-1 Chapter 1: feedback 2
+This recognizes the concern while preserving choice and uncertainty.
+
+c01s02-feedback-2 Chapter 1: feedback 3
+People can deserve support without a diagnostic label.
+
+c01s03 Chapter 1: Clinical psychology studies difficulties and care.
+Impairment: difficulty in important areas of functioning.
+
+Clinical psychology examines patterns of difficulty and ways to assess and support people. Distress can be understandable in context and still deserve help.
+
+A brief behavioural change does not establish a disorder. Duration, severity, functioning, health and circumstances matter. This course teaches interpretation of evidence, not clinical practice.
+
+c01s03b Chapter 1: A diagnosis is a professional judgment.
+Diagnosis: classification based on clinical assessment and criteria. Differential assessment: considering alternative explanations.
+
+Similar experiences can occur in different conditions or without a disorder. Physical illness, medication, sleep, bereavement and social adversity may be relevant.
+
+A qualified assessment considers alternatives, preferences and appropriate information. Do not diagnose yourself or another person from a course vignette or isolated symptom.
+
+c01s04 Chapter 1: Support does not require a label.
+Stigma: discrediting stereotypes or treatment of people. Person-centred care: care attentive to individual needs and preferences.
+
+Ask respectfully, listen and offer practical choices without forcing disclosure. A person may want time, a changed task or help finding professional support.
+
+Avoid treating a diagnosis as a complete identity. Persistent distress, impairment or safety concerns are reasons to seek appropriate care rather than debate labels informally.
+
+c01s05 Chapter 1: What does the evidence allow?
+Classification helps communication and care when used with trained assessment. It does not divide all ordinary distress from disorder with one simple behavioural rule.
+
+The fictional examples are educational and cannot diagnose, rule out a condition or substitute for professional care.
+
+c01s06 Chapter 1: Apply the distinction
+Apply the idea to this new fictional case.
+
+A person reports persistent difficulty that affects daily functioning, but no assessment has occurred.
+
+What should the course reader conclude?
+
+A. The symptom proves one disorder.
+
+B. The person is responsible for fixing it alone.
+
+C. Several explanations remain and suitable assessment may be useful.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c01s06-feedback-0 Chapter 1: feedback 1
+A symptom can occur in several clinical and non-clinical situations.
+
+c01s06-feedback-1 Chapter 1: feedback 2
+Care and practical support can be appropriate.
+
+c01s06-feedback-2 Chapter 1: feedback 3
+The conclusion respects uncertainty and the possible need for help.
+
+c01s07 Chapter 1: Explain it without the notes
+Try these questions without your notes.
+
+How do distress and impairment differ?
+
+Why can support precede diagnosis?
+
+Reveal the suggested answers after trying.
+
+c01s07-answers Chapter 1: recall answers
+Distress concerns unpleasant experience; impairment concerns affected functioning.
+
+Practical needs can be recognized without establishing a disorder.
+
+c01s08 Chapter 1: Take the idea into everyday life
+Use a fictional scene to write an open question and one practical support option without naming a diagnosis.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c02s01 Chapter 2: Classification is a tool with limits
+Two people with the same diagnosis describe quite different difficulties. Leo says one must be mislabelled. Maya asks whether a category guarantees identical symptoms, causes or care needs.
+
+c02s02 Chapter 2: Make a first decision
+First, make a prediction about the café story.
+
+What explains different experiences within one diagnosis?
+
+A. A category can include varied patterns and severity.
+
+B. Every diagnosis guarantees identical symptoms.
+
+C. Variation proves classification has no use.
+
+Choose an option before checking the feedback.
+
+c02s02-feedback-0 Chapter 2: feedback 1
+Categories organize patterns without describing each person completely.
+
+c02s02-feedback-1 Chapter 2: feedback 2
+Within-category variation is clinically important.
+
+c02s02-feedback-2 Chapter 2: feedback 3
+A tool can be useful while retaining limits.
+
+c02s03 Chapter 2: Systems organize patterns of difficulty.
+Diagnostic classification: system for grouping clinically relevant patterns. ICD: World Health Organization classification of diseases. DSM: American Psychiatric Association diagnostic manual.
+
+Classification systems provide shared language and specified criteria. Their editions and purposes matter, and professional use requires training.
+
+A category does not identify one unique biological cause or describe every aspect of a person. People within a category can differ in features, severity and support needs.
+
+c02s03b Chapter 2: Dimensions describe degree and variation.
+Dimensional approach: describing features along degrees or continua. Severity: degree of a defined difficulty. Comorbidity: co-occurrence of conditions or diagnoses.
+
+Some experiences vary by degree rather than falling into naturally separate boxes. Dimensional descriptions can supplement categories and track change.
+
+Co-occurring difficulties complicate a single-label explanation. An assessment should describe the pattern and its impact rather than count labels as a complete understanding.
+
+c02s04 Chapter 2: Reliability and validity are different questions.
+Diagnostic reliability: consistency of classification across suitable assessments. Diagnostic validity: support for the meaning and use of a category. Cultural formulation: understanding concerns in relevant cultural contexts.
+
+Agreement between clinicians is important, but agreement alone does not prove one underlying mechanism. Evidence must support the category’s intended use.
+
+Language, social context and cultural meaning affect assessment. Unusual behaviour relative to one group is not automatically a disorder.
+
+c02s05 Chapter 2: What does the evidence allow?
+ICD and DSM are evolving professional classification systems. They organize evidence and communication but have boundary, overlap and cultural interpretation issues.
+
+The course does not reproduce a diagnostic checklist or establish competence to apply criteria.
+
+c02s06 Chapter 2: Apply the distinction
+Apply the idea to this new fictional case.
+
+Two trained clinicians independently assign the same classification from suitable information.
+
+What does the agreement establish most directly?
+
+A. A single biological cause.
+
+B. Consistency under the assessed conditions.
+
+C. The same treatment is best for every person.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c02s06-feedback-0 Chapter 2: feedback 1
+Reliability does not establish a unique mechanism.
+
+c02s06-feedback-1 Chapter 2: feedback 2
+Agreement concerns reliability; interpretation requires additional evidence.
+
+c02s06-feedback-2 Chapter 2: feedback 3
+Treatment depends on evidence, assessment and preferences.
+
+c02s07 Chapter 2: Explain it without the notes
+Try these questions without your notes.
+
+How does dimensional description add to a category?
+
+Why does reliability not establish validity?
+
+Reveal the suggested answers after trying.
+
+c02s07-answers Chapter 2: recall answers
+It describes degrees of particular features, severity and impact.
+
+Agreement can occur even when the meaning or intended use needs further support.
+
+c02s08 Chapter 2: Take the idea into everyday life
+Rewrite a fictional diagnosis-as-identity statement to describe a person, a difficulty and an uncertainty respectfully.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c03s01 Chapter 3: Assessment gathers evidence; formulation connects it
+A visitor takes a short online questionnaire and treats its score as a complete explanation. Maya asks what the tool was designed to do and what information it leaves out.
+
+c03s02 Chapter 3: Make a first decision
+First, make a prediction about the café story.
+
+What is the main limit of the questionnaire?
+
+A. The score is never useful.
+
+B. A screen cannot alone diagnose or explain the difficulty.
+
+C. A high score identifies one definite cause.
+
+Choose an option before checking the feedback.
+
+c03s02-feedback-0 Chapter 3: feedback 1
+A validated tool can support a defined screening use.
+
+c03s02-feedback-1 Chapter 3: feedback 2
+Its purpose and scope are narrower than a complete assessment.
+
+c03s02-feedback-2 Chapter 3: feedback 3
+A score is not a causal mechanism.
+
+c03s03 Chapter 3: A screen is not a diagnosis.
+Sensitivity: proportion of cases detected by a test. Specificity: proportion of non-cases correctly identified.
+
+Screening can help identify who may benefit from further assessment. A positive result can be a false positive, and a negative result does not rule out every concern.
+
+Interpretation depends on the tool, threshold, population and prevalence. A score cannot by itself explain the cause or determine a treatment.
+
+c03s03b Chapter 3: Assessment integrates several sources.
+Clinical interview: structured or guided professional inquiry. Psychometric measure: standardized instrument measuring a defined construct. Clinical history: relevant course, context and prior care.
+
+A suitable assessment may combine interview, validated measures and other information with consent. Medical factors, safety, functioning and the person’s own goals can matter.
+
+A measure needs validation for its intended use and population. Collecting more scores does not automatically produce better understanding.
+
+c03s04 Chapter 3: A formulation is a testable working account.
+Predisposing factor: earlier condition that may increase vulnerability. Maintaining factor: process that may sustain a difficulty.
+
+A formulation links possible vulnerabilities, triggers, maintaining processes and protective resources. It should be developed collaboratively and revised when evidence changes.
+
+A coherent story is not automatically a proven cause. State alternatives and what would change the account. Diagnosis and formulation answer different, complementary questions.
+
+c03s05 Chapter 3: What does the evidence allow?
+Validated screening tools can support care pathways, but accuracy depends on threshold and population. Predictive values change with prevalence.
+
+Formulation can guide questions and care, but a plausible narrative needs evidence and collaboration. The course does not authorize informal assessment of others.
+
+c03s06 Chapter 3: Apply the distinction
+Apply the idea to this new fictional case.
+
+A professional proposes a possible maintaining process after discussing a person’s history and current difficulties.
+
+What would strengthen the formulation?
+
+A. Keep the story unchanged because it sounds coherent.
+
+B. Choose the most dramatic explanation.
+
+C. Specify alternatives and evidence that would revise it.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c03s06-feedback-0 Chapter 3: feedback 1
+Coherence alone does not establish a cause.
+
+c03s06-feedback-1 Chapter 3: feedback 2
+Vividness is not evidence of accuracy.
+
+c03s06-feedback-2 Chapter 3: feedback 3
+A working account should be open to correction and collaboration.
+
+c03s07 Chapter 3: Explain it without the notes
+Try these questions without your notes.
+
+Why does prevalence matter for a positive screen?
+
+How does formulation differ from diagnosis?
+
+Reveal the suggested answers after trying.
+
+c03s07-answers Chapter 3: recall answers
+The proportion of true and false positives depends on how common the target condition is in the tested population.
+
+Diagnosis classifies a pattern; formulation connects possible processes and context for an individual.
+
+c03s08 Chapter 3: Take the idea into everyday life
+Evaluate the stated purpose of a public screening tool without taking or interpreting anyone’s score. Identify one intended use and one limit.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c04s01 Chapter 4: Anxiety can protect and constrain
+Jo worries before a presentation and declines one public slot. Leo calls it an anxiety disorder. Maya asks about the pattern, impact and whether the situation contains a real threat.
+
+c04s02 Chapter 4: Make a first decision
+First, make a prediction about the café story.
+
+What can Jo’s declined slot establish?
+
+A. An anxiety diagnosis.
+
+B. One choice whose context and impact need understanding.
+
+C. That avoidance is always harmful.
+
+Choose an option before checking the feedback.
+
+c04s02-feedback-0 Chapter 4: feedback 1
+Diagnosis needs more information and trained assessment.
+
+c04s02-feedback-1 Chapter 4: feedback 2
+The conclusion matches the observation and preserves alternatives.
+
+c04s02-feedback-2 Chapter 4: feedback 3
+Avoidance can be protective or reflect a reasonable preference.
+
+c04s03 Chapter 4: Fear and anxiety are not automatically disorders.
+Fear: response to an immediate perceived threat. Clinical significance: importance of a pattern for distress or functioning.
+
+Threat responses can support protection and preparation. Anxiety-related conditions involve patterns requiring professional assessment, rather than the presence of worry alone.
+
+Duration, intensity, impairment and context matter. A response to an unsafe or discriminatory environment should not be reduced to an internal defect.
+
+c04s03b Chapter 4: Avoidance can reduce distress immediately.
+Negative reinforcement: removal or prevention that increases an action. Safety behaviour: action intended to prevent a feared outcome.
+
+Avoidance can be protective when danger is real. In some anxiety patterns, relief can maintain avoidance and limit opportunities to update threat expectations.
+
+That is one possible process, not an explanation of every refusal. Ask what is being avoided, what follows and whether alternative conditions are safe.
+
+c04s04 Chapter 4: Treatment is assessed and collaborative.
+Cognitive behavioural therapy: psychological therapy examining relevant thoughts, actions and experiences. Exposure-based treatment: planned contact with feared cues within an appropriate clinical treatment. Shared decision: care choice informed by evidence and preferences.
+
+Guidelines support particular psychological and medication options for assessed anxiety conditions. The appropriate choice depends on the condition and individual needs.
+
+Exposure is not forcing someone into danger or conducting a course experiment. It requires an appropriate clinical plan, informed participation and attention to safety.
+
+c04s05 Chapter 4: What does the evidence allow?
+NICE guidance distinguishes assessed anxiety conditions and specifies care options. Evidence from a treatment trial does not diagnose someone with everyday worry.
+
+The café story is conceptual. Do not conduct self-directed exposure, remove another person’s coping support or change medication based on this lesson.
+
+c04s06 Chapter 4: Apply the distinction
+Apply the idea to this new fictional case.
+
+A volunteer reports persistent anxiety affecting daily functioning and asks where to seek help.
+
+What should the team do?
+
+A. Force participation as informal exposure.
+
+B. Treat every concern as irrational.
+
+C. Offer a respectful discussion and appropriate care routes if needed.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c04s06-feedback-0 Chapter 4: feedback 1
+Coercion is not appropriate treatment.
+
+c04s06-feedback-1 Chapter 4: feedback 2
+Some threats and constraints are real.
+
+c04s06-feedback-2 Chapter 4: feedback 3
+Support can preserve agency while recognizing persistent difficulties.
+
+c04s07 Chapter 4: Explain it without the notes
+Try these questions without your notes.
+
+Why is worry alone insufficient for diagnosis?
+
+How can immediate relief maintain avoidance?
+
+Reveal the suggested answers after trying.
+
+c04s07-answers Chapter 4: recall answers
+Pattern, duration, severity, functioning and context need assessment.
+
+If avoiding reduces distress, the avoidance action can become more likely.
+
+c04s08 Chapter 4: Take the idea into everyday life
+Use a fictional presentation scene to distinguish a real hazard, ordinary anticipation and a possible maintaining process. Do not run exposure exercises.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c05s01 Chapter 5: Low mood has several possible contexts
+After several losses, Sam feels low and stops enjoying usual activities. Leo says Sam should choose a positive attitude. Maya asks about the duration, impact, health and support available.
+
+c05s02 Chapter 5: Make a first decision
+First, make a prediction about the café story.
+
+What is missing from the positive-attitude advice?
+
+A. Assessment of the pattern, barriers and available support.
+
+B. A stronger demand for effort.
+
+C. Proof that sadness always means depression.
+
+Choose an option before checking the feedback.
+
+c05s02-feedback-0 Chapter 5: feedback 1
+The advice oversimplifies a potentially important difficulty.
+
+c05s02-feedback-1 Chapter 5: feedback 2
+Pressure does not identify or address the actual needs.
+
+c05s02-feedback-2 Chapter 5: feedback 3
+Sadness alone does not establish a depressive syndrome.
+
+c05s03 Chapter 5: A mood is not the whole pattern.
+Low mood: an unpleasant emotional state. Anhedonia: reduced interest or pleasure. Depressive syndrome: a clinically assessed pattern of mood and related difficulties.
+
+Depression involves patterns across experience and functioning, not sadness alone. Health, medication, sleep, bereavement and other conditions may be relevant.
+
+Persistent loss of interest or marked change deserves attention. A friend can offer support, but cannot establish the diagnosis or its cause from a short conversation.
+
+c05s03b Chapter 5: A maintaining process is not a blame statement.
+Withdrawal: reduced engagement in activities or relationships. Reinforcement opportunity: chance for an action to have a valued consequence. Bidirectional relation: influences can operate in both directions.
+
+Low mood can make activity harder, while reduced access to meaningful activity can further affect mood. Pain, poverty and exclusion can constrain choices.
+
+This possible cycle is not evidence that a person caused their difficulty. Support should consider the actual barriers and what is feasible.
+
+c05s04 Chapter 5: Care choices depend on assessed need.
+Treatment preference: the person’s informed view of available options. Monitoring: reviewing benefit, burden and changes over time.
+
+Professional guidelines include psychological and medication options under specified conditions. Behavioural activation is a structured treatment, not a demand to be busy or cheerful.
+
+Choice should consider severity, prior response, preferences, access and possible harms. Starting, stopping or changing medication requires appropriate professional advice.
+
+c05s05 Chapter 5: What does the evidence allow?
+Depression guidance evaluates treatments for defined populations and outcomes. Average benefit does not establish the best option for every individual.
+
+A biological or psychological model is not a complete explanation of every case. This course is neither diagnosis nor a self-treatment programme.
+
+c05s06 Chapter 5: Apply the distinction
+Apply the idea to this new fictional case.
+
+A person hears that increasing activity is sometimes part of depression treatment.
+
+Which description of behavioural activation is accurate?
+
+A. A requirement to be cheerful.
+
+B. A structured treatment developed within suitable professional care.
+
+C. A guarantee that activity fixes every cause of depression.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c05s06-feedback-0 Chapter 5: feedback 1
+The treatment is not a demand to display positive emotion.
+
+c05s06-feedback-1 Chapter 5: feedback 2
+Its use involves assessment, collaboration and appropriate planning.
+
+c05s06-feedback-2 Chapter 5: feedback 3
+No single treatment guarantees every outcome or removes all social barriers.
+
+c05s07 Chapter 5: Explain it without the notes
+Try these questions without your notes.
+
+Why is anhedonia different from ordinary sadness?
+
+Why does a maintaining cycle not imply blame?
+
+Reveal the suggested answers after trying.
+
+c05s07-answers Chapter 5: recall answers
+It concerns reduced interest or pleasure, which is a distinct feature requiring context.
+
+Processes and constraints can sustain difficulties without being freely chosen or morally caused.
+
+c05s08 Chapter 5: Take the idea into everyday life
+Use a fictional low-mood scene to identify one observation, one contextual barrier and one respectful support question.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c06s01 Chapter 6: Trauma exposure and diagnosis are different
+A visitor who experienced a frightening incident becomes uneasy near a noisy machine. Leo assumes everyone exposed to the event has the same disorder and asks for detailed retellings in the group.
+
+c06s02 Chapter 6: Make a first decision
+First, make a prediction about the café story.
+
+What should change in Leo’s plan?
+
+A. Require the same account from every visitor.
+
+B. Respect safety and choice without assuming a shared diagnosis.
+
+C. Treat visible calm as proof of no difficulty.
+
+Choose an option before checking the feedback.
+
+c06s02-feedback-0 Chapter 6: feedback 1
+Forced retelling can be intrusive and inappropriate.
+
+c06s02-feedback-1 Chapter 6: feedback 2
+Exposure, experience and support needs vary across people.
+
+c06s02-feedback-2 Chapter 6: feedback 3
+Appearance alone does not establish internal experience.
+
+c06s03 Chapter 6: Exposure does not dictate one response.
+Traumatic event: event involving serious threat or harm as defined in a clinical context. Resilience: adaptation in the face of adversity, defined for an outcome and context.
+
+People respond differently after frightening or traumatic events. Some experience persistent difficulties; others recover along varied pathways.
+
+Exposure alone does not establish post-traumatic stress disorder. Nor does apparent functioning reveal the absence of distress. Ask what support is wanted without demanding an account.
+
+c06s03b Chapter 6: Reminders can have learned significance.
+Intrusion: unwanted re-experiencing of aspects of an event. Trauma reminder: cue associated with a prior traumatic experience. Hyperarousal: heightened activation relevant to a clinical pattern.
+
+A sound or location may acquire significance through experience. Avoidance, intrusive memories and activation can be relevant features, but their interpretation needs trained assessment.
+
+Do not recreate reminders, demand exposure or treat a strong response as proof of a particular memory. A process hypothesis is not a recovered-fact detector.
+
+c06s04 Chapter 6: Safety and choice come first.
+Trauma-informed approach: support emphasizing safety, choice and avoidance of retraumatization. Disclosure: sharing personal information. Trauma-focused treatment: professional treatment addressing trauma-related difficulties.
+
+Offer practical safety, predictable choices and privacy. Let the person decide what to share and avoid pressuring a detailed retelling.
+
+Evidence-based trauma treatments require suitable assessment and professional delivery. A supportive conversation is different from attempting trauma therapy in a workshop.
+
+c06s05 Chapter 6: What does the evidence allow?
+Clinical guidelines distinguish trauma exposure, assessed symptoms and treatment indications. Responses and trajectories vary; a single behaviour is not diagnostic.
+
+The course includes no trauma recall, exposure or debriefing exercise. Do not ask learners to disclose or relive personal events.
+
+c06s06 Chapter 6: Apply the distinction
+Apply the idea to this new fictional case.
+
+A person becomes distressed near a reminder and does not want to discuss the past event.
+
+Which response is appropriate?
+
+A. Recreate the sound as an informal test.
+
+B. Infer the exact event from the reaction.
+
+C. Ask about practical support without demanding details.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c06s06-feedback-0 Chapter 6: feedback 1
+A workshop is not a setting for unassessed exposure.
+
+c06s06-feedback-1 Chapter 6: feedback 2
+A response is not a unique record of an event.
+
+c06s06-feedback-2 Chapter 6: feedback 3
+The response preserves privacy and can address immediate needs.
+
+c06s07 Chapter 6: Explain it without the notes
+Try these questions without your notes.
+
+Why is trauma exposure not equivalent to a diagnosis?
+
+How does support differ from trauma therapy?
+
+Reveal the suggested answers after trying.
+
+c06s07-answers Chapter 6: recall answers
+Diagnosis requires a particular pattern, course and impact assessed appropriately.
+
+Support addresses immediate needs and choice; therapy involves an assessed professional treatment plan.
+
+c06s08 Chapter 6: Take the idea into everyday life
+Review a fictional support response for safety, privacy and choice. Do not use personal trauma memories as an exercise.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c07s01 Chapter 7: Unusual experiences need careful assessment
+A headline uses psychosis and bipolar as insults for unpredictable behaviour. At the café, Maya asks what the terms actually concern and why neither can be inferred from a disagreement or a mood change.
+
+c07s02 Chapter 7: Make a first decision
+First, make a prediction about the café story.
+
+What is wrong with the headline?
+
+A. It uses clinical terms as labels without assessment or accurate meaning.
+
+B. Any disagreement is a delusion.
+
+C. Daily changes in feeling establish bipolar disorder.
+
+Choose an option before checking the feedback.
+
+c07s02-feedback-0 Chapter 7: feedback 1
+The labels stigmatize and misdescribe the clinical concepts.
+
+c07s02-feedback-1 Chapter 7: feedback 2
+Beliefs need context and trained assessment.
+
+c07s02-feedback-2 Chapter 7: feedback 3
+Clinical episodes are not ordinary moment-to-moment variation.
+
+c07s03 Chapter 7: Psychosis describes a domain of experience.
+Psychosis: a clinical domain involving altered experiences such as hallucinations or delusions.
+
+Psychotic experiences can occur in several conditions and contexts. Clinical assessment considers health, substances, sleep, culture and the person’s account.
+
+A hallucination-like report does not uniquely identify schizophrenia. Unusual beliefs or disagreement alone do not establish a delusion, and diagnosis is not a judgment of a person’s worth.
+
+c07s03b Chapter 7: Bipolar disorder is not ordinary variability.
+Mania: clinically assessed episode of marked activation and mood change. Hypomania: a distinct elevated or activated episode meeting specified clinical criteria. Episode: a sustained pattern with a defined course.
+
+Bipolar conditions involve assessed episodes and patterns, not simply being happy and sad during a day. Changes in sleep, activity, judgment and functioning can be relevant.
+
+Do not use the term for interpersonal conflict or ordinary inconsistency. An abrupt concerning change calls for appropriate professional help rather than an informal label.
+
+c07s04 Chapter 7: Respectful support avoids confrontation and stereotypes.
+Stigma: discrediting stereotypes attached to a condition. Care pathway: route to appropriate assessment and support. Recovery: a personal process involving meaningful life and support.
+
+Listen calmly and acknowledge distress without pretending certainty about the explanation. Avoid arguing, endorsing an unverified claim or treating the person as a stereotype.
+
+Offer appropriate professional routes and practical help. Urgent safety or severe deterioration needs local urgent care. Most people with mental health difficulties are not violent; diagnosis alone does not predict danger.
+
+c07s05 Chapter 7: What does the evidence allow?
+Psychosis and bipolar guidelines specify assessment, treatment and support for defined patterns. Symptom domains can overlap and need clinical interpretation.
+
+This lesson is not a checklist, a risk assessment or advice to start or stop medication.
+
+c07s06 Chapter 7: Apply the distinction
+Apply the idea to this new fictional case.
+
+A person reports a distressing unusual experience and asks for help finding support.
+
+Which response is appropriate?
+
+A. Debate the experience until the person agrees.
+
+B. Listen respectfully and support access to suitable care.
+
+C. Assume diagnosis from a single sentence.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c07s06-feedback-0 Chapter 7: feedback 1
+Argument may not help and does not replace assessment.
+
+c07s06-feedback-1 Chapter 7: feedback 2
+The response acknowledges distress without claiming diagnostic certainty.
+
+c07s06-feedback-2 Chapter 7: feedback 3
+A short report leaves many alternatives and needs unknown.
+
+c07s07 Chapter 7: Explain it without the notes
+Try these questions without your notes.
+
+Why is psychosis not synonymous with schizophrenia?
+
+Why does a clinical episode need a time course?
+
+Reveal the suggested answers after trying.
+
+c07s07-answers Chapter 7: recall answers
+Psychotic experiences can occur in several conditions and contexts.
+
+Duration and pattern distinguish an episode from isolated or ordinary changes.
+
+c07s08 Chapter 7: Take the idea into everyday life
+Rewrite a fictional stigmatizing headline using accurate, respectful language without diagnosing the person described.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c08s01 Chapter 8: Therapies make different kinds of claims
+The café compiles a guide to therapy. Leo wants one best approach for every difficulty. Maya asks which condition, outcome, practitioner and person the evidence concerns.
+
+c08s02 Chapter 8: Make a first decision
+First, make a prediction about the café story.
+
+What question should lead the guide?
+
+A. Which approach has the most appealing name.
+
+B. Which method has evidence for this difficulty and person’s needs.
+
+C. Which approach guarantees no discomfort.
+
+Choose an option before checking the feedback.
+
+c08s02-feedback-0 Chapter 8: feedback 1
+A label does not establish the relevant benefit.
+
+c08s02-feedback-1 Chapter 8: feedback 2
+The actual use, evidence and preferences should define the comparison.
+
+c08s02-feedback-2 Chapter 8: feedback 3
+No responsible method guarantees that every session is easy.
+
+c08s03 Chapter 8: A therapy model guides a treatment.
+Psychotherapy: structured psychological treatment delivered within an appropriate professional relationship. Therapeutic alliance: collaborative working relationship in treatment. Treatment model: account guiding a method and its targets.
+
+Therapies differ in their proposed processes and methods. They also depend on collaboration, appropriate skills and a clear plan.
+
+A rationale explains why a treatment might help. It is distinct from evidence that the treatment helps a defined population with acceptable burdens and risks.
+
+c08s03b Chapter 8: Approaches emphasize different processes.
+Cognitive behavioural approach: examines relevant patterns of thought, action and experience. Psychodynamic approach: examines recurring emotional and relational patterns. Humanistic approach: emphasizes subjective experience, relationship and personal meaning.
+
+These broad traditions include diverse methods, and real practice can integrate elements. Condition-specific evidence and professional competence matter more than a simple label.
+
+Do not assume that every method under one umbrella is equally supported. Ask about the actual procedure and intended outcome.
+
+c08s04 Chapter 8: Care should be informed and reviewable.
+Treatment fidelity: delivery consistent with the intended method. Adverse effect: unwanted or harmful effect. Outcome monitoring: reviewing change relevant to the care goal.
+
+Ask about expected benefits, alternatives, qualifications, privacy, costs and unwanted effects. A useful plan includes review and the option to raise concerns.
+
+A difficult session is not automatically harm, but persistent deterioration should not be dismissed as proof the therapy is working. Professional care should respond to evidence and the person’s experience.
+
+c08s05 Chapter 8: What does the evidence allow?
+Therapy research must specify the treatment, population, comparison and outcome. Average results do not establish one best method for every person.
+
+The course explains treatment concepts without delivering therapy, certifying practitioners or recommending an individual treatment.
+
+c08s06 Chapter 8: Apply the distinction
+Apply the idea to this new fictional case.
+
+A person feels treatment is not helping and wants to discuss progress with their clinician.
+
+What should the person be able to do?
+
+A. Raise concerns and review outcomes and alternatives.
+
+B. Assume deterioration always proves progress.
+
+C. Continue without information about goals or risks.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c08s06-feedback-0 Chapter 8: feedback 1
+Informed participation includes monitoring and discussion.
+
+c08s06-feedback-1 Chapter 8: feedback 2
+That can dismiss an important unwanted effect.
+
+c08s06-feedback-2 Chapter 8: feedback 3
+A meaningful plan needs information and choice.
+
+c08s07 Chapter 8: Explain it without the notes
+Try these questions without your notes.
+
+How does a treatment rationale differ from efficacy evidence?
+
+Why is a therapy umbrella label insufficient?
+
+Reveal the suggested answers after trying.
+
+c08s07-answers Chapter 8: recall answers
+A rationale proposes a mechanism; efficacy evidence tests outcomes under defined conditions.
+
+Methods, training, populations and evidence vary within broad approaches.
+
+c08s08 Chapter 8: Take the idea into everyday life
+Prepare three evidence-and-choice questions someone could ask a qualified provider, using a fictional care scenario.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c09s01 Chapter 9: Treatment claims need fair comparisons
+A headline says a treatment doubled recovery. Leo calls it a guaranteed cure. Maya asks how many people recovered in each group, what recovery meant and what unwanted effects occurred.
+
+c09s02 Chapter 9: Make a first decision
+First, make a prediction about the café story.
+
+What is missing from doubled recovery?
+
+A. The absolute rates, definition, uncertainty and harms.
+
+B. A guarantee for each person.
+
+C. The assumption that all improvement is the active treatment.
+
+Choose an option before checking the feedback.
+
+c09s02-feedback-0 Chapter 9: feedback 1
+These details make the practical claim assessable.
+
+c09s02-feedback-1 Chapter 9: feedback 2
+Group results cannot guarantee an individual outcome.
+
+c09s02-feedback-2 Chapter 9: feedback 3
+Comparison groups help separate several sources of change.
+
+c09s03 Chapter 9: Randomization supports a specific inference.
+Randomized controlled trial: study assigning participants by chance to comparison conditions. Placebo effect: change related to treatment context rather than a specific active component. Blinding: limiting knowledge of allocation where feasible.
+
+Random allocation helps reduce baseline differences between groups. Suitable comparisons examine the added effect of the tested treatment under the study conditions.
+
+Masking can be difficult in psychotherapy, and comparison quality matters. Improvement in both groups can reflect time, support, expectations and other factors.
+
+c09s03b Chapter 9: Absolute outcomes make the claim interpretable.
+Absolute difference: difference in outcome rates between groups. Relative effect: effect expressed relative to a comparison rate. Uncertainty interval: range reflecting estimation uncertainty under a method.
+
+In an invented example, recovery is twenty in a hundred with one condition and forty in a hundred with another. That doubles the rate and adds twenty recoveries per hundred.
+
+The definition, time window and uncertainty still matter. A group average cannot predict exactly what one person will experience.
+
+c09s04 Chapter 9: Benefits and harms need the same attention.
+Side effect: unintended effect associated with a treatment. Withdrawal effect: symptoms associated with reducing or stopping a substance. Shared decision making: combining evidence, expertise and informed preferences.
+
+Medication effects depend on condition, agent, dose, health and other treatment. Review benefits, interactions, burdens and unwanted effects with qualified care.
+
+Do not start, stop or change medication from a course or headline. Averages inform a conversation; they do not substitute for an individual plan and monitoring.
+
+c09s05 Chapter 9: What does the evidence allow?
+Clinical evidence depends on sample selection, attrition, outcome reporting, comparator and duration. Statistical significance alone does not establish a worthwhile benefit.
+
+Guidelines synthesize evidence and clinical judgment for defined uses. Neither a trial nor this lesson provides an individual prescription.
+
+c09s06 Chapter 9: Apply the distinction
+Apply the idea to this new fictional case.
+
+Using the invented rates, recovery rises from twenty to forty people per hundred.
+
+How should the invented result be expressed?
+
+A. A twenty-percentage-point increase, alongside a doubled relative rate.
+
+B. A two-percentage-point increase.
+
+C. Guaranteed recovery for everyone.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c09s06-feedback-0 Chapter 9: feedback 1
+Forty minus twenty is twenty per hundred; forty is twice twenty.
+
+c09s06-feedback-1 Chapter 9: feedback 2
+That is not the difference between the stated rates.
+
+c09s06-feedback-2 Chapter 9: feedback 3
+Even the treatment group has many non-recoveries in the example.
+
+c09s07 Chapter 9: Explain it without the notes
+Try these questions without your notes.
+
+Why is relative benefit incomplete without a baseline?
+
+Why monitor after treatment starts?
+
+Reveal the suggested answers after trying.
+
+c09s07-answers Chapter 9: recall answers
+The same relative effect can imply very different absolute changes.
+
+Benefits, unwanted effects and needs can change over time and require review.
+
+c09s08 Chapter 9: Take the idea into everyday life
+Use the invented teaching rates to write a balanced two-sentence result. Include one limitation and no treatment recommendation.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c10s01 Chapter 10: An informed next step is a useful outcome
+The café wants a mental-health information page. It must explain credible care routes without becoming a diagnostic quiz, treatment service or collection of private symptom scores.
+
+c10s02 Chapter 10: Make a first decision
+First, make a prediction about the café story.
+
+What should the information page offer?
+
+A. A diagnosis from a few informal questions.
+
+B. Clear educational distinctions and appropriate local care routes.
+
+C. A guaranteed treatment recommendation for every visitor.
+
+Choose an option before checking the feedback.
+
+c10s02-feedback-0 Chapter 10: feedback 1
+The page cannot provide a trained assessment.
+
+c10s02-feedback-1 Chapter 10: feedback 2
+This supports informed next steps without exceeding its scope.
+
+c10s02-feedback-2 Chapter 10: feedback 3
+Treatment needs assessment and individualized choice.
+
+c10s03 Chapter 10: A care route should match the concern.
+Care navigation: finding appropriate information and services. Stepped care: matching and reviewing support intensity according to need. Accessibility: whether suitable care can actually be reached and used.
+
+A primary-care professional or qualified mental-health service can help assess concerns and discuss options. Local pathways differ, and cost, language and waiting times affect access.
+
+For immediate danger, use local emergency or urgent crisis services. Routine educational content is not an urgent-response service.
+
+c10s03b Chapter 10: Prepare questions without self-diagnosing.
+Informed choice: decision based on relevant benefits, risks and alternatives. Confidentiality: appropriate protection of personal information. Consent: freely given agreement based on sufficient information.
+
+A person can note what has changed, how daily life is affected and what they want help with. They can ask about qualifications, privacy, options, evidence and follow-up.
+
+There is no need to fit a preferred diagnosis before seeking support. People should not be pressured to disclose private histories in a learning setting.
+
+c10s04 Chapter 10: Keep the explanation revisable.
+Biopsychosocial formulation: account considering biological, psychological and social influences. Recovery-oriented approach: support focused on meaningful life and the person’s goals. Professional boundary: limit protecting appropriate scope and roles.
+
+A useful clinical explanation connects a pattern, plausible processes, context and appropriate support. It remains open to alternative information and changing preferences.
+
+Use the course to read evidence and communicate more carefully. It does not qualify anyone to diagnose, assess risk or deliver treatment.
+
+c10s05 Chapter 10: What does the evidence allow?
+Credible mental-health education distinguishes classification, formulation, treatment evidence and individual care. No course can guarantee recovery or replace professional assessment.
+
+The final case checks reasoning on a fictional scenario. It is not a clinical competency assessment or a validated screening instrument.
+
+c10s06 Chapter 10: Apply the distinction
+Apply the idea to this new fictional case.
+
+A fictional service user reports immediate danger and needs urgent help.
+
+What is the appropriate course response?
+
+A. Use local urgent or emergency services for immediate danger.
+
+B. Wait to complete the educational chapters first.
+
+C. Ask other learners to assess the risk.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c10s06-feedback-0 Chapter 10: feedback 1
+Urgent concerns need an appropriate timely local response.
+
+c10s06-feedback-1 Chapter 10: feedback 2
+A course is not an urgent-care pathway.
+
+c10s06-feedback-2 Chapter 10: feedback 3
+Peers are not a substitute for suitable crisis assessment.
+
+c10s07 Chapter 10: Explain it without the notes
+Try these questions without your notes.
+
+What can a learner prepare before a care conversation?
+
+What does this course not establish?
+
+Reveal the suggested answers after trying.
+
+c10s07-answers Chapter 10: recall answers
+Relevant changes, functional impact, goals and questions about options, privacy and review.
+
+It does not establish a diagnosis, treatment plan, risk assessment or professional competence.
+
+c10s08 Chapter 10: Take the idea into everyday life
+Draft an educational information card for a fictional service: scope, qualified care routes, privacy and an urgent-help distinction. Do not collect personal symptoms.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.

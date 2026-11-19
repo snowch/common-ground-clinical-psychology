@@ -1,0 +1,1722 @@
+{
+  "1": [
+    {
+      "id": "c01s03",
+      "kind": "concept",
+      "title": "Clinical psychology studies difficulties and care.",
+      "points": [
+        "Clinical psychology: study, assessment and psychological care of mental health difficulties",
+        "Distress: unpleasant psychological experience",
+        "Impairment: difficulty in important areas of functioning"
+      ],
+      "text": "Impairment: difficulty in important areas of functioning.\n\nClinical psychology examines patterns of difficulty and ways to assess and support people. Distress can be understandable in context and still deserve help.\n\nA brief behavioural change does not establish a disorder. Duration, severity, functioning, health and circumstances matter. This course teaches interpretation of evidence, not clinical practice.",
+      "stage": "Explanation",
+      "visual": "c01s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish distress, impairment and diagnosis, and identify a proportionate support response."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Classification helps communication and care when used with trained assessment. It does not divide all ordinary distress from disorder with one simple behavioural rule.\n\nThe fictional examples are educational and cannot diagnose, rule out a condition or substitute for professional care."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A label cannot replace understanding the actual concern."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: What are psychological disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-1-what-are-psychological-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c01s03b",
+      "kind": "concept",
+      "title": "A diagnosis is a professional judgment.",
+      "points": [
+        "Diagnosis: classification based on clinical assessment and criteria",
+        "Symptom: reported experience or observed feature relevant to assessment",
+        "Differential assessment: considering alternative explanations"
+      ],
+      "text": "Diagnosis: classification based on clinical assessment and criteria. Differential assessment: considering alternative explanations.\n\nSimilar experiences can occur in different conditions or without a disorder. Physical illness, medication, sleep, bereavement and social adversity may be relevant.\n\nA qualified assessment considers alternatives, preferences and appropriate information. Do not diagnose yourself or another person from a course vignette or isolated symptom.",
+      "stage": "Explanation",
+      "visual": "c01s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish distress, impairment and diagnosis, and identify a proportionate support response."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Classification helps communication and care when used with trained assessment. It does not divide all ordinary distress from disorder with one simple behavioural rule.\n\nThe fictional examples are educational and cannot diagnose, rule out a condition or substitute for professional care."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A single behaviour is insufficient for diagnosis."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: What are psychological disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-1-what-are-psychological-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c01s04",
+      "kind": "concept",
+      "title": "Support does not require a label.",
+      "points": [
+        "Support: practical or relational help matched to need",
+        "Stigma: discrediting stereotypes or treatment of people",
+        "Person-centred care: care attentive to individual needs and preferences"
+      ],
+      "text": "Stigma: discrediting stereotypes or treatment of people. Person-centred care: care attentive to individual needs and preferences.\n\nAsk respectfully, listen and offer practical choices without forcing disclosure. A person may want time, a changed task or help finding professional support.\n\nAvoid treating a diagnosis as a complete identity. Persistent distress, impairment or safety concerns are reasons to seek appropriate care rather than debate labels informally.",
+      "stage": "Explanation",
+      "visual": "c01s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish distress, impairment and diagnosis, and identify a proportionate support response."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Classification helps communication and care when used with trained assessment. It does not divide all ordinary distress from disorder with one simple behavioural rule.\n\nThe fictional examples are educational and cannot diagnose, rule out a condition or substitute for professional care."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Support can be useful without an amateur diagnosis."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: What are psychological disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-1-what-are-psychological-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c01s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Classification helps communication and care when used with trained assessment. It does not divide all ordinary distress from disorder with one simple behavioural rule.\n\nThe fictional examples are educational and cannot diagnose, rule out a condition or substitute for professional care.",
+      "stage": "Evidence check",
+      "visual": "c01s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish distress, impairment and diagnosis, and identify a proportionate support response."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Classification helps communication and care when used with trained assessment. It does not divide all ordinary distress from disorder with one simple behavioural rule.\n\nThe fictional examples are educational and cannot diagnose, rule out a condition or substitute for professional care."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Clinical terminology should improve care rather than invite casual labeling."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: What are psychological disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-1-what-are-psychological-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    }
+  ],
+  "2": [
+    {
+      "id": "c02s03",
+      "kind": "concept",
+      "title": "Systems organize patterns of difficulty.",
+      "points": [
+        "Diagnostic classification: system for grouping clinically relevant patterns",
+        "ICD: World Health Organization classification of diseases",
+        "DSM: American Psychiatric Association diagnostic manual"
+      ],
+      "text": "Diagnostic classification: system for grouping clinically relevant patterns. ICD: World Health Organization classification of diseases. DSM: American Psychiatric Association diagnostic manual.\n\nClassification systems provide shared language and specified criteria. Their editions and purposes matter, and professional use requires training.\n\nA category does not identify one unique biological cause or describe every aspect of a person. People within a category can differ in features, severity and support needs.",
+      "stage": "Explanation",
+      "visual": "c02s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain what diagnostic categories organize and why dimensions and context still matter."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "ICD and DSM are evolving professional classification systems. They organize evidence and communication but have boundary, overlap and cultural interpretation issues.\n\nThe course does not reproduce a diagnostic checklist or establish competence to apply criteria."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Sharing a category does not imply identical causes or treatment needs."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Diagnosing and classifying psychological disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-2-diagnosing-and-classifying-psychological-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "WHO ICD-11: International Classification of Diseases",
+            "url": "https://icd.who.int/browse/2026-01/mms/en",
+            "kind": "Official classification; diagnostic use requires appropriate training and clinical assessment."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c02s03b",
+      "kind": "concept",
+      "title": "Dimensions describe degree and variation.",
+      "points": [
+        "Dimensional approach: describing features along degrees or continua",
+        "Severity: degree of a defined difficulty",
+        "Comorbidity: co-occurrence of conditions or diagnoses"
+      ],
+      "text": "Dimensional approach: describing features along degrees or continua. Severity: degree of a defined difficulty. Comorbidity: co-occurrence of conditions or diagnoses.\n\nSome experiences vary by degree rather than falling into naturally separate boxes. Dimensional descriptions can supplement categories and track change.\n\nCo-occurring difficulties complicate a single-label explanation. An assessment should describe the pattern and its impact rather than count labels as a complete understanding.",
+      "stage": "Explanation",
+      "visual": "c02s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain what diagnostic categories organize and why dimensions and context still matter."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "ICD and DSM are evolving professional classification systems. They organize evidence and communication but have boundary, overlap and cultural interpretation issues.\n\nThe course does not reproduce a diagnostic checklist or establish competence to apply criteria."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Dimensions and co-occurrence add clinically relevant information."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Diagnosing and classifying psychological disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-2-diagnosing-and-classifying-psychological-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "WHO ICD-11: International Classification of Diseases",
+            "url": "https://icd.who.int/browse/2026-01/mms/en",
+            "kind": "Official classification; diagnostic use requires appropriate training and clinical assessment."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c02s04",
+      "kind": "concept",
+      "title": "Reliability and validity are different questions.",
+      "points": [
+        "Diagnostic reliability: consistency of classification across suitable assessments",
+        "Diagnostic validity: support for the meaning and use of a category",
+        "Cultural formulation: understanding concerns in relevant cultural contexts"
+      ],
+      "text": "Diagnostic reliability: consistency of classification across suitable assessments. Diagnostic validity: support for the meaning and use of a category. Cultural formulation: understanding concerns in relevant cultural contexts.\n\nAgreement between clinicians is important, but agreement alone does not prove one underlying mechanism. Evidence must support the category’s intended use.\n\nLanguage, social context and cultural meaning affect assessment. Unusual behaviour relative to one group is not automatically a disorder.",
+      "stage": "Explanation",
+      "visual": "c02s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain what diagnostic categories organize and why dimensions and context still matter."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "ICD and DSM are evolving professional classification systems. They organize evidence and communication but have boundary, overlap and cultural interpretation issues.\n\nThe course does not reproduce a diagnostic checklist or establish competence to apply criteria."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Consistent labels still need a justified interpretation."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Diagnosing and classifying psychological disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-2-diagnosing-and-classifying-psychological-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "WHO ICD-11: International Classification of Diseases",
+            "url": "https://icd.who.int/browse/2026-01/mms/en",
+            "kind": "Official classification; diagnostic use requires appropriate training and clinical assessment."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c02s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "ICD and DSM are evolving professional classification systems. They organize evidence and communication but have boundary, overlap and cultural interpretation issues.\n\nThe course does not reproduce a diagnostic checklist or establish competence to apply criteria.",
+      "stage": "Evidence check",
+      "visual": "c02s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain what diagnostic categories organize and why dimensions and context still matter."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "ICD and DSM are evolving professional classification systems. They organize evidence and communication but have boundary, overlap and cultural interpretation issues.\n\nThe course does not reproduce a diagnostic checklist or establish competence to apply criteria."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Classification supports assessment rather than replacing it."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Diagnosing and classifying psychological disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-2-diagnosing-and-classifying-psychological-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "WHO ICD-11: International Classification of Diseases",
+            "url": "https://icd.who.int/browse/2026-01/mms/en",
+            "kind": "Official classification; diagnostic use requires appropriate training and clinical assessment."
+          }
+        ]
+      }
+    }
+  ],
+  "3": [
+    {
+      "id": "c03s03",
+      "kind": "concept",
+      "title": "A screen is not a diagnosis.",
+      "points": [
+        "Screening: identifying possible concerns for further assessment",
+        "Sensitivity: proportion of cases detected by a test",
+        "Specificity: proportion of non-cases correctly identified"
+      ],
+      "text": "Sensitivity: proportion of cases detected by a test. Specificity: proportion of non-cases correctly identified.\n\nScreening can help identify who may benefit from further assessment. A positive result can be a false positive, and a negative result does not rule out every concern.\n\nInterpretation depends on the tool, threshold, population and prevalence. A score cannot by itself explain the cause or determine a treatment.",
+      "stage": "Explanation",
+      "visual": "c03s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish a screening score, clinical assessment and a revisable formulation."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Validated screening tools can support care pathways, but accuracy depends on threshold and population. Predictive values change with prevalence.\n\nFormulation can guide questions and care, but a plausible narrative needs evidence and collaboration. The course does not authorize informal assessment of others."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A screening result is not a complete clinical conclusion."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Diagnosing and classifying psychological disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-2-diagnosing-and-classifying-psychological-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c03s03b",
+      "kind": "concept",
+      "title": "Assessment integrates several sources.",
+      "points": [
+        "Clinical interview: structured or guided professional inquiry",
+        "Psychometric measure: standardized instrument measuring a defined construct",
+        "Clinical history: relevant course, context and prior care"
+      ],
+      "text": "Clinical interview: structured or guided professional inquiry. Psychometric measure: standardized instrument measuring a defined construct. Clinical history: relevant course, context and prior care.\n\nA suitable assessment may combine interview, validated measures and other information with consent. Medical factors, safety, functioning and the person’s own goals can matter.\n\nA measure needs validation for its intended use and population. Collecting more scores does not automatically produce better understanding.",
+      "stage": "Explanation",
+      "visual": "c03s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish a screening score, clinical assessment and a revisable formulation."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Validated screening tools can support care pathways, but accuracy depends on threshold and population. Predictive values change with prevalence.\n\nFormulation can guide questions and care, but a plausible narrative needs evidence and collaboration. The course does not authorize informal assessment of others."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Evidence is integrated rather than reduced to one score."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Diagnosing and classifying psychological disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-2-diagnosing-and-classifying-psychological-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c03s04",
+      "kind": "concept",
+      "title": "A formulation is a testable working account.",
+      "points": [
+        "Formulation: an individualized account of difficulties and possible maintaining factors",
+        "Predisposing factor: earlier condition that may increase vulnerability",
+        "Maintaining factor: process that may sustain a difficulty"
+      ],
+      "text": "Predisposing factor: earlier condition that may increase vulnerability. Maintaining factor: process that may sustain a difficulty.\n\nA formulation links possible vulnerabilities, triggers, maintaining processes and protective resources. It should be developed collaboratively and revised when evidence changes.\n\nA coherent story is not automatically a proven cause. State alternatives and what would change the account. Diagnosis and formulation answer different, complementary questions.",
+      "stage": "Explanation",
+      "visual": "c03s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish a screening score, clinical assessment and a revisable formulation."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Validated screening tools can support care pathways, but accuracy depends on threshold and population. Predictive values change with prevalence.\n\nFormulation can guide questions and care, but a plausible narrative needs evidence and collaboration. The course does not authorize informal assessment of others."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. An individualized account remains a hypothesis rather than a certainty."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Diagnosing and classifying psychological disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-2-diagnosing-and-classifying-psychological-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c03s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Validated screening tools can support care pathways, but accuracy depends on threshold and population. Predictive values change with prevalence.\n\nFormulation can guide questions and care, but a plausible narrative needs evidence and collaboration. The course does not authorize informal assessment of others.",
+      "stage": "Evidence check",
+      "visual": "c03s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish a screening score, clinical assessment and a revisable formulation."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Validated screening tools can support care pathways, but accuracy depends on threshold and population. Predictive values change with prevalence.\n\nFormulation can guide questions and care, but a plausible narrative needs evidence and collaboration. The course does not authorize informal assessment of others."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A number is information within a process, not the whole process."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Diagnosing and classifying psychological disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-2-diagnosing-and-classifying-psychological-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    }
+  ],
+  "4": [
+    {
+      "id": "c04s03",
+      "kind": "concept",
+      "title": "Fear and anxiety are not automatically disorders.",
+      "points": [
+        "Fear: response to an immediate perceived threat",
+        "Anxiety: anticipation of possible threat or uncertainty",
+        "Clinical significance: importance of a pattern for distress or functioning"
+      ],
+      "text": "Fear: response to an immediate perceived threat. Clinical significance: importance of a pattern for distress or functioning.\n\nThreat responses can support protection and preparation. Anxiety-related conditions involve patterns requiring professional assessment, rather than the presence of worry alone.\n\nDuration, intensity, impairment and context matter. A response to an unsafe or discriminatory environment should not be reduced to an internal defect.",
+      "stage": "Explanation",
+      "visual": "c04s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain how threat and avoidance may interact without diagnosing from ordinary worry."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "NICE guidance distinguishes assessed anxiety conditions and specifies care options. Evidence from a treatment trial does not diagnose someone with everyday worry.\n\nThe café story is conceptual. Do not conduct self-directed exposure, remove another person’s coping support or change medication based on this lesson."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The distinction requires more than one episode of worry."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Anxiety disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-4-anxiety-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE CG113: Generalised anxiety disorder and panic disorder in adults: management",
+            "url": "https://www.nice.org.uk/guidance/cg113",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04s03b",
+      "kind": "concept",
+      "title": "Avoidance can reduce distress immediately.",
+      "points": [
+        "Avoidance: action preventing contact with an anticipated difficulty",
+        "Negative reinforcement: removal or prevention that increases an action",
+        "Safety behaviour: action intended to prevent a feared outcome"
+      ],
+      "text": "Negative reinforcement: removal or prevention that increases an action. Safety behaviour: action intended to prevent a feared outcome.\n\nAvoidance can be protective when danger is real. In some anxiety patterns, relief can maintain avoidance and limit opportunities to update threat expectations.\n\nThat is one possible process, not an explanation of every refusal. Ask what is being avoided, what follows and whether alternative conditions are safe.",
+      "stage": "Explanation",
+      "visual": "c04s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain how threat and avoidance may interact without diagnosing from ordinary worry."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "NICE guidance distinguishes assessed anxiety conditions and specifies care options. Evidence from a treatment trial does not diagnose someone with everyday worry.\n\nThe café story is conceptual. Do not conduct self-directed exposure, remove another person’s coping support or change medication based on this lesson."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. This is a clinical hypothesis, not a diagnosis from reluctance."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Anxiety disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-4-anxiety-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE CG113: Generalised anxiety disorder and panic disorder in adults: management",
+            "url": "https://www.nice.org.uk/guidance/cg113",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04s04",
+      "kind": "concept",
+      "title": "Treatment is assessed and collaborative.",
+      "points": [
+        "Cognitive behavioural therapy: psychological therapy examining relevant thoughts, actions and experiences",
+        "Exposure-based treatment: planned contact with feared cues within an appropriate clinical treatment",
+        "Shared decision: care choice informed by evidence and preferences"
+      ],
+      "text": "Cognitive behavioural therapy: psychological therapy examining relevant thoughts, actions and experiences. Exposure-based treatment: planned contact with feared cues within an appropriate clinical treatment. Shared decision: care choice informed by evidence and preferences.\n\nGuidelines support particular psychological and medication options for assessed anxiety conditions. The appropriate choice depends on the condition and individual needs.\n\nExposure is not forcing someone into danger or conducting a course experiment. It requires an appropriate clinical plan, informed participation and attention to safety.",
+      "stage": "Explanation",
+      "visual": "c04s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain how threat and avoidance may interact without diagnosing from ordinary worry."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "NICE guidance distinguishes assessed anxiety conditions and specifies care options. Evidence from a treatment trial does not diagnose someone with everyday worry.\n\nThe café story is conceptual. Do not conduct self-directed exposure, remove another person’s coping support or change medication based on this lesson."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Understanding a mechanism does not authorize treating another person."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Anxiety disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-4-anxiety-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE CG113: Generalised anxiety disorder and panic disorder in adults: management",
+            "url": "https://www.nice.org.uk/guidance/cg113",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "NICE guidance distinguishes assessed anxiety conditions and specifies care options. Evidence from a treatment trial does not diagnose someone with everyday worry.\n\nThe café story is conceptual. Do not conduct self-directed exposure, remove another person’s coping support or change medication based on this lesson.",
+      "stage": "Evidence check",
+      "visual": "c04s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain how threat and avoidance may interact without diagnosing from ordinary worry."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "NICE guidance distinguishes assessed anxiety conditions and specifies care options. Evidence from a treatment trial does not diagnose someone with everyday worry.\n\nThe café story is conceptual. Do not conduct self-directed exposure, remove another person’s coping support or change medication based on this lesson."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A process model is not a diagnostic shortcut."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Anxiety disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-4-anxiety-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE CG113: Generalised anxiety disorder and panic disorder in adults: management",
+            "url": "https://www.nice.org.uk/guidance/cg113",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    }
+  ],
+  "5": [
+    {
+      "id": "c05s03",
+      "kind": "concept",
+      "title": "A mood is not the whole pattern.",
+      "points": [
+        "Low mood: an unpleasant emotional state",
+        "Anhedonia: reduced interest or pleasure",
+        "Depressive syndrome: a clinically assessed pattern of mood and related difficulties"
+      ],
+      "text": "Low mood: an unpleasant emotional state. Anhedonia: reduced interest or pleasure. Depressive syndrome: a clinically assessed pattern of mood and related difficulties.\n\nDepression involves patterns across experience and functioning, not sadness alone. Health, medication, sleep, bereavement and other conditions may be relevant.\n\nPersistent loss of interest or marked change deserves attention. A friend can offer support, but cannot establish the diagnosis or its cause from a short conversation.",
+      "stage": "Explanation",
+      "visual": "c05s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish a depressive syndrome from one low mood and explain why assessment and support matter."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Depression guidance evaluates treatments for defined populations and outcomes. Average benefit does not establish the best option for every individual.\n\nA biological or psychological model is not a complete explanation of every case. This course is neither diagnosis nor a self-treatment programme."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A clinical pattern requires more than one feeling or stereotype."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Mood disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-7-mood-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05s03b",
+      "kind": "concept",
+      "title": "A maintaining process is not a blame statement.",
+      "points": [
+        "Withdrawal: reduced engagement in activities or relationships",
+        "Reinforcement opportunity: chance for an action to have a valued consequence",
+        "Bidirectional relation: influences can operate in both directions"
+      ],
+      "text": "Withdrawal: reduced engagement in activities or relationships. Reinforcement opportunity: chance for an action to have a valued consequence. Bidirectional relation: influences can operate in both directions.\n\nLow mood can make activity harder, while reduced access to meaningful activity can further affect mood. Pain, poverty and exclusion can constrain choices.\n\nThis possible cycle is not evidence that a person caused their difficulty. Support should consider the actual barriers and what is feasible.",
+      "stage": "Explanation",
+      "visual": "c05s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish a depressive syndrome from one low mood and explain why assessment and support matter."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Depression guidance evaluates treatments for defined populations and outcomes. Average benefit does not establish the best option for every individual.\n\nA biological or psychological model is not a complete explanation of every case. This course is neither diagnosis nor a self-treatment programme."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A maintaining-cycle hypothesis should guide support without blame."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Mood disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-7-mood-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05s04",
+      "kind": "concept",
+      "title": "Care choices depend on assessed need.",
+      "points": [
+        "Behavioural activation: structured psychological treatment addressing activity patterns",
+        "Treatment preference: the person’s informed view of available options",
+        "Monitoring: reviewing benefit, burden and changes over time"
+      ],
+      "text": "Treatment preference: the person’s informed view of available options. Monitoring: reviewing benefit, burden and changes over time.\n\nProfessional guidelines include psychological and medication options under specified conditions. Behavioural activation is a structured treatment, not a demand to be busy or cheerful.\n\nChoice should consider severity, prior response, preferences, access and possible harms. Starting, stopping or changing medication requires appropriate professional advice.",
+      "stage": "Explanation",
+      "visual": "c05s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish a depressive syndrome from one low mood and explain why assessment and support matter."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Depression guidance evaluates treatments for defined populations and outcomes. Average benefit does not establish the best option for every individual.\n\nA biological or psychological model is not a complete explanation of every case. This course is neither diagnosis nor a self-treatment programme."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Treatment is individualized rather than a universal positivity instruction."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Mood disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-7-mood-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Depression guidance evaluates treatments for defined populations and outcomes. Average benefit does not establish the best option for every individual.\n\nA biological or psychological model is not a complete explanation of every case. This course is neither diagnosis nor a self-treatment programme.",
+      "stage": "Evidence check",
+      "visual": "c05s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish a depressive syndrome from one low mood and explain why assessment and support matter."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Depression guidance evaluates treatments for defined populations and outcomes. Average benefit does not establish the best option for every individual.\n\nA biological or psychological model is not a complete explanation of every case. This course is neither diagnosis nor a self-treatment programme."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Support should be proportionate to the concern and free of blame."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Mood disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-7-mood-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    }
+  ],
+  "6": [
+    {
+      "id": "c06s03",
+      "kind": "concept",
+      "title": "Exposure does not dictate one response.",
+      "points": [
+        "Traumatic event: event involving serious threat or harm as defined in a clinical context",
+        "Post-traumatic stress: stress responses following trauma exposure",
+        "Resilience: adaptation in the face of adversity, defined for an outcome and context"
+      ],
+      "text": "Traumatic event: event involving serious threat or harm as defined in a clinical context. Resilience: adaptation in the face of adversity, defined for an outcome and context.\n\nPeople respond differently after frightening or traumatic events. Some experience persistent difficulties; others recover along varied pathways.\n\nExposure alone does not establish post-traumatic stress disorder. Nor does apparent functioning reveal the absence of distress. Ask what support is wanted without demanding an account.",
+      "stage": "Explanation",
+      "visual": "c06s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain why trauma responses vary and why supportive care should not force disclosure."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Clinical guidelines distinguish trauma exposure, assessed symptoms and treatment indications. Responses and trajectories vary; a single behaviour is not diagnostic.\n\nThe course includes no trauma recall, exposure or debriefing exercise. Do not ask learners to disclose or relive personal events."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A trauma history does not uniquely determine the later outcome."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Posttraumatic stress disorder",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-6-posttraumatic-stress-disorder",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG116: Post-traumatic stress disorder",
+            "url": "https://www.nice.org.uk/guidance/ng116",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c06s03b",
+      "kind": "concept",
+      "title": "Reminders can have learned significance.",
+      "points": [
+        "Intrusion: unwanted re-experiencing of aspects of an event",
+        "Trauma reminder: cue associated with a prior traumatic experience",
+        "Hyperarousal: heightened activation relevant to a clinical pattern"
+      ],
+      "text": "Intrusion: unwanted re-experiencing of aspects of an event. Trauma reminder: cue associated with a prior traumatic experience. Hyperarousal: heightened activation relevant to a clinical pattern.\n\nA sound or location may acquire significance through experience. Avoidance, intrusive memories and activation can be relevant features, but their interpretation needs trained assessment.\n\nDo not recreate reminders, demand exposure or treat a strong response as proof of a particular memory. A process hypothesis is not a recovered-fact detector.",
+      "stage": "Explanation",
+      "visual": "c06s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain why trauma responses vary and why supportive care should not force disclosure."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Clinical guidelines distinguish trauma exposure, assessed symptoms and treatment indications. Responses and trajectories vary; a single behaviour is not diagnostic.\n\nThe course includes no trauma recall, exposure or debriefing exercise. Do not ask learners to disclose or relive personal events."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The pathway is illustrative and does not establish a diagnosis or event detail."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Posttraumatic stress disorder",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-6-posttraumatic-stress-disorder",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG116: Post-traumatic stress disorder",
+            "url": "https://www.nice.org.uk/guidance/ng116",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c06s04",
+      "kind": "concept",
+      "title": "Safety and choice come first.",
+      "points": [
+        "Trauma-informed approach: support emphasizing safety, choice and avoidance of retraumatization",
+        "Disclosure: sharing personal information",
+        "Trauma-focused treatment: professional treatment addressing trauma-related difficulties"
+      ],
+      "text": "Trauma-informed approach: support emphasizing safety, choice and avoidance of retraumatization. Disclosure: sharing personal information. Trauma-focused treatment: professional treatment addressing trauma-related difficulties.\n\nOffer practical safety, predictable choices and privacy. Let the person decide what to share and avoid pressuring a detailed retelling.\n\nEvidence-based trauma treatments require suitable assessment and professional delivery. A supportive conversation is different from attempting trauma therapy in a workshop.",
+      "stage": "Explanation",
+      "visual": "c06s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain why trauma responses vary and why supportive care should not force disclosure."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Clinical guidelines distinguish trauma exposure, assessed symptoms and treatment indications. Responses and trajectories vary; a single behaviour is not diagnostic.\n\nThe course includes no trauma recall, exposure or debriefing exercise. Do not ask learners to disclose or relive personal events."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Support can respect a trauma history without trying to treat it informally."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Posttraumatic stress disorder",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-6-posttraumatic-stress-disorder",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG116: Post-traumatic stress disorder",
+            "url": "https://www.nice.org.uk/guidance/ng116",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c06s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Clinical guidelines distinguish trauma exposure, assessed symptoms and treatment indications. Responses and trajectories vary; a single behaviour is not diagnostic.\n\nThe course includes no trauma recall, exposure or debriefing exercise. Do not ask learners to disclose or relive personal events.",
+      "stage": "Evidence check",
+      "visual": "c06s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain why trauma responses vary and why supportive care should not force disclosure."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Clinical guidelines distinguish trauma exposure, assessed symptoms and treatment indications. Responses and trajectories vary; a single behaviour is not diagnostic.\n\nThe course includes no trauma recall, exposure or debriefing exercise. Do not ask learners to disclose or relive personal events."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A reaction should not become an invitation to intrusive investigation."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Posttraumatic stress disorder",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-6-posttraumatic-stress-disorder",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG116: Post-traumatic stress disorder",
+            "url": "https://www.nice.org.uk/guidance/ng116",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    }
+  ],
+  "7": [
+    {
+      "id": "c07s03",
+      "kind": "concept",
+      "title": "Psychosis describes a domain of experience.",
+      "points": [
+        "Psychosis: a clinical domain involving altered experiences such as hallucinations or delusions",
+        "Hallucination: perception-like experience without a corresponding external stimulus",
+        "Delusion: a belief assessed clinically as fixed and not appropriately explained by context"
+      ],
+      "text": "Psychosis: a clinical domain involving altered experiences such as hallucinations or delusions.\n\nPsychotic experiences can occur in several conditions and contexts. Clinical assessment considers health, substances, sleep, culture and the person’s account.\n\nA hallucination-like report does not uniquely identify schizophrenia. Unusual beliefs or disagreement alone do not establish a delusion, and diagnosis is not a judgment of a person’s worth.",
+      "stage": "Explanation",
+      "visual": "c07s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish broad symptom domains from diagnoses and avoid stereotypes about danger or identity."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Psychosis and bipolar guidelines specify assessment, treatment and support for defined patterns. Symptom domains can overlap and need clinical interpretation.\n\nThis lesson is not a checklist, a risk assessment or advice to start or stop medication."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A symptom domain is not a complete diagnosis."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Schizophrenia",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-8-schizophrenia",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE CG178: Psychosis and schizophrenia in adults: prevention and management",
+            "url": "https://www.nice.org.uk/guidance/cg178",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE CG185: Bipolar disorder: assessment and management",
+            "url": "https://www.nice.org.uk/guidance/cg185",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c07s03b",
+      "kind": "concept",
+      "title": "Bipolar disorder is not ordinary variability.",
+      "points": [
+        "Mania: clinically assessed episode of marked activation and mood change",
+        "Hypomania: a distinct elevated or activated episode meeting specified clinical criteria",
+        "Episode: a sustained pattern with a defined course"
+      ],
+      "text": "Mania: clinically assessed episode of marked activation and mood change. Hypomania: a distinct elevated or activated episode meeting specified clinical criteria. Episode: a sustained pattern with a defined course.\n\nBipolar conditions involve assessed episodes and patterns, not simply being happy and sad during a day. Changes in sleep, activity, judgment and functioning can be relevant.\n\nDo not use the term for interpersonal conflict or ordinary inconsistency. An abrupt concerning change calls for appropriate professional help rather than an informal label.",
+      "stage": "Explanation",
+      "visual": "c07s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish broad symptom domains from diagnoses and avoid stereotypes about danger or identity."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Psychosis and bipolar guidelines specify assessment, treatment and support for defined patterns. Symptom domains can overlap and need clinical interpretation.\n\nThis lesson is not a checklist, a risk assessment or advice to start or stop medication."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The distinction cannot be made from one casual observation."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Schizophrenia",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-8-schizophrenia",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE CG178: Psychosis and schizophrenia in adults: prevention and management",
+            "url": "https://www.nice.org.uk/guidance/cg178",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE CG185: Bipolar disorder: assessment and management",
+            "url": "https://www.nice.org.uk/guidance/cg185",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c07s04",
+      "kind": "concept",
+      "title": "Respectful support avoids confrontation and stereotypes.",
+      "points": [
+        "Stigma: discrediting stereotypes attached to a condition",
+        "Care pathway: route to appropriate assessment and support",
+        "Recovery: a personal process involving meaningful life and support"
+      ],
+      "text": "Stigma: discrediting stereotypes attached to a condition. Care pathway: route to appropriate assessment and support. Recovery: a personal process involving meaningful life and support.\n\nListen calmly and acknowledge distress without pretending certainty about the explanation. Avoid arguing, endorsing an unverified claim or treating the person as a stereotype.\n\nOffer appropriate professional routes and practical help. Urgent safety or severe deterioration needs local urgent care. Most people with mental health difficulties are not violent; diagnosis alone does not predict danger.",
+      "stage": "Explanation",
+      "visual": "c07s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish broad symptom domains from diagnoses and avoid stereotypes about danger or identity."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Psychosis and bipolar guidelines specify assessment, treatment and support for defined patterns. Symptom domains can overlap and need clinical interpretation.\n\nThis lesson is not a checklist, a risk assessment or advice to start or stop medication."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A diagnosis does not define an identity or establish dangerousness."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Schizophrenia",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-8-schizophrenia",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE CG178: Psychosis and schizophrenia in adults: prevention and management",
+            "url": "https://www.nice.org.uk/guidance/cg178",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE CG185: Bipolar disorder: assessment and management",
+            "url": "https://www.nice.org.uk/guidance/cg185",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c07s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Psychosis and bipolar guidelines specify assessment, treatment and support for defined patterns. Symptom domains can overlap and need clinical interpretation.\n\nThis lesson is not a checklist, a risk assessment or advice to start or stop medication.",
+      "stage": "Evidence check",
+      "visual": "c07s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish broad symptom domains from diagnoses and avoid stereotypes about danger or identity."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Psychosis and bipolar guidelines specify assessment, treatment and support for defined patterns. Symptom domains can overlap and need clinical interpretation.\n\nThis lesson is not a checklist, a risk assessment or advice to start or stop medication."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Clinical understanding should reduce stereotypes rather than supply insults."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Schizophrenia",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-8-schizophrenia",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE CG178: Psychosis and schizophrenia in adults: prevention and management",
+            "url": "https://www.nice.org.uk/guidance/cg178",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE CG185: Bipolar disorder: assessment and management",
+            "url": "https://www.nice.org.uk/guidance/cg185",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    }
+  ],
+  "8": [
+    {
+      "id": "c08s03",
+      "kind": "concept",
+      "title": "A therapy model guides a treatment.",
+      "points": [
+        "Psychotherapy: structured psychological treatment delivered within an appropriate professional relationship",
+        "Therapeutic alliance: collaborative working relationship in treatment",
+        "Treatment model: account guiding a method and its targets"
+      ],
+      "text": "Psychotherapy: structured psychological treatment delivered within an appropriate professional relationship. Therapeutic alliance: collaborative working relationship in treatment. Treatment model: account guiding a method and its targets.\n\nTherapies differ in their proposed processes and methods. They also depend on collaboration, appropriate skills and a clear plan.\n\nA rationale explains why a treatment might help. It is distinct from evidence that the treatment helps a defined population with acceptable burdens and risks.",
+      "stage": "Explanation",
+      "visual": "c08s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Compare treatment approaches and separate theoretical rationale from evidence for a specified use."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Therapy research must specify the treatment, population, comparison and outcome. Average results do not establish one best method for every person.\n\nThe course explains treatment concepts without delivering therapy, certifying practitioners or recommending an individual treatment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A persuasive model is not sufficient efficacy evidence."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Types of treatment",
+            "url": "https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c08s03b",
+      "kind": "concept",
+      "title": "Approaches emphasize different processes.",
+      "points": [
+        "Cognitive behavioural approach: examines relevant patterns of thought, action and experience",
+        "Psychodynamic approach: examines recurring emotional and relational patterns",
+        "Humanistic approach: emphasizes subjective experience, relationship and personal meaning"
+      ],
+      "text": "Cognitive behavioural approach: examines relevant patterns of thought, action and experience. Psychodynamic approach: examines recurring emotional and relational patterns. Humanistic approach: emphasizes subjective experience, relationship and personal meaning.\n\nThese broad traditions include diverse methods, and real practice can integrate elements. Condition-specific evidence and professional competence matter more than a simple label.\n\nDo not assume that every method under one umbrella is equally supported. Ask about the actual procedure and intended outcome.",
+      "stage": "Explanation",
+      "visual": "c08s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Compare treatment approaches and separate theoretical rationale from evidence for a specified use."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Therapy research must specify the treatment, population, comparison and outcome. Average results do not establish one best method for every person.\n\nThe course explains treatment concepts without delivering therapy, certifying practitioners or recommending an individual treatment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A broad school name does not specify one uniform intervention."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Types of treatment",
+            "url": "https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c08s04",
+      "kind": "concept",
+      "title": "Care should be informed and reviewable.",
+      "points": [
+        "Treatment fidelity: delivery consistent with the intended method",
+        "Adverse effect: unwanted or harmful effect",
+        "Outcome monitoring: reviewing change relevant to the care goal"
+      ],
+      "text": "Treatment fidelity: delivery consistent with the intended method. Adverse effect: unwanted or harmful effect. Outcome monitoring: reviewing change relevant to the care goal.\n\nAsk about expected benefits, alternatives, qualifications, privacy, costs and unwanted effects. A useful plan includes review and the option to raise concerns.\n\nA difficult session is not automatically harm, but persistent deterioration should not be dismissed as proof the therapy is working. Professional care should respond to evidence and the person’s experience.",
+      "stage": "Explanation",
+      "visual": "c08s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Compare treatment approaches and separate theoretical rationale from evidence for a specified use."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Therapy research must specify the treatment, population, comparison and outcome. Average results do not establish one best method for every person.\n\nThe course explains treatment concepts without delivering therapy, certifying practitioners or recommending an individual treatment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The relationship supports an evidence-informed, revisable plan."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Types of treatment",
+            "url": "https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c08s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Therapy research must specify the treatment, population, comparison and outcome. Average results do not establish one best method for every person.\n\nThe course explains treatment concepts without delivering therapy, certifying practitioners or recommending an individual treatment.",
+      "stage": "Evidence check",
+      "visual": "c08s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Compare treatment approaches and separate theoretical rationale from evidence for a specified use."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Therapy research must specify the treatment, population, comparison and outcome. Average results do not establish one best method for every person.\n\nThe course explains treatment concepts without delivering therapy, certifying practitioners or recommending an individual treatment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Treatment choices require more specificity than a school or slogan."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Types of treatment",
+            "url": "https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    }
+  ],
+  "9": [
+    {
+      "id": "c09s03",
+      "kind": "concept",
+      "title": "Randomization supports a specific inference.",
+      "points": [
+        "Randomized controlled trial: study assigning participants by chance to comparison conditions",
+        "Placebo effect: change related to treatment context rather than a specific active component",
+        "Blinding: limiting knowledge of allocation where feasible"
+      ],
+      "text": "Randomized controlled trial: study assigning participants by chance to comparison conditions. Placebo effect: change related to treatment context rather than a specific active component. Blinding: limiting knowledge of allocation where feasible.\n\nRandom allocation helps reduce baseline differences between groups. Suitable comparisons examine the added effect of the tested treatment under the study conditions.\n\nMasking can be difficult in psychotherapy, and comparison quality matters. Improvement in both groups can reflect time, support, expectations and other factors.",
+      "stage": "Explanation",
+      "visual": "c09s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Interpret average treatment effects using comparison groups, absolute outcomes, uncertainty and harms."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Clinical evidence depends on sample selection, attrition, outcome reporting, comparator and duration. Statistical significance alone does not establish a worthwhile benefit.\n\nGuidelines synthesize evidence and clinical judgment for defined uses. Neither a trial nor this lesson provides an individual prescription."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Randomization strengthens a bounded causal inference, not a universal guarantee."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Treatment modalities",
+            "url": "https://openstax.org/books/psychology-2e/pages/16-3-treatment-modalities",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c09s03b",
+      "kind": "concept",
+      "title": "Absolute outcomes make the claim interpretable.",
+      "points": [
+        "Absolute difference: difference in outcome rates between groups",
+        "Relative effect: effect expressed relative to a comparison rate",
+        "Uncertainty interval: range reflecting estimation uncertainty under a method"
+      ],
+      "text": "Absolute difference: difference in outcome rates between groups. Relative effect: effect expressed relative to a comparison rate. Uncertainty interval: range reflecting estimation uncertainty under a method.\n\nIn an invented example, recovery is twenty in a hundred with one condition and forty in a hundred with another. That doubles the rate and adds twenty recoveries per hundred.\n\nThe definition, time window and uncertainty still matter. A group average cannot predict exactly what one person will experience.",
+      "stage": "Explanation",
+      "visual": "c09s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Interpret average treatment effects using comparison groups, absolute outcomes, uncertainty and harms."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Clinical evidence depends on sample selection, attrition, outcome reporting, comparator and duration. Statistical significance alone does not establish a worthwhile benefit.\n\nGuidelines synthesize evidence and clinical judgment for defined uses. Neither a trial nor this lesson provides an individual prescription."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The absolute difference is twenty percentage points; these are not clinical trial data."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Treatment modalities",
+            "url": "https://openstax.org/books/psychology-2e/pages/16-3-treatment-modalities",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c09s04",
+      "kind": "concept",
+      "title": "Benefits and harms need the same attention.",
+      "points": [
+        "Side effect: unintended effect associated with a treatment",
+        "Withdrawal effect: symptoms associated with reducing or stopping a substance",
+        "Shared decision making: combining evidence, expertise and informed preferences"
+      ],
+      "text": "Side effect: unintended effect associated with a treatment. Withdrawal effect: symptoms associated with reducing or stopping a substance. Shared decision making: combining evidence, expertise and informed preferences.\n\nMedication effects depend on condition, agent, dose, health and other treatment. Review benefits, interactions, burdens and unwanted effects with qualified care.\n\nDo not start, stop or change medication from a course or headline. Averages inform a conversation; they do not substitute for an individual plan and monitoring.",
+      "stage": "Explanation",
+      "visual": "c09s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Interpret average treatment effects using comparison groups, absolute outcomes, uncertainty and harms."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Clinical evidence depends on sample selection, attrition, outcome reporting, comparator and duration. Statistical significance alone does not establish a worthwhile benefit.\n\nGuidelines synthesize evidence and clinical judgment for defined uses. Neither a trial nor this lesson provides an individual prescription."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A treatment decision weighs evidence and individual circumstances."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Treatment modalities",
+            "url": "https://openstax.org/books/psychology-2e/pages/16-3-treatment-modalities",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c09s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Clinical evidence depends on sample selection, attrition, outcome reporting, comparator and duration. Statistical significance alone does not establish a worthwhile benefit.\n\nGuidelines synthesize evidence and clinical judgment for defined uses. Neither a trial nor this lesson provides an individual prescription.",
+      "stage": "Evidence check",
+      "visual": "c09s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Interpret average treatment effects using comparison groups, absolute outcomes, uncertainty and harms."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Clinical evidence depends on sample selection, attrition, outcome reporting, comparator and duration. Statistical significance alone does not establish a worthwhile benefit.\n\nGuidelines synthesize evidence and clinical judgment for defined uses. Neither a trial nor this lesson provides an individual prescription."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A reported average benefit is not an individual prescription."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Treatment modalities",
+            "url": "https://openstax.org/books/psychology-2e/pages/16-3-treatment-modalities",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    }
+  ],
+  "10": [
+    {
+      "id": "c10s03",
+      "kind": "concept",
+      "title": "A care route should match the concern.",
+      "points": [
+        "Care navigation: finding appropriate information and services",
+        "Stepped care: matching and reviewing support intensity according to need",
+        "Accessibility: whether suitable care can actually be reached and used"
+      ],
+      "text": "Care navigation: finding appropriate information and services. Stepped care: matching and reviewing support intensity according to need. Accessibility: whether suitable care can actually be reached and used.\n\nA primary-care professional or qualified mental-health service can help assess concerns and discuss options. Local pathways differ, and cost, language and waiting times affect access.\n\nFor immediate danger, use local emergency or urgent crisis services. Routine educational content is not an urgent-response service.",
+      "stage": "Explanation",
+      "visual": "c10s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Build a proportionate response that combines evidence, preferences, access and appropriate professional boundaries."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Credible mental-health education distinguishes classification, formulation, treatment evidence and individual care. No course can guarantee recovery or replace professional assessment.\n\nThe final case checks reasoning on a fictional scenario. It is not a clinical competency assessment or a validated screening instrument."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Urgent safety concerns need local urgent services rather than a course response."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Mental health treatment past and present",
+            "url": "https://openstax.org/books/psychology-2e/pages/16-1-mental-health-treatment-past-and-present",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c10s03b",
+      "kind": "concept",
+      "title": "Prepare questions without self-diagnosing.",
+      "points": [
+        "Informed choice: decision based on relevant benefits, risks and alternatives",
+        "Confidentiality: appropriate protection of personal information",
+        "Consent: freely given agreement based on sufficient information"
+      ],
+      "text": "Informed choice: decision based on relevant benefits, risks and alternatives. Confidentiality: appropriate protection of personal information. Consent: freely given agreement based on sufficient information.\n\nA person can note what has changed, how daily life is affected and what they want help with. They can ask about qualifications, privacy, options, evidence and follow-up.\n\nThere is no need to fit a preferred diagnosis before seeking support. People should not be pressured to disclose private histories in a learning setting.",
+      "stage": "Explanation",
+      "visual": "c10s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Build a proportionate response that combines evidence, preferences, access and appropriate professional boundaries."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Credible mental-health education distinguishes classification, formulation, treatment evidence and individual care. No course can guarantee recovery or replace professional assessment.\n\nThe final case checks reasoning on a fictional scenario. It is not a clinical competency assessment or a validated screening instrument."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Preparing a conversation is different from diagnosing or prescribing."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Mental health treatment past and present",
+            "url": "https://openstax.org/books/psychology-2e/pages/16-1-mental-health-treatment-past-and-present",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c10s04",
+      "kind": "concept",
+      "title": "Keep the explanation revisable.",
+      "points": [
+        "Biopsychosocial formulation: account considering biological, psychological and social influences",
+        "Recovery-oriented approach: support focused on meaningful life and the person’s goals",
+        "Professional boundary: limit protecting appropriate scope and roles"
+      ],
+      "text": "Biopsychosocial formulation: account considering biological, psychological and social influences. Recovery-oriented approach: support focused on meaningful life and the person’s goals. Professional boundary: limit protecting appropriate scope and roles.\n\nA useful clinical explanation connects a pattern, plausible processes, context and appropriate support. It remains open to alternative information and changing preferences.\n\nUse the course to read evidence and communicate more carefully. It does not qualify anyone to diagnose, assess risk or deliver treatment.",
+      "stage": "Explanation",
+      "visual": "c10s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Build a proportionate response that combines evidence, preferences, access and appropriate professional boundaries."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Credible mental-health education distinguishes classification, formulation, treatment evidence and individual care. No course can guarantee recovery or replace professional assessment.\n\nThe final case checks reasoning on a fictional scenario. It is not a clinical competency assessment or a validated screening instrument."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Clinical understanding supports humane decisions within appropriate boundaries."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Mental health treatment past and present",
+            "url": "https://openstax.org/books/psychology-2e/pages/16-1-mental-health-treatment-past-and-present",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c10s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Credible mental-health education distinguishes classification, formulation, treatment evidence and individual care. No course can guarantee recovery or replace professional assessment.\n\nThe final case checks reasoning on a fictional scenario. It is not a clinical competency assessment or a validated screening instrument.",
+      "stage": "Evidence check",
+      "visual": "c10s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Build a proportionate response that combines evidence, preferences, access and appropriate professional boundaries."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Credible mental-health education distinguishes classification, formulation, treatment evidence and individual care. No course can guarantee recovery or replace professional assessment.\n\nThe final case checks reasoning on a fictional scenario. It is not a clinical competency assessment or a validated screening instrument."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. An informed next step is a legitimate educational outcome."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Mental health treatment past and present",
+            "url": "https://openstax.org/books/psychology-2e/pages/16-1-mental-health-treatment-past-and-present",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "NICE NG197: Shared decision making",
+            "url": "https://www.nice.org.uk/guidance/ng197",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          },
+          {
+            "title": "NICE NG222: Depression in adults: treatment and management",
+            "url": "https://www.nice.org.uk/guidance/ng222",
+            "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+          }
+        ]
+      }
+    }
+  ]
+}

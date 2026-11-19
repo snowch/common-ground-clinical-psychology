@@ -1,0 +1,112 @@
+{
+  "1": {
+    "Clinical psychology": "Study, assessment and psychological care of mental health difficulties.",
+    "Distress": "Unpleasant psychological experience.",
+    "Impairment": "Difficulty in important areas of functioning.",
+    "Diagnosis": "Classification based on clinical assessment and criteria.",
+    "Symptom": "Reported experience or observed feature relevant to assessment.",
+    "Differential assessment": "Considering alternative explanations.",
+    "Support": "Practical or relational help matched to need.",
+    "Stigma": "Discrediting stereotypes or treatment of people.",
+    "Person-centred care": "Care attentive to individual needs and preferences."
+  },
+  "2": {
+    "Diagnostic classification": "System for grouping clinically relevant patterns.",
+    "ICD": "World Health Organization classification of diseases.",
+    "DSM": "American Psychiatric Association diagnostic manual.",
+    "Dimensional approach": "Describing features along degrees or continua.",
+    "Severity": "Degree of a defined difficulty.",
+    "Comorbidity": "Co-occurrence of conditions or diagnoses.",
+    "Diagnostic reliability": "Consistency of classification across suitable assessments.",
+    "Diagnostic validity": "Support for the meaning and use of a category.",
+    "Cultural formulation": "Understanding concerns in relevant cultural contexts."
+  },
+  "3": {
+    "Screening": "Identifying possible concerns for further assessment.",
+    "Sensitivity": "Proportion of cases detected by a test.",
+    "Specificity": "Proportion of non-cases correctly identified.",
+    "Clinical interview": "Structured or guided professional inquiry.",
+    "Psychometric measure": "Standardized instrument measuring a defined construct.",
+    "Clinical history": "Relevant course, context and prior care.",
+    "Formulation": "An individualized account of difficulties and possible maintaining factors.",
+    "Predisposing factor": "Earlier condition that may increase vulnerability.",
+    "Maintaining factor": "Process that may sustain a difficulty."
+  },
+  "4": {
+    "Fear": "Response to an immediate perceived threat.",
+    "Anxiety": "Anticipation of possible threat or uncertainty.",
+    "Clinical significance": "Importance of a pattern for distress or functioning.",
+    "Avoidance": "Action preventing contact with an anticipated difficulty.",
+    "Negative reinforcement": "Removal or prevention that increases an action.",
+    "Safety behaviour": "Action intended to prevent a feared outcome.",
+    "Cognitive behavioural therapy": "Psychological therapy examining relevant thoughts, actions and experiences.",
+    "Exposure-based treatment": "Planned contact with feared cues within an appropriate clinical treatment.",
+    "Shared decision": "Care choice informed by evidence and preferences."
+  },
+  "5": {
+    "Low mood": "An unpleasant emotional state.",
+    "Anhedonia": "Reduced interest or pleasure.",
+    "Depressive syndrome": "A clinically assessed pattern of mood and related difficulties.",
+    "Withdrawal": "Reduced engagement in activities or relationships.",
+    "Reinforcement opportunity": "Chance for an action to have a valued consequence.",
+    "Bidirectional relation": "Influences can operate in both directions.",
+    "Behavioural activation": "Structured psychological treatment addressing activity patterns.",
+    "Treatment preference": "The person’s informed view of available options.",
+    "Monitoring": "Reviewing benefit, burden and changes over time."
+  },
+  "6": {
+    "Traumatic event": "Event involving serious threat or harm as defined in a clinical context.",
+    "Post-traumatic stress": "Stress responses following trauma exposure.",
+    "Resilience": "Adaptation in the face of adversity, defined for an outcome and context.",
+    "Intrusion": "Unwanted re-experiencing of aspects of an event.",
+    "Trauma reminder": "Cue associated with a prior traumatic experience.",
+    "Hyperarousal": "Heightened activation relevant to a clinical pattern.",
+    "Trauma-informed approach": "Support emphasizing safety, choice and avoidance of retraumatization.",
+    "Disclosure": "Sharing personal information.",
+    "Trauma-focused treatment": "Professional treatment addressing trauma-related difficulties."
+  },
+  "7": {
+    "Psychosis": "A clinical domain involving altered experiences such as hallucinations or delusions.",
+    "Hallucination": "Perception-like experience without a corresponding external stimulus.",
+    "Delusion": "A belief assessed clinically as fixed and not appropriately explained by context.",
+    "Mania": "Clinically assessed episode of marked activation and mood change.",
+    "Hypomania": "A distinct elevated or activated episode meeting specified clinical criteria.",
+    "Episode": "A sustained pattern with a defined course.",
+    "Stigma": "Discrediting stereotypes attached to a condition.",
+    "Care pathway": "Route to appropriate assessment and support.",
+    "Recovery": "A personal process involving meaningful life and support."
+  },
+  "8": {
+    "Psychotherapy": "Structured psychological treatment delivered within an appropriate professional relationship.",
+    "Therapeutic alliance": "Collaborative working relationship in treatment.",
+    "Treatment model": "Account guiding a method and its targets.",
+    "Cognitive behavioural approach": "Examines relevant patterns of thought, action and experience.",
+    "Psychodynamic approach": "Examines recurring emotional and relational patterns.",
+    "Humanistic approach": "Emphasizes subjective experience, relationship and personal meaning.",
+    "Treatment fidelity": "Delivery consistent with the intended method.",
+    "Adverse effect": "Unwanted or harmful effect.",
+    "Outcome monitoring": "Reviewing change relevant to the care goal."
+  },
+  "9": {
+    "Randomized controlled trial": "Study assigning participants by chance to comparison conditions.",
+    "Placebo effect": "Change related to treatment context rather than a specific active component.",
+    "Blinding": "Limiting knowledge of allocation where feasible.",
+    "Absolute difference": "Difference in outcome rates between groups.",
+    "Relative effect": "Effect expressed relative to a comparison rate.",
+    "Uncertainty interval": "Range reflecting estimation uncertainty under a method.",
+    "Side effect": "Unintended effect associated with a treatment.",
+    "Withdrawal effect": "Symptoms associated with reducing or stopping a substance.",
+    "Shared decision making": "Combining evidence, expertise and informed preferences."
+  },
+  "10": {
+    "Care navigation": "Finding appropriate information and services.",
+    "Stepped care": "Matching and reviewing support intensity according to need.",
+    "Accessibility": "Whether suitable care can actually be reached and used.",
+    "Informed choice": "Decision based on relevant benefits, risks and alternatives.",
+    "Confidentiality": "Appropriate protection of personal information.",
+    "Consent": "Freely given agreement based on sufficient information.",
+    "Biopsychosocial formulation": "Account considering biological, psychological and social influences.",
+    "Recovery-oriented approach": "Support focused on meaningful life and the person’s goals.",
+    "Professional boundary": "Limit protecting appropriate scope and roles."
+  }
+}

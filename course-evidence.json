@@ -1,0 +1,207 @@
+{
+  "1": {
+    "claims": [
+      "Distinguish distress, impairment and diagnosis, and identify a proportionate support response."
+    ],
+    "note": "Classification helps communication and care when used with trained assessment. It does not divide all ordinary distress from disorder with one simple behavioural rule.\n\nThe fictional examples are educational and cannot diagnose, rule out a condition or substitute for professional care.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: What are psychological disorders",
+        "url": "https://openstax.org/books/psychology-2e/pages/15-1-what-are-psychological-disorders",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "NICE NG197: Shared decision making",
+        "url": "https://www.nice.org.uk/guidance/ng197",
+        "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+      }
+    ]
+  },
+  "2": {
+    "claims": [
+      "Explain what diagnostic categories organize and why dimensions and context still matter."
+    ],
+    "note": "ICD and DSM are evolving professional classification systems. They organize evidence and communication but have boundary, overlap and cultural interpretation issues.\n\nThe course does not reproduce a diagnostic checklist or establish competence to apply criteria.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Diagnosing and classifying psychological disorders",
+        "url": "https://openstax.org/books/psychology-2e/pages/15-2-diagnosing-and-classifying-psychological-disorders",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "WHO ICD-11: International Classification of Diseases",
+        "url": "https://icd.who.int/browse/2026-01/mms/en",
+        "kind": "Official classification; diagnostic use requires appropriate training and clinical assessment."
+      }
+    ]
+  },
+  "3": {
+    "claims": [
+      "Distinguish a screening score, clinical assessment and a revisable formulation."
+    ],
+    "note": "Validated screening tools can support care pathways, but accuracy depends on threshold and population. Predictive values change with prevalence.\n\nFormulation can guide questions and care, but a plausible narrative needs evidence and collaboration. The course does not authorize informal assessment of others.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Diagnosing and classifying psychological disorders",
+        "url": "https://openstax.org/books/psychology-2e/pages/15-2-diagnosing-and-classifying-psychological-disorders",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "NICE NG197: Shared decision making",
+        "url": "https://www.nice.org.uk/guidance/ng197",
+        "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+      },
+      {
+        "title": "NICE NG222: Depression in adults: treatment and management",
+        "url": "https://www.nice.org.uk/guidance/ng222",
+        "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+      }
+    ]
+  },
+  "4": {
+    "claims": [
+      "Explain how threat and avoidance may interact without diagnosing from ordinary worry."
+    ],
+    "note": "NICE guidance distinguishes assessed anxiety conditions and specifies care options. Evidence from a treatment trial does not diagnose someone with everyday worry.\n\nThe café story is conceptual. Do not conduct self-directed exposure, remove another person’s coping support or change medication based on this lesson.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Anxiety disorders",
+        "url": "https://openstax.org/books/psychology-2e/pages/15-4-anxiety-disorders",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "NICE CG113: Generalised anxiety disorder and panic disorder in adults: management",
+        "url": "https://www.nice.org.uk/guidance/cg113",
+        "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+      }
+    ]
+  },
+  "5": {
+    "claims": [
+      "Distinguish a depressive syndrome from one low mood and explain why assessment and support matter."
+    ],
+    "note": "Depression guidance evaluates treatments for defined populations and outcomes. Average benefit does not establish the best option for every individual.\n\nA biological or psychological model is not a complete explanation of every case. This course is neither diagnosis nor a self-treatment programme.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Mood disorders",
+        "url": "https://openstax.org/books/psychology-2e/pages/15-7-mood-disorders",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "NICE NG222: Depression in adults: treatment and management",
+        "url": "https://www.nice.org.uk/guidance/ng222",
+        "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+      }
+    ]
+  },
+  "6": {
+    "claims": [
+      "Explain why trauma responses vary and why supportive care should not force disclosure."
+    ],
+    "note": "Clinical guidelines distinguish trauma exposure, assessed symptoms and treatment indications. Responses and trajectories vary; a single behaviour is not diagnostic.\n\nThe course includes no trauma recall, exposure or debriefing exercise. Do not ask learners to disclose or relive personal events.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Posttraumatic stress disorder",
+        "url": "https://openstax.org/books/psychology-2e/pages/15-6-posttraumatic-stress-disorder",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "NICE NG116: Post-traumatic stress disorder",
+        "url": "https://www.nice.org.uk/guidance/ng116",
+        "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+      }
+    ]
+  },
+  "7": {
+    "claims": [
+      "Distinguish broad symptom domains from diagnoses and avoid stereotypes about danger or identity."
+    ],
+    "note": "Psychosis and bipolar guidelines specify assessment, treatment and support for defined patterns. Symptom domains can overlap and need clinical interpretation.\n\nThis lesson is not a checklist, a risk assessment or advice to start or stop medication.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Schizophrenia",
+        "url": "https://openstax.org/books/psychology-2e/pages/15-8-schizophrenia",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "NICE CG178: Psychosis and schizophrenia in adults: prevention and management",
+        "url": "https://www.nice.org.uk/guidance/cg178",
+        "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+      },
+      {
+        "title": "NICE CG185: Bipolar disorder: assessment and management",
+        "url": "https://www.nice.org.uk/guidance/cg185",
+        "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+      }
+    ]
+  },
+  "8": {
+    "claims": [
+      "Compare treatment approaches and separate theoretical rationale from evidence for a specified use."
+    ],
+    "note": "Therapy research must specify the treatment, population, comparison and outcome. Average results do not establish one best method for every person.\n\nThe course explains treatment concepts without delivering therapy, certifying practitioners or recommending an individual treatment.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Types of treatment",
+        "url": "https://openstax.org/books/psychology-2e/pages/16-2-types-of-treatment",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "NICE NG222: Depression in adults: treatment and management",
+        "url": "https://www.nice.org.uk/guidance/ng222",
+        "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+      },
+      {
+        "title": "NICE NG197: Shared decision making",
+        "url": "https://www.nice.org.uk/guidance/ng197",
+        "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+      }
+    ]
+  },
+  "9": {
+    "claims": [
+      "Interpret average treatment effects using comparison groups, absolute outcomes, uncertainty and harms."
+    ],
+    "note": "Clinical evidence depends on sample selection, attrition, outcome reporting, comparator and duration. Statistical significance alone does not establish a worthwhile benefit.\n\nGuidelines synthesize evidence and clinical judgment for defined uses. Neither a trial nor this lesson provides an individual prescription.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Treatment modalities",
+        "url": "https://openstax.org/books/psychology-2e/pages/16-3-treatment-modalities",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "NICE NG222: Depression in adults: treatment and management",
+        "url": "https://www.nice.org.uk/guidance/ng222",
+        "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+      },
+      {
+        "title": "NICE NG197: Shared decision making",
+        "url": "https://www.nice.org.uk/guidance/ng197",
+        "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+      }
+    ]
+  },
+  "10": {
+    "claims": [
+      "Build a proportionate response that combines evidence, preferences, access and appropriate professional boundaries."
+    ],
+    "note": "Credible mental-health education distinguishes classification, formulation, treatment evidence and individual care. No course can guarantee recovery or replace professional assessment.\n\nThe final case checks reasoning on a fictional scenario. It is not a clinical competency assessment or a validated screening instrument.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Mental health treatment past and present",
+        "url": "https://openstax.org/books/psychology-2e/pages/16-1-mental-health-treatment-past-and-present",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "NICE NG197: Shared decision making",
+        "url": "https://www.nice.org.uk/guidance/ng197",
+        "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+      },
+      {
+        "title": "NICE NG222: Depression in adults: treatment and management",
+        "url": "https://www.nice.org.uk/guidance/ng222",
+        "kind": "Evidence-based professional guideline; recommendations require individual clinical judgment and local context."
+      }
+    ]
+  }
+}
